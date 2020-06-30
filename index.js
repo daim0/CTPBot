@@ -117,4 +117,4 @@ else return message.channel.send("Only administrators can use this command");
 });
 
 // Login to discord true hackerman style :sugnlasses.
-client.login(token);
+client.login(process.env.token);
