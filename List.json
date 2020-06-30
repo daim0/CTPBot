@@ -1,0 +1,18 @@
+[
+    {
+      "Name": "Dirt",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_2",
+          "Type": "Item",
+          "Sprited": true
+         },
+         {
+            "FileName": "Tiles_477",
+            "Type": "Tile",
+            "Sprited": true
+         }
+      ]
+    }
+]
