@@ -9,10 +9,325 @@
           "Sprited": true
          },
          {
-            "FileName": "Tiles_477",
+            "FileName": "Tiles_0",
             "Type": "Tile",
             "Sprited": true
          }
+      ]
+    },
+
+    {
+      "Name": "Stone",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_3",
+          "Type": "Item",
+          "Sprited": true
+         },
+         {
+            "FileName": "Tiles_1",
+            "Type": "Tile",
+            "Sprited": true
+         }
+      ]
+    },
+
+    {
+      "Name": "Iron Sword",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_4",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Mushroom",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_5",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_110",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+      
+    {
+      "Name": "Iron Shortsword",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_6",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Iron Hammer",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_7",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Torch",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_8",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_4",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Wood",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_9",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_5",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Iron Axe",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_10",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Iron ore",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_11",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_6",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Copper ore",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_12",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_7",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Gold ore",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_13",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_8",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Silver ore",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_14",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_9",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Copper Watch",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_15",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Acc_Waist_2",
+           "Type": "Sheet",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Silver Watch",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_16",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Acc_Waist_4",
+           "Type": "Sheet",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Gold Watch",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_9",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Acc_Waist_3",
+           "Type": "Sheet",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Depth Meter",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_18",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Gold Bar",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_19",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_239",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Copper bar",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_20",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_239",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Silver bar",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_21",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_239",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Iron bar",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_22",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_239",
+           "Type": "Tile",
+           "Sprited": true
+        }
       ]
     }
 ]
