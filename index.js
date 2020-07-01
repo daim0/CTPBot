@@ -5,7 +5,6 @@ const client = new Discord.Client();
 const fileName = './List.json';
 const { prefix, token } = require('./config.json');
 const fs = require('fs');
-const { isRegExp } = require('util');
 const spriteList = require(fileName);
 const thingy = " | ";
 
@@ -103,25 +102,22 @@ client.on('message', message => {
             {
                 if(args[2] == 'true' || args[2] == 'false')
                 {
-                    if((args[1]-1) <= spriteList[i].Sprites.length)
-                    {
                     // Iterate through every variable in the list.
-                        for(var i = 0; i < spriteList.length; i++)
+                    for(var i = 0; i < spriteList.length; i++)
+                    {
+                        if(args[0] === spriteList[i].Name)
                         {
-                            if(args[0] === spriteList[i].Name)
-                            {   
                             // Override the variables.
-                            if(args[1] <= spriteList[i].Sprites.length)
+                            if((args[1]) <= (spriteList[i].Sprites.length + 1))
                             {
                                 spriteList[i].Sprites[args[1] - 1].Sprited = args[2] == 'true' ? true : false;
-                                // Write to the json file, this was pain.
+                                                            // Write to the json file, this was pain.
                                 fs.writeFile(fileName, JSON.stringify(spriteList, null, 2), function writeJSON(err) {
                                 if (err) return console.log(err);
                                 console.log('writing to ' + fileName);
                               });
                               return message.channel.send('Edit made succesfully.');
-                            }
-                            else return message.channel.send(`The argument inputted (${args[1]}) is bigger than the ammount of sprites(${spriteList[i].Sprites.length + 1})`)
+                            } else return message.channel.send(`The argument inputted (${args[1]}) is bigger than the ammount of sprites(${(spriteList[i].Sprites.length + 1)})`)
                         }
                     }
                     return message.channel.send(`Invalid Sprite ID (${args[0]}), ${message.author}`);
