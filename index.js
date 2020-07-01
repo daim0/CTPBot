@@ -120,9 +120,17 @@ client.on('message', message => {
         return message.channel.send("```" +
          "List of commands:\n" +
          "!help: displays a list of commands.\n" + 
-         "!info: displays info on a sprite, usage: !info SpriteName\n" + 
-         "!edit: administrator command, modifies the info on a sprite, usage: !edit textureNumber true/false\n" + 
+         "!info: displays info on a sprite, usage: !info SpriteName.\n" + 
+         "!edit: administrator command, modifies the info on a sprite, usage: !edit textureNumber true/false.\n" + 
          "!status: checks if the bot is on." + "```");
+    }
+    else if(command === 'botinfo')
+    {
+        return message.channel.send("```" + 
+        "CTP Bot:\n" +
+        "Current version: 0.1.0\n" + 
+        "If you come across any errors notify daimgamer#6490 on discord." +
+        "```");
     }
 });
 
