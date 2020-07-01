@@ -66,8 +66,8 @@ client.on('message', message => {
     // status command.
     else if(command === 'status')
     {
-        var yourping = new Date().getTime() - message.createdTimestamp
-        var botping = Math.round(bot.ws.ping)
+        var yourping = new Date().getTime() - message.createdTimestamp;
+        var botping = Math.round(client.ping);
 
         return message.channel.send("```" + 
         'Bot is currently on.\n' + 
