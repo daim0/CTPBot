@@ -189,8 +189,10 @@ client.on('message', message => {
               notSprited.push(spriteList[i])
             }
         }
-
+        console.log(notSprited)
         let index = Math.floor(Math.random() * notSprited.length)
+        console.log(notSprited[index])
+        
         var m = "";
         for(var j = 0; j < notSprited[index].Sprites.length; j++)
         {
