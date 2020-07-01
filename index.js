@@ -138,14 +138,17 @@ client.on('message', message => {
          "!edit: administrator command, modifies the info on a sprite, usage: !edit textureNumber true/false.\n" + 
          "!status: checks if the bot is on.\n" + 
          "!botinfo: displays basic bot info.\n" +
-         "!uptime: displays the uptime of the bot." + "```");
+         "!uptime: displays the uptime of the bot." + 
+         "!random: displays a random sprite." + 
+         "!task: displays a random sprite that has not been finished" + 
+         "```");
     }
     // Botinfo command.
     else if(command === 'botinfo')
     {
         return message.channel.send("```" + 
         "CTP Bot:\n" +
-        "Current version: 0.1.2.\n" + 
+        "Current version: 0.2.0\n" + 
         "Bot github: https://github.com/daim0/CTPBot\n" +
         "If you come across any errors notify daimgamer#6490 on discord." +
         "```");
