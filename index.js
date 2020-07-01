@@ -66,7 +66,10 @@ client.on('message', message => {
     // status command.
     else if(command === 'status')
     {
-        return message.channel.send('Bot is currently on.');
+        return message.channel.send("```" + 
+        'Bot is currently on.\n' + 
+        `Latency: ${m.createdTimestamp - message.createdTimestamp}ms.\n` + 
+        `API Latency: ${Math.round(client.ping)}ms.` + "```");
     }
 
     // Modify list command.
@@ -128,7 +131,7 @@ client.on('message', message => {
     {
         return message.channel.send("```" + 
         "CTP Bot:\n" +
-        "Current version: 0.1.0\n" + 
+        "Current version: 0.1.0.\n" + 
         "If you come across any errors notify daimgamer#6490 on discord." +
         "```");
     }
