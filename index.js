@@ -138,8 +138,8 @@ client.on('message', message => {
          "!edit: administrator command, modifies the info on a sprite, usage: !edit textureNumber true/false.\n" + 
          "!status: checks if the bot is on.\n" + 
          "!botinfo: displays basic bot info.\n" +
-         "!uptime: displays the uptime of the bot." + 
-         "!random: displays a random sprite." + 
+         "!uptime: displays the uptime of the bot.\n" + 
+         "!random: displays a random sprite.\n" + 
          "!task: displays a random sprite that has not been finished" + 
          "```");
     }
