@@ -182,12 +182,35 @@ client.on('message', message => {
     // random not finished command.
     else if(command === 'randomUnfinished')
     {
-        let sArr = []
-        for (let i = 0; i < spriteList.length; i++) {
-           sArr.push(spriteList[i].Sprites.filter(s => !s.Sprited)[0])
+        let notSprited = []
+        for (let i = 0; i < this.spriteList.length; i++) {
+         let tempArr = this.spriteList[i].Sprites.filter(s => !s.Sprited)
+         tempArr.forEach(element => {
+           notSprited.push(element)
+         })
         }
         let index = Math.floor(Math.random() * sArr.length)
-        console.log(sArr[index])
+        var m = "";
+        for(var j = 0; j < notSprited[index].Sprites.length; j++)
+        {
+            m += notSprited[index].Sprites[j].Type + thingy + notSprited[index].Sprites[j].FileName + thingy + 
+            (notSprited[index].Sprites[j].Sprited ? "Sprited.": "Not Sprited.") + "\n";
+        } 
+        return message.channel.send("```" + m + "```");
+
+        // Send images.
+        for(var k = 0; k < spriteList[i].Sprites.length; k++)
+        {
+            if(spriteList[i].Sprites[k].Sprited)
+            {
+                message.channel.send(spriteList[i].Sprites[k].Type, {
+                    files: [
+                        "./Images/" + spriteList[i].Sprites[k].FileName + ".png"
+                    ]
+                });
+            }
+        }
+        return;
     }
 });
 
