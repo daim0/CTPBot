@@ -183,14 +183,14 @@ client.on('message', message => {
     else if(command === 'randomUnfinished')
     {
         let notSprited = []
-        for (let i = 0; i < this.spriteList.length; i++) {
-            let tempArr = this.spriteList[i].Sprites.filter(s => !s.Sprited)
+        for (let i = 0; i < spriteList.length; i++) {
+            let tempArr = spriteList[i].Sprites.filter(s => !s.Sprited)
             if (tempArr.length > 0) {
-              notSprited.push(this.spriteList[i])
+              notSprited.push(spriteList[i])
             }
         }
-          
-        let index = Math.floor(Math.random() * sArr.length)
+
+        let index = Math.floor(Math.random() * notSprited.length)
         var m = "";
         for(var j = 0; j < notSprited[index].Sprites.length; j++)
         {
