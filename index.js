@@ -108,7 +108,7 @@ client.on('message', message => {
                         if(args[0] === spriteList[i].Name)
                         {
                             // Override the variables.
-                            if((parseInt(args[1])-1) <= spriteList[i].Sprites.length)
+                            if(parseInt(args[1]) <= (spriteList[i].Sprites.length + 1))
                             {
                                 spriteList[i].Sprites[args[1] - 1].Sprited = args[2] == 'true' ? true : false;
                                                             // Write to the json file, this was pain.
