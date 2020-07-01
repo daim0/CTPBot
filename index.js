@@ -180,9 +180,39 @@ client.on('message', message => {
         return;
     }
     // random not finished command.
-    else if(command === 'Unfinished')
+    else if(command === 'task')
     {
         message.channel.send("cbt");
+        let notSprited = []
+        for (let i = 0; i < spriteList.length; i++) {
+            let tempArr = spriteList[i].Sprites.filter(s => !s.Sprited)
+            if (tempArr.length > 0) {
+              notSprited.push(spriteList[i])
+            }
+        }
+        console.log(notSprited)
+        let index = Math.floor(Math.random() * notSprited.length)
+        console.log(notSprited[index])
+        var m = "";
+        for(var j = 0; j < notSprited[index].Sprites.length; j++)
+        {
+            m += notSprited[index].Sprites[j].Type + thingy + notSprited[index].Sprites[j].FileName + thingy + 
+            (notSprited[index].Sprites[j].Sprited ? "Sprited.": "Not Sprited.") + "\n";
+        } 
+        return message.channel.send("```" + m + "```");
+
+        // Send images.
+        for(var k = 0; k < spriteList[i].Sprites.length; k++)
+        {
+            if(spriteList[i].Sprites[k].Sprited)
+            {
+                message.channel.send(spriteList[i].Sprites[k].Type, {
+                    files: [
+                        "./Images/" + spriteList[i].Sprites[k].FileName + ".png"
+                    ]
+                });
+            }
+        }
         return;
     }
 });
