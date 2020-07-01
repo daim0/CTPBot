@@ -131,7 +131,7 @@ client.on('message', message => {
     {
         return message.channel.send("```" + 
         "CTP Bot:\n" +
-        "Current version: 0.1.0.\n" + 
+        "Current version: 0.1.1.\n" + 
         "If you come across any errors notify daimgamer#6490 on discord." +
         "```");
     }
