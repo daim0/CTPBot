@@ -182,6 +182,7 @@ client.on('message', message => {
     // random not finished command.
     else if(command === 'randomUnfinished')
     {
+        message.channel.send("cbt");
         let notSprited = []
         for (let i = 0; i < spriteList.length; i++) {
             let tempArr = spriteList[i].Sprites.filter(s => !s.Sprited)
