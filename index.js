@@ -66,8 +66,12 @@ client.on('message', message => {
     // status command.
     else if(command === 'status')
     {
-        return message.channel.send(
-        'Bot is currently on.');
+        const m = await message.channel.send("Ping?");
+
+        return message.channel.send("```" + 
+        'Bot is currently on.\n' + 
+        `Latency: ${m.createdTimestamp - message.createdTimestamp}ms.\n` + 
+        `API Latency: ${Math.round(client.ping)}ms.` + "```");
     }
 
     // Modify list command.
