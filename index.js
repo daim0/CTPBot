@@ -142,6 +142,7 @@ client.on('message', message => {
         return message.channel.send("```" + 
         "CTP Bot:\n" +
         "Current version: 0.1.1.\n" + 
+        "Bot github: https://github.com/daim0/CTPBot" +
         "If you come across any errors notify daimgamer#6490 on discord." +
         "```");
     }
