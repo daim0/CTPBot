@@ -34,7 +34,7 @@
     },
 
     {
-      "Name": "Iron Sword",
+      "Name": "IronSword",
       "Sprites":
       [
         {
@@ -63,7 +63,7 @@
     },
       
     {
-      "Name": "Iron Shortsword",
+      "Name": "IronShortsword",
       "Sprites":
       [
         {
@@ -75,7 +75,7 @@
     },
 
     {
-      "Name": "Iron Hammer",
+      "Name": "IronHammer",
       "Sprites":
       [
         {
@@ -121,7 +121,7 @@
     },
 
     {
-      "Name": "Iron Axe",
+      "Name": "IronAxe",
       "Sprites":
       [
         {
@@ -133,7 +133,7 @@
     },
 
     {
-      "Name": "Iron ore",
+      "Name": "IronOre",
       "Sprites":
       [
         {
@@ -150,7 +150,7 @@
     },
 
     {
-      "Name": "Copper ore",
+      "Name": "CopperOre",
       "Sprites":
       [
         {
@@ -167,7 +167,7 @@
     },
 
     {
-      "Name": "Gold ore",
+      "Name": "GoldOre",
       "Sprites":
       [
         {
@@ -184,7 +184,7 @@
     },
 
     {
-      "Name": "Silver ore",
+      "Name": "SilverOre",
       "Sprites":
       [
         {
@@ -201,7 +201,7 @@
     },
 
     {
-      "Name": "Copper Watch",
+      "Name": "CopperWatch",
       "Sprites":
       [
         {
@@ -218,7 +218,7 @@
     },
 
     {
-      "Name": "Silver Watch",
+      "Name": "SilverWatch",
       "Sprites":
       [
         {
@@ -235,7 +235,7 @@
     },
 
     {
-      "Name": "Gold Watch",
+      "Name": "GoldWatch",
       "Sprites":
       [
         {
@@ -252,7 +252,7 @@
     },
 
     {
-      "Name": "Depth Meter",
+      "Name": "DepthMeter",
       "Sprites":
       [
         {
@@ -264,7 +264,7 @@
     },
 
     {
-      "Name": "Gold Bar",
+      "Name": "GoldBar",
       "Sprites":
       [
         {
@@ -281,7 +281,7 @@
     },
 
     {
-      "Name": "Copper bar",
+      "Name": "CopperBar",
       "Sprites":
       [
         {
@@ -298,7 +298,7 @@
     },
 
     {
-      "Name": "Silver bar",
+      "Name": "SilverBar",
       "Sprites":
       [
         {
@@ -315,7 +315,7 @@
     },
 
     {
-      "Name": "Iron bar",
+      "Name": "IronBar",
       "Sprites":
       [
         {
