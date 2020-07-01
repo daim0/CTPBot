@@ -192,7 +192,7 @@ client.on('message', message => {
         console.log(notSprited)
         let index = Math.floor(Math.random() * notSprited.length)
         console.log(notSprited[index])
-        
+        return;
         var m = "";
         for(var j = 0; j < notSprited[index].Sprites.length; j++)
         {
