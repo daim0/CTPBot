@@ -64,13 +64,13 @@ client.on('message', message => {
         }
     }
     // status command.
-    if(command === 'status')
+    else if(command === 'status')
     {
         return message.channel.send('Bot is currently on.');
     }
 
     // Modify list command.
-    if(command === 'edit')
+    else if(command === 'edit')
     {
         if (message.member.hasPermission("ADMINISTRATOR"))
         {
@@ -114,7 +114,16 @@ client.on('message', message => {
             else return message.channel.send(`The string inputted (${args[1]}) is not a number`);
         }
     }else return message.channel.send("Only administrators can use this command");
-}
+    }
+    else if(command === 'help')
+    {
+        return message.channel.send("```" +
+         "List of commands:\n" +
+         "!help: displays a list of commands.\n" + 
+         "!info: displays info on a sprite, usage: !info SpriteName\n" + 
+         "!edit: administrator command, modifies the info on a sprite, usage: !edit textureNumber true/false\n" + 
+         "!status: checks if the bot is on." + "```");
+    }
 });
 
 // Login to discord true hackerman style :sugnlasses.
