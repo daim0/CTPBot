@@ -148,6 +148,32 @@ client.on('message', message => {
         "If you come across any errors notify daimgamer#6490 on discord." +
         "```");
     }
+    else if(command === 'random')
+    {
+        var n = Math.floor((Math.random() * spriteList.length));
+        // Declare message variable and iterate through each of the sprites.
+        var m = "";
+        for(var j = 0; j < spriteList[n].Sprites.length; j++)
+        {
+            m += spriteList[n].Sprites[j].Type + thingy + spriteList[n].Sprites[j].FileName + thingy + 
+            (spriteList[n].Sprites[j].Sprited ? "Sprited.": "Not Sprited.") + "\n";
+        } 
+        message.channel.send("```" + m + "```");
+
+        // Send images.
+        for(var k = 0; k < spriteList[n].Sprites.length; k++)
+        {
+            if(spriteList[n].Sprites[k].Sprited)
+            {
+                message.channel.send(spriteList[n].Sprites[k].Type, {
+                    files: [
+                        "./Images/" + spriteList[n].Sprites[k].FileName + ".png"
+                    ]
+                });
+            }
+        }
+        return;
+    }
 });
 
 // Login to discord true hackerman style :sugnlasses.
