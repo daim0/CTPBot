@@ -85,7 +85,7 @@ client.on('message', message => {
         }
         else {
             // Check if both the second and third arguments are either true or false.
-            if(args[1] == 'true' || args[1] == 'false')
+            if(isNaN(args[1]))
             {
                 if(args[2] == 'true' || args[2] == 'false')
                 {
@@ -95,21 +95,23 @@ client.on('message', message => {
                         if(args[0] === spriteList[i].Name)
                         {
                             // Override the variables.
-                            spriteList[i].Item = args[1] == 'true' ? true : false;
-                            spriteList[i].Sheet = args[2] == 'true' ? true : false;
-                            // Write to the json file, this was pain.
-                            fs.writeFile(fileName, JSON.stringify(spriteList, null, 2), function writeJSON(err) {
+                            if(args[1] <= spriteList[i].Sprites.length)
+                            {
+                                spriteList[i].Sprites[args[1]].Sprited = args[2] == 'true' ? true : false;
+                                                            // Write to the json file, this was pain.
+                                fs.writeFile(fileName, JSON.stringify(spriteList, null, 2), function writeJSON(err) {
                                 if (err) return console.log(err);
                                 console.log('writing to ' + fileName);
                               });
-                            return message.channel.send('Edit made succesfully.');
+                              return message.channel.send('Edit made succesfully.');
+                            } else return message.channel.send(`The argument inputted (${args[1]}) is bigger than the ammount of sprites(${spriteList[i].Sprites.length})`)
                         }
                     }
                     return message.channel.send(`Invalid Sprite ID (${args[0]}), ${message.author}`);
                 }
                 else return message.channel.send(`The string inputted (${args[2]}) is not true or false`);
             }
-            else return message.channel.send(`The string inputted (${args[1]}) is not true or false`);
+            else return message.channel.send(`The string inputted (${args[1]}) is not a number`);
         }
     }
 }
