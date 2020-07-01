@@ -184,11 +184,12 @@ client.on('message', message => {
     {
         let notSprited = []
         for (let i = 0; i < this.spriteList.length; i++) {
-         let tempArr = this.spriteList[i].Sprites.filter(s => !s.Sprited)
-         tempArr.forEach(element => {
-           notSprited.push(element)
-         })
+            let tempArr = this.spriteList[i].Sprites.filter(s => !s.Sprited)
+            if (tempArr.length > 0) {
+              notSprited.push(this.spriteList[i])
+            }
         }
+          
         let index = Math.floor(Math.random() * sArr.length)
         var m = "";
         for(var j = 0; j < notSprited[index].Sprites.length; j++)
