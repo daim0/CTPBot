@@ -182,70 +182,12 @@ client.on('message', message => {
     // random not finished command.
     else if(command === 'randomUnfinished')
     {
-        // Gen random number between 0 and spriteList.Length
-        // No idea why it has to be so hard, but javascript just likes it this way ig.
-        var n = Math.floor((Math.random() * spriteList.length));
-        for(var i = n; i < spriteList.length; i++)
-        {
-            for(var j = 0; j < spriteList[i].Sprites.length; j++)
-            {
-                if(!spriteList[i].Sprites[j].Sprited)
-                {
-                    var m = "";
-                    for(var k = 0; k < spriteList[i].Sprites.length; k++)
-                    {
-                        m += spriteList[i].Sprites[k].Type + thingy + spriteList[i].Sprites[k].FileName + thingy + 
-                        (spriteList[i].Sprites[k].Sprited ? "Sprited.": "Not Sprited.") + "\n";
-                    } 
-                    message.channel.send("```" + m + "```");
-            
-                    // Send images.
-                    for(var l = 0; l < spriteList[i].Sprites.length; l++)
-                    {
-                        if(spriteList[i].Sprites[l].Sprited)
-                        {
-                            message.channel.send(spriteList[i].Sprites[l].Type, {
-                                files: [
-                                    "./Images/" + spriteList[i].Sprites[l].FileName + ".png"
-                                ]
-                            });
-                        }
-                    }
-                    return;
-                }
-            }
+        let sArr = []
+        for (let i = 0; i < spriteList.length; i++) {
+           sArr.push(spriteList[i].Sprites.filter(s => !s.Sprited)[0])
         }
-        // If no sprite was found reiterate trough the list from the beginning.
-        // This code is a fucking mess.
-        for(var m = 0; m < spriteList.length; m++)
-        {
-            for(var o = 0; o < spriteList[m].Sprites.length; o++)
-            {
-                if(!spriteList[m].Sprites[o].Sprited)
-                {
-                    var me = "";
-                    for(var p = 0; p < spriteList[i].Sprites.length; p++)
-                    {
-                        me += spriteList[m].Sprites[p].Type + thingy + spriteList[m].Sprites[p].FileName + thingy + 
-                        (spriteList[m].Sprites[p].Sprited ? "Sprited.": "Not Sprited.") + "\n";
-                    } 
-                    message.channel.send("```" + me + "```");
-            
-                    // Send images.
-                    for(var s = 0; l < spriteList[s].Sprites.length; s++)
-                    {
-                        if(spriteList[m].Sprites[s].Sprited)
-                        {
-                            message.channel.send(spriteList[m].Sprites[s].Type, {
-                                files: [
-                                    "./Images/" + spriteList[m].Sprites[s].FileName + ".png"
-                                ]
-                            });
-                        }
-                    }
-                }
-            }
-        }
+        let index = Math.floor(Math.random() * sArr.length)
+        console.log(sArr[index])
     }
 });
 

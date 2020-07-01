@@ -212,7 +212,7 @@
         {
            "FileName": "Acc_Waist_2",
            "Type": "Sheet",
-           "Sprited": true
+           "Sprited": false
         }
       ]
     },
@@ -287,7 +287,7 @@
         {
           "FileName": "Item_20",
           "Type": "Item",
-          "Sprited": true
+          "Sprited": false
         },
         {
            "FileName": "Tiles_239",
@@ -304,7 +304,7 @@
         {
           "FileName": "Item_21",
           "Type": "Item",
-          "Sprited": false
+          "Sprited": true
         },
         {
            "FileName": "Tiles_239",
@@ -321,12 +321,12 @@
         {
           "FileName": "Item_22",
           "Type": "Item",
-          "Sprited": false
+          "Sprited": true
         },
         {
            "FileName": "Tiles_239",
            "Type": "Tile",
-           "Sprited": true
+           "Sprited": false
         }
       ]
     }
