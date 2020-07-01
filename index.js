@@ -10,7 +10,7 @@ const thingy = " | ";
 
 // On startup.
 client.once('ready', () => {
-	console.log('Ctp Bot running.\nContact Daim if help is needed.');
+	console.log('Ctp Bot running.\nContact Daim if help is needed.\n Current list length: ' + `${spriteList.length}`);
 });
 
 // Read messages.
@@ -148,7 +148,7 @@ client.on('message', message => {
     {
         return message.channel.send("```" + 
         "CTP Bot:\n" +
-        "Current version: 0.2.0\n" + 
+        "Current version: 0.2.2\n" + 
         "Bot github: https://github.com/daim0/CTPBot\n" +
         "If you come across any errors notify daimgamer#6490 on discord." +
         "```");
