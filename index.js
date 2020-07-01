@@ -102,14 +102,16 @@ client.on('message', message => {
             {
                 if(args[2] == 'true' || args[2] == 'false')
                 {
-                    // Iterate through every variable in the list.
-                    for(var i = 0; i < spriteList.length; i++)
+                    if((args[1]-1) <= spriteList[i].Sprites.length)
                     {
-                        if(args[0] === spriteList[i].Name)
+                    // Iterate through every variable in the list.
+                        for(var i = 0; i < spriteList.length; i++)
                         {
+                            if(args[0] === spriteList[i].Name)
+                            {   
                             // Override the variables.
-                            if((args[1]-1) <= spriteList[i].Sprites.length)
-                            {
+                            
+                            
                                 spriteList[i].Sprites[args[1] - 1].Sprited = args[2] == 'true' ? true : false;
                                                             // Write to the json file, this was pain.
                                 fs.writeFile(fileName, JSON.stringify(spriteList, null, 2), function writeJSON(err) {
@@ -117,18 +119,15 @@ client.on('message', message => {
                                 console.log('writing to ' + fileName);
                               });
                               return message.channel.send('Edit made succesfully.');
-                            }
-                             return message.channel.send(`The argument inputted (${args[1]}) is bigger than the ammount of sprites(${spriteList[i].Sprites.length + 1})`)
-                        }
-                    }
-                    return message.channel.send(`Invalid Sprite ID (${args[0]}), ${message.author}`);
-                }
-                else return message.channel.send(`The string inputted (${args[2]}) is not true or false`);
-            }
-            else return message.channel.send(`The string inputted (${args[1]}) is not a number`);
-        }
-    }else return message.channel.send("Only administrators can use this command");
+                            
+                            } else return message.channel.send(`Invalid Sprite ID (${args[0]}), ${message.author}`);
+                        }    
+                    } else return message.channel.send(`The number inputted(${args[1]}) is bigger than the ammount of sprites(${spriteList[i].Sprites.length})`)
+                }  else return message.channel.send(`The string inputted (${args[2]}) is not true or false`);
+            } else return message.channel.send(`The string inputted (${args[1]}) is not a number`);
     }
+    }else return message.channel.send("Only administrators can use this command");
+}
     // Help command.
     else if(command === 'help')
     {
