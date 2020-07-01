@@ -94,7 +94,7 @@ client.on('message', message => {
         // Check ammount of args.
         else if(args.length < 3)
         {
-            return message.channel.send(`Incorrect sytanx, usage: "!edit Name Item(true/false) Sheet(true/false)"`);
+            return message.channel.send(`Incorrect sytanx, usage: "!edit Name SheetNumber(1,2...) Status(true/false)"`);
         }
         else {
             // Check if both the second and third arguments are either true or false.
