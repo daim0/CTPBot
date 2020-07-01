@@ -98,7 +98,7 @@ client.on('message', message => {
         }
         else {
             // Check if both the second and third arguments are either true or false.
-            if(!isNaN(args[1]))
+            if(!isNaN(args[1]) && parseInt(args[1],10) > 0)
             {
                 if(args[2] == 'true' || args[2] == 'false')
                 {
@@ -110,7 +110,7 @@ client.on('message', message => {
                             // Override the variables.
                             if(parseInt(args[1], 10) > spriteList[i].Sprites.length)
                             {
-                                return message.channel.send(`The argument inputted (${args[1]}) is bigger than the ammount of sprites(${(spriteList[i].Sprites.length + 1)})`)
+                                return message.channel.send(`The argument inputted (${args[1]}) is bigger than the ammount of sprites(${(spriteList[i].Sprites.length)}).`)
                             } 
                             else
                             {
@@ -120,17 +120,17 @@ client.on('message', message => {
                                 if (err) return console.log(err);
                                 console.log('writing to ' + fileName);
                                 });
-                              return message.channel.send('Edit made succesfully.');                                
+                                return message.channel.send(`Editted ${spriteList[i].Name} succesfully.`);                                
                             }
                         }
                     }
-                    return message.channel.send(`Invalid Sprite ID (${args[0]}), ${message.author}`);
+                    return message.channel.send(`Invalid Sprite ID (${args[0]}), ${message.author}.`);
                 }
-                else return message.channel.send(`The string inputted (${args[2]}) is not true or false`);
+                else return message.channel.send(`The string inputted (${args[2]}) is not true or false.`);
             }
-            else return message.channel.send(`The string inputted (${args[1]}) is not a number`);
+            else return message.channel.send(`The string inputted (${args[1]}) is not a number or isn't bigger than 0.`);
         }
-    }else return message.channel.send("Only administrators can use this command");
+    }else return message.channel.send("Only administrators can use this command.");
     }
     // Help command.
     else if(command === 'help')
