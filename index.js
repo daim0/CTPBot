@@ -67,12 +67,11 @@ client.on('message', message => {
     else if(command === 'status')
     {
         var yourping = new Date().getTime() - message.createdTimestamp;
-        var botping = client.ping;
 
         return message.channel.send("```" + 
         'Bot is currently on.\n' + 
         `Your ping: ${yourping}ms.\n` + 
-        `Bot ping: ${botping}ms.` + "```");
+        "```");
     }
     else if(command === 'uptime')
     {
@@ -81,7 +80,7 @@ client.on('message', message => {
         let minutes = Math.floor(client.uptime / 60000) % 60;
         let seconds = Math.floor(client.uptime / 1000) % 60;
 
-        return message.channel.send("```" + `__Uptime:__\n${days}d ${hours}h ${minutes}m ${seconds}s` + "```");
+        return message.channel.send("```" + `Uptime:\n${days}d ${hours}h ${minutes}m ${seconds}s` + "```");
     }
     // Modify list command.
     else if(command === 'edit')
