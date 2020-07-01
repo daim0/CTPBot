@@ -113,9 +113,8 @@ client.on('message', message => {
             }
             else return message.channel.send(`The string inputted (${args[1]}) is not a number`);
         }
-    }
+    }else return message.channel.send("Only administrators can use this command");
 }
-else return message.channel.send("Only administrators can use this command");
 });
 
 // Login to discord true hackerman style :sugnlasses.
