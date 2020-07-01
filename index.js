@@ -135,7 +135,9 @@ client.on('message', message => {
          "!help: displays a list of commands.\n" + 
          "!info: displays info on a sprite, usage: !info SpriteName.\n" + 
          "!edit: administrator command, modifies the info on a sprite, usage: !edit textureNumber true/false.\n" + 
-         "!status: checks if the bot is on." + "```");
+         "!status: checks if the bot is on.\n" + 
+         "!botinfo: displays basic bot info.\n" +
+         "!uptime: displays the uptime of the bot." + "```");
     }
     else if(command === 'botinfo')
     {
