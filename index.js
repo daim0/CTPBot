@@ -192,29 +192,33 @@ client.on('message', message => {
               notSprited.push(spriteList[i])
             }
         }
-        console.log(notSprited)
-        let index = Math.floor(Math.random() * notSprited.length)
-        console.log(notSprited[index])
-        var m = "";
-        for(var j = 0; j < notSprited[index].Sprites.length; j++)
+        if(notSprited.length >= 1)
         {
-            m += notSprited[index].Sprites[j].Type + thingy + notSprited[index].Sprites[j].FileName + thingy + 
-            (notSprited[index].Sprites[j].Sprited ? "Sprited.": "Not Sprited.") + "\n";
-        } 
-        message.channel.send("```" + m + "```");
+            let index = Math.floor(Math.random() * notSprited.length)
 
-        for(var k = 0; k < notSprited[index].Sprites.length; k++)
-        {
-            if(notSprited[index].Sprites[k].Sprited)
+            var m = "";
+            for(var j = 0; j < notSprited[index].Sprites.length; j++)
             {
-                message.channel.send(notSprited[index].Sprites[k].Type, {
-                    files: [
-                        "./Images/" + notSprited[index].Sprites[k].FileName + ".png"
-                    ]
-                });
+                m += notSprited[index].Sprites[j].Type + thingy + notSprited[index].Sprites[j].FileName + thingy + 
+                (notSprited[index].Sprites[j].Sprited ? "Sprited.": "Not Sprited.") + "\n";
+            } 
+            message.channel.send("```" + m + "```");
+    
+            for(var k = 0; k < notSprited[index].Sprites.length; k++)
+            {
+                if(notSprited[index].Sprites[k].Sprited)
+                {
+                    message.channel.send(notSprited[index].Sprites[k].Type, {
+                        files: [
+                            "./Images/" + notSprited[index].Sprites[k].FileName + ".png"
+                        ]
+                    });
+                }
             }
-        }
-        return;
+            return;
+        } else return message.channel.send("All current sprites are done!");
+
+
     }
 });
 
