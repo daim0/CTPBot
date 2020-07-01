@@ -6,6 +6,7 @@ const fileName = './List.json';
 const { prefix, token } = require('./config.json');
 const fs = require('fs');
 const spriteList = require(fileName);
+const thingy = " | ";
 
 // On startup.
 client.once('ready', () => {
@@ -28,7 +29,6 @@ client.on('message', message => {
         }
         // If there is a sprite ID.
         else {
-            var thingy = " | ";
             // Iterate through every variable in the list.
             for(var i = 0; i < spriteList.length; i++)
             {
@@ -128,6 +128,7 @@ client.on('message', message => {
         }
     }else return message.channel.send("Only administrators can use this command");
     }
+    // Help command.
     else if(command === 'help')
     {
         return message.channel.send("```" +
@@ -139,6 +140,7 @@ client.on('message', message => {
          "!botinfo: displays basic bot info.\n" +
          "!uptime: displays the uptime of the bot." + "```");
     }
+    // Botinfo command.
     else if(command === 'botinfo')
     {
         return message.channel.send("```" + 
@@ -148,8 +150,11 @@ client.on('message', message => {
         "If you come across any errors notify daimgamer#6490 on discord." +
         "```");
     }
+    // Random command.
     else if(command === 'random')
     {
+        // Gen random number between 0 and spriteList.Length
+        // No idea why it has to be so hard, but javascript just likes it this way ig.
         var n = Math.floor((Math.random() * spriteList.length));
         // Declare message variable and iterate through each of the sprites.
         var m = "";
