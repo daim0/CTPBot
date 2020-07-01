@@ -202,7 +202,7 @@ client.on('message', message => {
                 m += notSprited[index].Sprites[j].Type + thingy + notSprited[index].Sprites[j].FileName + thingy + 
                 (notSprited[index].Sprites[j].Sprited ? "Sprited.": "Not Sprited.") + "\n";
             } 
-            message.channel.send("```" + m + "```");
+            message.channel.send("```"+`${notSprited[index].Name}:\n` + m + "```");
     
             for(var k = 0; k < notSprited[index].Sprites.length; k++)
             {
