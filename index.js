@@ -117,7 +117,8 @@ client.on('message', message => {
                                 console.log('writing to ' + fileName);
                               });
                               return message.channel.send('Edit made succesfully.');
-                            } else return message.channel.send(`The argument inputted (${args[1]}) is bigger than the ammount of sprites(${spriteList[i].Sprites.length + 1})`)
+                            }
+                             return message.channel.send(`The argument inputted (${args[1]}) is bigger than the ammount of sprites(${spriteList[i].Sprites.length + 1})`)
                         }
                     }
                     return message.channel.send(`Invalid Sprite ID (${args[0]}), ${message.author}`);
