@@ -981,9 +981,9 @@
            "Sprited": true
         },
         {
-           "FileName": "Tiles_27",
-           "Type": "Buff_146",
-           "Sprited": false
+           "FileName": "Buff_146",
+           "Type": "Buff",
+           "Sprited": true
         }
       ]
     },
@@ -1584,6 +1584,7 @@
         }
       ]
     },
+
     {
       "Name": "ShadowGreaves",
       "Sprites":
@@ -1599,5 +1600,199 @@
            "Sprited": false
         }
       ]
-    }
+    },
+
+    {
+      "Name": "ShadowScalemail",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_101",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+           "FileName": "Armor_5",
+           "Type": "Armor",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "ShadowHelmet",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_102",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+           "FileName": "Armor_5",
+           "Type": "Armor",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "NightmarePickaxe",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_103",
+          "Type": "Item",
+          "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "TheBreaker",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_104",
+          "Type": "Item",
+          "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "Candle",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_105",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_33",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "CopperChandelier",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_106",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_34",
+           "Type": "Tile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "SilverChandelier",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_107",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_34",
+           "Type": "Tile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "GoldChandelier",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_108",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_34",
+           "Type": "Tile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "ManaCrystal",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_109",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "LesserManaPotion",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_110",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_13",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "BandofStarpower",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_111",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "?",
+           "Type": "Sheet",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "FlowerofFire",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_112",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+           "FileName": "Buff_24",
+           "Type": "Buff",
+           "Sprited": true
+        },
+        {
+           "FileName": "Projectile_15",
+           "Type": "Projectile",
+           "Sprited": true
+        }
+      ]
+    }  
 ]
