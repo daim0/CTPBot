@@ -185,7 +185,7 @@ client.on('message', message => {
         // Gen random number between 0 and spriteList.Length
         // No idea why it has to be so hard, but javascript just likes it this way ig.
         var n = Math.floor((Math.random() * spriteList.length));
-        for(var i= 0 = n; i < spriteList.length; i++)
+        for(var i = n; i < spriteList.length; i++)
         {
             for(var j = 0; j < spriteList[i].Sprites.length; j++)
             {
@@ -215,7 +215,37 @@ client.on('message', message => {
                 }
             }
         }
-        return;
+        // If no sprite was found reiterate trough the list from the beginning.
+        // This code is a fucking mess.
+        for(var m = 0; m < spriteList.length; m++)
+        {
+            for(var o = 0; o < spriteList[m].Sprites.length; o++)
+            {
+                if(!spriteList[m].Sprites[o].Sprited)
+                {
+                    var me = "";
+                    for(var p = 0; p < spriteList[i].Sprites.length; p++)
+                    {
+                        me += spriteList[m].Sprites[p].Type + thingy + spriteList[m].Sprites[p].FileName + thingy + 
+                        (spriteList[m].Sprites[p].Sprited ? "Sprited.": "Not Sprited.") + "\n";
+                    } 
+                    message.channel.send("```" + me + "```");
+            
+                    // Send images.
+                    for(var s = 0; l < spriteList[s].Sprites.length; s++)
+                    {
+                        if(spriteList[m].Sprites[s].Sprited)
+                        {
+                            message.channel.send(spriteList[m].Sprites[s].Type, {
+                                files: [
+                                    "./Images/" + spriteList[m].Sprites[s].FileName + ".png"
+                                ]
+                            });
+                        }
+                    }
+                }
+            }
+        }
     }
 });
 
