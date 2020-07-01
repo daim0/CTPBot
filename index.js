@@ -120,7 +120,7 @@ client.on('message', message => {
                                 if (err) return console.log(err);
                                 console.log('writing to ' + fileName);
                                 });
-                                return message.channel.send(`Editted ${spriteList[i].Name} succesfully.`);                                
+                                return message.channel.send(`Edited ${spriteList[i].Name} succesfully.`);                                
                             }
                         }
                     }
