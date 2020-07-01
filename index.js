@@ -179,10 +179,9 @@ client.on('message', message => {
         }
         return;
     }
-    // random not finished command.
+    // random not finished sprite command.
     else if(command === 'task')
     {
-        message.channel.send("cbt");
         let notSprited = []
         for (let i = 0; i < spriteList.length; i++) {
             let tempArr = spriteList[i].Sprites.filter(s => !s.Sprited)
@@ -199,16 +198,15 @@ client.on('message', message => {
             m += notSprited[index].Sprites[j].Type + thingy + notSprited[index].Sprites[j].FileName + thingy + 
             (notSprited[index].Sprites[j].Sprited ? "Sprited.": "Not Sprited.") + "\n";
         } 
-        return message.channel.send("```" + m + "```");
+        message.channel.send("```" + m + "```");
 
-        // Send images.
-        for(var k = 0; k < spriteList[i].Sprites.length; k++)
+        for(var k = 0; k < notSprited[index].Sprites.length; k++)
         {
-            if(spriteList[i].Sprites[k].Sprited)
+            if(notSprited[index].Sprites[k].Sprited)
             {
-                message.channel.send(spriteList[i].Sprites[k].Type, {
+                message.channel.send(notSprited[index].Sprites[k].Type, {
                     files: [
-                        "./Images/" + spriteList[i].Sprites[k].FileName + ".png"
+                        "./Images/" + notSprited[index].Sprites[k].FileName + ".png"
                     ]
                 });
             }
