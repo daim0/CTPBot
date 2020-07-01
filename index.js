@@ -85,7 +85,7 @@ client.on('message', message => {
         }
         else {
             // Check if both the second and third arguments are either true or false.
-            if(isNaN(args[1]))
+            if(!isNaN(args[1]))
             {
                 if(args[2] == 'true' || args[2] == 'false')
                 {
