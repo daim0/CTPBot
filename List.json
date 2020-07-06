@@ -748,7 +748,7 @@
           "Sprited": true
         },
         {
-           "FileName": "?",
+           "FileName": "Acc_HandsOn_2",
            "Type": "Sheet",
            "Sprited": false
         }
@@ -811,7 +811,7 @@
           "Sprited": true
         },
         {
-           "FileName": "?",
+           "FileName": "Acc_Waist_13",
            "Type": "Sheet",
            "Sprited": false
         }
@@ -828,9 +828,9 @@
           "Sprited": false
         },
         {
-           "FileName": "?",
+           "FileName": "Acc_Shoes_6",
            "Type": "Sheet",
-           "Sprited": false
+           "Sprited": true
         }
       ]
     },
@@ -925,7 +925,7 @@
           "Sprited": true
         },
         {
-           "FileName": "?",
+           "FileName": "Tiles_24",
            "Type": "Tile",
            "Sprited": false
         }
@@ -1767,7 +1767,7 @@
           "Sprited": true
         },
         {
-           "FileName": "?",
+           "FileName": "Acc_HandsOn_3",
            "Type": "Sheet",
            "Sprited": false
         }
@@ -2061,7 +2061,7 @@
           "Sprited": false
         },
         {
-           "FileName": "?",
+           "FileName": "Acc_Shoes_12",
            "Type": "Sheet",
            "Sprited": false
         }
@@ -2464,6 +2464,1611 @@
            "Type": "Tile",
            "Sprited": false
         }
+      ]
+    },
+
+    {
+      "Name": "NecroHelmet",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_151",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+           "FileName": "Armor_7",
+           "Type": "Armor",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "NecroBreastplate",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_152",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+           "FileName": "Armor_7",
+           "Type": "Armor",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "NecroGreaves",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_153",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+           "FileName": "Armor_7",
+           "Type": "Armor",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "Bone",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_154",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Projectile_21",
+           "Type": "Projectile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Muramasa",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_155",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "CobaltShield",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_156",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+           "FileName": "Acc_Shield_1",
+           "Type": "Sheet",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "AquaScepter",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_157",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Projectile_22",
+           "Type": "Projectile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "LuckyHorsehoe",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_158",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "ShinyRedBaloon",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_159",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Acc_Baloon_8",
+           "Type": "Sheet",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "Harpoon",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_160",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Projectile_23",
+           "Type": "Projectile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "SpikyBall",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_161",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Projectile_24",
+           "Type": "Projectile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "BallOHurt",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_162",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Projectile_25",
+           "Type": "Projectile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "BlueMoon",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_163",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Projectile_26",
+           "Type": "Projectile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Handgun",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_164",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "WaterBolt",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_165",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Projectile_27",
+           "Type": "Projectile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "Bomb",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_166",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Projectile_28",
+           "Type": "Projectile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Dynamite",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_167",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+           "FileName": "Projectile_29",
+           "Type": "Projectile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "Grenade",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_168",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+           "FileName": "Projectile_30",
+           "Type": "Projectile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "SandBlock",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_169",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_53",
+           "Type": "Tile",
+           "Sprited": true
+        },
+        {
+           "FileName": "Buff_68",
+           "Type": "Buff",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Glass",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_170",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+           "FileName": "Tiles_54",
+           "Type": "Tile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "Sign",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_171",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+           "FileName": "Tiles_55",
+           "Type": "Tile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "AshBlock",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_172",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+           "FileName": "Tiles_57",
+           "Type": "Tile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "Obsidian",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_173",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_56",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Hellstone",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_174",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+           "FileName": "Tiles_58",
+           "Type": "Tile",
+           "Sprited": false
+        },
+        {
+           "FileName": "Buff_67",
+           "Type": "Buff",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "HellstoneBar",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_175",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_239",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "MudBlock",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_176",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_59",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Sapphire",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_177",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_178",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Ruby",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_178",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_278",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Emerald",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_179",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_278",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Topaz",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_180",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_278",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Amethyst",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_181",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_278",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Diamond",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_182",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+           "FileName": "Tiles_278",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "GlowingMushroom",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_183",
+          "Type": "Item",
+          "Sprited": true
+        },        
+        {
+           "FileName": "Tiles_190",
+           "Type": "Tile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "Star",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_184",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "IvyWhip",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_185",
+          "Type": "Item",
+          "Sprited": true
+        },        
+        {
+           "FileName": "Projectile_32",
+           "Type": "Projectile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "BreathingReed",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_186",
+          "Type": "Item",
+          "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "Flipper",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_187",
+          "Type": "Item",
+          "Sprited": false
+        },        
+        {
+           "FileName": "Acc_Shoes_1",
+           "Type": "Sheet",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "HealingPotion",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_188",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "ManaPotion",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_189",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "BladeofGrass",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_190",
+          "Type": "Item",
+          "Sprited": true
+        },        
+        {
+           "FileName": "Buff_20",
+           "Type": "Buff",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "ThornChakram",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_191",
+          "Type": "Item",
+          "Sprited": false
+        },        
+        {
+           "FileName": "Buff_20",
+           "Type": "Buff",
+           "Sprited": true
+        },        
+        {
+           "FileName": "Projectile_33",
+           "Type": "Projectile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "ObsidianBrick",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_192",
+          "Type": "Item",
+          "Sprited": false
+        },        
+        {
+           "FileName": "Tiles_75",
+           "Type": "Tile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "ObsidianSkull",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_193",
+          "Type": "Item",
+          "Sprited": true
+        },        
+        {
+           "FileName": "Acc_Face_12",
+           "Type": "Sheet",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "MushroomGrassSeeds",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_194",
+          "Type": "Item",
+          "Sprited": false
+        },        
+        {
+           "FileName": "Tiles_70",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "JungleGrassSeeds",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_195",
+          "Type": "Item",
+          "Sprited": true
+        },        
+        {
+           "FileName": "Tiles_60",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "WoodenHammer",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_196",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "StarCannon",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_197",
+          "Type": "Item",
+          "Sprited": false
+        },        
+        {
+           "FileName": "Projectile_12",
+           "Type": "Projectile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "BluePhaseblade",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_198",
+          "Type": "Item",
+          "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "RedPhaseblade",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_199",
+          "Type": "Item",
+          "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "GreenPhaseblade",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_200",
+          "Type": "Item",
+          "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "PurplePhaseblade",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_201",
+          "Type": "Item",
+          "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "WhitePhaseblade",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_202",
+          "Type": "Item",
+          "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "YellowPhaseblade",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_203",
+          "Type": "Item",
+          "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "MeteorHamaxe",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_204",
+          "Type": "Item",
+          "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "EmptyBucket",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_205",
+          "Type": "Item",
+          "Sprited": true
+        },        
+        {
+           "FileName": "Armor_Head_13",
+           "Type": "Armor",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "WaterBucket",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_206",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "LavaBucket",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_207",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "JungleRose",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_208",
+          "Type": "Item",
+          "Sprited": true
+        },        
+        {
+           "FileName": "Tiles_61",
+           "Type": "Tile",
+           "Sprited": true
+        },        
+        {
+           "FileName": "Armor_Head_23",
+           "Type": "Projectile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Stinger",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_209",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Vine",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_210",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "FeralClaws",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_211",
+          "Type": "Item",
+          "Sprited": true
+        },        
+        {
+           "FileName": "Acc_HandsOn_5",
+           "Type": "Sheet",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "AnkletoftheWind",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_212",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "StaffofRegrowth",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_213",
+          "Type": "Item",
+          "Sprited": false
+        },        
+        {
+           "FileName": "Tiles_2",
+           "Type": "Tile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "HellstoneBrick",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_214",
+          "Type": "Item",
+          "Sprited": false
+        },        
+        {
+           "FileName": "Tiles_76",
+           "Type": "Tile",
+           "Sprited": false
+        },        
+        {
+           "FileName": "Buff_67",
+           "Type": "Buff",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "WhoopieCushion",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_215",
+          "Type": "Item",
+          "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "Shackle",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_216",
+          "Type": "Item",
+          "Sprited": false
+        },        
+        {
+           "FileName": "Acc_HandsOn_12",
+           "Type": "Sheet",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "MoltenHamaxe",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_217",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Flamelash",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_218",
+          "Type": "Item",
+          "Sprited": false
+        },        
+        {
+           "FileName": "Buff_24",
+           "Type": "Buff",
+           "Sprited": true
+        },        
+        {
+           "FileName": "Projectile_34",
+           "Type": "Projectile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "PhoenixBlaster",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_219",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Sunfury",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_220",
+          "Type": "Item",
+          "Sprited": false
+        },        
+        {
+           "FileName": "Buff_24",
+           "Type": "Buff",
+           "Sprited": true
+        },        
+        {
+           "FileName": "Projectile_35",
+           "Type": "Projectile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "Hellforge",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_221",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+           "FileName": "Tiles_77",
+           "Type": "Tile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "ClayPot",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_222",
+          "Type": "Item",
+          "Sprited": false
+        },        
+        {
+           "FileName": "Tiles_78",
+           "Type": "Tile",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "NaturesGift",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_223",
+          "Type": "Item",
+          "Sprited": true
+        },        
+        {
+           "FileName": "Tiles_61",
+           "Type": "Tile",
+           "Sprited": true
+        },        
+        {
+           "FileName": "Acc_Face_1",
+           "Type": "Sheet",
+           "Sprited": false
+        }
+      ]
+    },
+
+    {
+      "Name": "Bed",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_224",
+          "Type": "Item",
+          "Sprited": true
+        },        
+        {
+           "FileName": "Tiles_79",
+           "Type": "Tile",
+           "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "Silk",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_225",
+          "Type": "Item",
+          "Sprited": true
+        }
+      ]
+    },
+
+    {
+      "Name": "LesserRestorationPotion",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_226",
+          "Type": "Item",
+          "Sprited": true
+        }       
+      ]
+    },
+
+    {
+      "Name": "RestorationPotion",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_227",
+          "Type": "Item",
+          "Sprited": true
+        }       
+      ]
+    },
+
+    {
+      "Name": "JungleHat",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_228",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_8",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "JungleShirt",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_229",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_8",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "JunglePants",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_230",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_8",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "MoltenHelmet",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_231",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_9",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "MoltenBreastplate",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_232",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_9",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "MoltenGreaves",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_233",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_9",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "MeteorShot",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_234",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+          "FileName": "Projectile_36",
+          "Type": "Projectile",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "StickyBomb",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_235",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Projectile_37",
+          "Type": "Projectile",
+          "Sprited": true
+        }        
+      ]
+    },
+
+    {
+      "Name": "BlackLens",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_236",
+          "Type": "Item",
+          "Sprited": true
+        }      
+      ]
+    },
+
+    {
+      "Name": "Sunglasses",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_237",
+          "Type": "Item",
+          "Sprited": false
+        }      
+      ]
+    },
+
+    {
+      "Name": "WizardHat",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_238",
+          "Type": "Item",
+          "Sprited": true
+        },
+        {
+          "FileName": "Armor_Head_14",
+          "Type": "Armor",
+          "Sprited": false
+        }        
+      ]
+    },
+
+    {
+      "Name": "TopHat",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_239",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_Head_15",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "TuxedoShirt",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_240",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_10",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "TuxedoPants",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_241",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_10",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "SummerHat",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_242",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_Head_16",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "BunnyHood",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_243",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_Head_17",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "PlumbersHat",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_244",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_Head_18",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "PlumbersShirt",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_245",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_11",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "PlumbersPants",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_246",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_11",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "HerosHat",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_247",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_Head_19",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "HerosShirt",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_248",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_12",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "HerosPants",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_249",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_12",
+          "Type": "Armor",
+          "Sprited": false
+        }       
+      ]
+    },
+
+    {
+      "Name": "FishBowl",
+      "Sprites":
+      [
+        {
+          "FileName": "Item_250",
+          "Type": "Item",
+          "Sprited": false
+        },
+        {
+          "FileName": "Tiles_250",
+          "Type": "Tile",
+          "Sprited": false
+        },
+        {
+          "FileName": "Armor_Head_20",
+          "Type": "Armor",
+          "Sprited": false
+        }        
       ]
     }
 ]
