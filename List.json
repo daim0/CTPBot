@@ -881,7 +881,7 @@
       {
          "FileName": "Tiles_239",
          "Type": "Tile",
-         "Sprited": false
+         "Sprited": true
       }
     ]
   },
@@ -927,7 +927,7 @@
       {
          "FileName": "Tiles_24",
          "Type": "Tile",
-         "Sprited": false
+         "Sprited": true
       }
     ]
   },
@@ -1399,7 +1399,7 @@
         "Sprited": true
       },
       {
-         "FileName": "Tile_29",
+         "FileName": "Tiles_29",
          "Type": "Tile",
          "Sprited": true
       }
@@ -1503,7 +1503,7 @@
       {
          "FileName": "Wall_4",
          "Type": "Wall",
-         "Sprited": true
+         "Sprited": false
       }
     ]
   },
@@ -2148,7 +2148,7 @@
       {
         "FileName": "Item_133",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       },
       {
          "FileName": "Tiles_40",
@@ -2209,7 +2209,7 @@
       {
          "FileName": "Tiles_42",
          "Type": "Tile",
-         "Sprited": true
+         "Sprited": false
       }
     ]
   },
@@ -2936,7 +2936,7 @@
         "Sprited": true
       },
       {
-         "FileName": "Tiles_278",
+         "FileName": "Tiles_178",
          "Type": "Tile",
          "Sprited": true
       }
@@ -2953,7 +2953,7 @@
         "Sprited": true
       },
       {
-         "FileName": "Tiles_278",
+         "FileName": "Tiles_178",
          "Type": "Tile",
          "Sprited": true
       }
@@ -2970,7 +2970,7 @@
         "Sprited": true
       },
       {
-         "FileName": "Tiles_278",
+         "FileName": "Tiles_178",
          "Type": "Tile",
          "Sprited": true
       }
@@ -2987,7 +2987,7 @@
         "Sprited": true
       },
       {
-         "FileName": "Tiles_278",
+         "FileName": "Tiles_178",
          "Type": "Tile",
          "Sprited": true
       }
@@ -3004,7 +3004,7 @@
         "Sprited": true
       },
       {
-         "FileName": "Tiles_278",
+         "FileName": "Tiles_178",
          "Type": "Tile",
          "Sprited": true
       }
@@ -4607,7 +4607,7 @@
     {
         "FileName": "Projectile_54",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -6157,7 +6157,7 @@
     {
         "FileName": "Projectile_63",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -6275,7 +6275,7 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_144",
+        "FileName": "Tiles_114",
         "Type": "Tile",
         "Sprited": true
     }
@@ -8472,7 +8472,7 @@
     {
         "FileName": "Projectile_104",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -9165,8 +9165,8 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_31",
-        "Type": "Tile",
+        "FileName": "Wall_31",
+        "Type": "Wall",
         "Sprited": true
     }
   ]
@@ -10575,7 +10575,7 @@
       "Sprited": true
     },
     {
-        "FileName": "Armor_30'",
+        "FileName": "Armor_30",
         "Type": "Armor",
         "Sprited": true
     }
@@ -10697,7 +10697,7 @@
     {
         "FileName": "Tiles_169",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -10770,7 +10770,7 @@
       "Sprited": true
     },
     {
-        "FileName": "Acc_Wasit_8",
+        "FileName": "Acc_Waist_8",
         "Type": "Sheet",
         "Sprited": true
     }
@@ -10785,7 +10785,7 @@
       "Sprited": true
     },
     {
-        "FileName": "Acc_Wasit_7",
+        "FileName": "Acc_Waist_7",
         "Type": "Sheet",
         "Sprited": true
     }
@@ -10800,7 +10800,7 @@
       "Sprited": true
     },
     {
-        "FileName": "Acc_Wasit_9",
+        "FileName": "Acc_Waist_9",
         "Type": "Sheet",
         "Sprited": true
     }
@@ -10817,7 +10817,7 @@
     {
         "FileName": "Tiles_34",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -10832,7 +10832,7 @@
     {
         "FileName": "Tiles_34",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -10847,7 +10847,7 @@
     {
         "FileName": "Tiles_34",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -10922,7 +10922,7 @@
     {
         "FileName": "Tiles_175",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -10937,7 +10937,7 @@
     {
         "FileName": "Tiles_176",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -10952,7 +10952,7 @@
     {
         "FileName": "Tiles_177",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -10967,7 +10967,7 @@
     {
         "FileName": "Wall_45",
         "Type": "Wall",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -10982,7 +10982,7 @@
     {
         "FileName": "Wall_46",
         "Type": "Wall",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -10997,7 +10997,7 @@
     {
         "FileName": "Wall_47",
         "Type": "Wall",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -11247,7 +11247,7 @@
     {
         "FileName": "Projectile_121",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -11262,7 +11262,7 @@
     {
         "FileName": "Projectile_122",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -11277,7 +11277,7 @@
     {
         "FileName": "Projectile_123",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -11292,7 +11292,7 @@
     {
         "FileName": "Projectile_124",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -11307,7 +11307,7 @@
     {
         "FileName": "Projectile_125",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -11322,7 +11322,7 @@
     {
         "FileName": "Projectile_126",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -13442,7 +13442,7 @@
     {
         "FileName": "Acc_Face_5",
         "Type": "Sheet",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -16902,7 +16902,7 @@
     {
         "FileName": "Projectile_189",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -19397,7 +19397,7 @@
     {
         "FileName": "Acc_Back_7",
         "Type": "Sheet",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -19427,7 +19427,7 @@
     {
         "FileName": "Acc_Face_6",
         "Type": "Sheet",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -28602,7 +28602,7 @@
     {
         "FileName": "Buff_207",
         "Type": "Buff",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -28641,17 +28641,17 @@
     },
     {
         "FileName": "Rudoph_0",
-        "Type": "Projectile",
+        "Type": "Mount",
         "Sprited": false
     },
     {
         "FileName": "Rudoph_1",
-        "Type": "Projectile",
+        "Type": "Mount",
         "Sprited": false
     },
     {
         "FileName": "Rudoph_2",
-        "Type": "Projectile",
+        "Type": "Mount",
         "Sprited": false
     },
     {
@@ -29177,12 +29177,12 @@
     {
         "FileName": "Projectile_343",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
     },
     {
         "FileName": "Projectile_344",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -31772,7 +31772,7 @@
     {
         "FileName": "Tiles_90",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -31787,7 +31787,7 @@
     {
         "FileName": "Tiles_90",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -31802,7 +31802,7 @@
     {
         "FileName": "Tiles_90",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -31817,7 +31817,7 @@
     {
         "FileName": "Tiles_90",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -31832,7 +31832,7 @@
     {
         "FileName": "Tiles_90",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -32235,8 +32235,8 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_366",
-        "Type": "NPC",
+        "FileName": "Tiles_100",
+        "Type": "Tile",
         "Sprited": false
     }
   ]
@@ -32250,7 +32250,7 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_367",
+        "FileName": "NPC_366",
         "Type": "NPC",
         "Sprited": false
     }
@@ -32265,8 +32265,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "NPC_367",
+        "Type": "NPC",
         "Sprited": false
     }
   ]
@@ -32295,8 +32295,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Wall_124",
+        "Type": "Wall",
         "Sprited": false
     }
   ]
@@ -32310,8 +32310,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Wall_125",
+        "Type": "Wall",
         "Sprited": false
     }
   ]
@@ -32322,12 +32322,7 @@
     {
       "FileName": "Item_2161",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -32340,7 +32335,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_275",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32355,7 +32350,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_276",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32370,7 +32365,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_277",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32385,7 +32380,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_278",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32400,7 +32395,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_279",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32415,7 +32410,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_280",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32430,7 +32425,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_281",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32445,8 +32440,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Wall_136",
+        "Type": "Wall",
         "Sprited": false
     }
   ]
@@ -32460,8 +32455,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Wall_137",
+        "Type": "Wall",
         "Sprited": false
     }
   ]
@@ -32472,12 +32467,12 @@
     {
       "FileName": "Item_2171",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_199",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -32490,7 +32485,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_283",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32502,10 +32497,10 @@
     {
       "FileName": "Item_2173",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_284",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32520,7 +32515,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_285",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32535,7 +32530,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_286",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32547,12 +32542,7 @@
     {
       "FileName": "Item_2176",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -32565,8 +32555,13 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_287",
         "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Buff_93",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -32580,7 +32575,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_288",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32595,7 +32590,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_289",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32610,7 +32605,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_290",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32625,7 +32620,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_291",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32640,7 +32635,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_292",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32655,7 +32650,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_293",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32670,7 +32665,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_294",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32685,7 +32680,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_295",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32700,7 +32695,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_296",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32715,7 +32710,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_297",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32730,7 +32725,12 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Buff_70",
+        "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_355",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32745,8 +32745,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_Head_156",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -32760,7 +32760,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_298",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32775,7 +32775,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_299",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32790,7 +32790,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_300",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32805,7 +32805,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_301",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32820,7 +32820,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_302",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32835,7 +32835,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_303",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32850,7 +32850,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_304",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32865,7 +32865,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_305",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32877,12 +32877,12 @@
     {
       "FileName": "Item_2198",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_306",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -32895,8 +32895,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_Head_157",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -32910,8 +32910,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_105",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -32925,8 +32925,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_106",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -32940,8 +32940,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_Legs_98",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -32955,7 +32955,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_307",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32970,7 +32970,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_308",
         "Type": "Tile",
         "Sprited": false
     }
@@ -32985,8 +32985,13 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "NPC_148",
+        "Type": "NPC",
+        "Sprited": false
+    },
+    {
+        "FileName": "NPC_149",
+        "Type": "NPC",
         "Sprited": false
     }
   ]
@@ -33000,7 +33005,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_309",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33015,7 +33020,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_310",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33028,11 +33033,6 @@
       "FileName": "Item_2208",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -33042,12 +33042,7 @@
     {
       "FileName": "Item_2209",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -33060,8 +33055,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Wall_138",
+        "Type": "Wall",
         "Sprited": false
     }
   ]
@@ -33072,11 +33067,11 @@
     {
       "FileName": "Item_2211",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Wall_139",
+        "Type": "Wall",
         "Sprited": false
     }
   ]
@@ -33090,8 +33085,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Wall_140",
+        "Type": "Wall",
         "Sprited": false
     }
   ]
@@ -33105,8 +33100,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Wall_141",
+        "Type": "Wall",
         "Sprited": false
     }
   ]
@@ -33118,11 +33113,6 @@
       "FileName": "Item_2214",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -33133,11 +33123,6 @@
       "FileName": "Item_2215",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -33148,11 +33133,6 @@
       "FileName": "Item_2216",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -33163,11 +33143,6 @@
       "FileName": "Item_2217",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -33178,11 +33153,6 @@
       "FileName": "Item_2218",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -33192,12 +33162,7 @@
     {
       "FileName": "Item_2219",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -33208,11 +33173,6 @@
       "FileName": "Item_2220",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -33225,8 +33185,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Acc_HandsOn_17",
+        "Type": "Sheet",
         "Sprited": false
     }
   ]
@@ -33237,11 +33197,11 @@
     {
       "FileName": "Item_2222",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_Head_158",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -33252,11 +33212,11 @@
     {
       "FileName": "Item_2223",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Projectile_357",
+        "Type": "Projectile",
         "Sprited": false
     }
   ]
@@ -33270,7 +33230,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_34",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33285,9 +33245,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_93",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33300,7 +33260,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_42",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33315,9 +33275,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_100",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33330,9 +33290,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_15",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33345,9 +33305,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_18",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33360,9 +33320,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_21",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33375,9 +33335,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_79",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33390,7 +33350,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_90",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33405,7 +33365,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_101",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33420,9 +33380,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_13",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33435,7 +33395,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_103",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33450,9 +33410,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_33",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33465,7 +33425,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_104",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33495,7 +33455,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_104",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33510,7 +33470,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_104",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33525,7 +33485,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_104",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33540,7 +33500,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_103",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33555,7 +33515,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_103",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33570,9 +33530,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_13",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33585,7 +33545,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33600,7 +33560,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33615,7 +33575,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33630,9 +33590,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_14",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33645,9 +33605,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_21",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33660,9 +33620,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_21",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33675,9 +33635,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_18",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33690,9 +33650,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_18",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33705,9 +33665,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_18",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33720,7 +33680,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33735,7 +33695,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33750,7 +33710,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33765,9 +33725,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_13",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33780,9 +33740,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_13",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33795,9 +33755,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_14",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -33810,7 +33770,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_311",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33825,7 +33785,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_312",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33840,7 +33800,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_313",
         "Type": "Tile",
         "Sprited": false
     }
@@ -33855,8 +33815,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Wall_142",
+        "Type": "Wall",
         "Sprited": false
     }
   ]
@@ -33870,8 +33830,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Wall_143",
+        "Type": "Wall",
         "Sprited": false
     }
   ]
@@ -33885,9 +33845,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_10",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
+    },
+    {
+        "FileName": "Tiles_11",
+        "Type": "Tile",
+        "Sprited": true
     }
   ]
 },{
@@ -33900,8 +33865,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_25",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -33915,8 +33880,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_206",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -33930,8 +33895,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_206",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -33942,12 +33907,7 @@
     {
       "FileName": "Item_2269",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -33957,12 +33917,7 @@
     {
       "FileName": "Item_2270",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -33975,8 +33930,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Wall_144",
+        "Type": "Wall",
         "Sprited": false
     }
   ]
@@ -33990,8 +33945,13 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_103",
+        "Type": "Buff",
+        "Sprited": true
+    },
+    {
+        "FileName": "Projectile_358",
+        "Type": "Projectile",
         "Sprited": false
     }
   ]
@@ -34002,12 +33962,7 @@
     {
       "FileName": "Item_2273",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -34020,9 +33975,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_4",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -34035,8 +33990,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_Head_159",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -34047,11 +34002,11 @@
     {
       "FileName": "Item_2276",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Acc_HandsOn_16",
+        "Type": "Sheet",
         "Sprited": false
     }
   ]
@@ -34065,8 +34020,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_165",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -34080,8 +34035,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_166",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -34095,13 +34050,13 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_167",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
 },{
-  "Name": "???",
+  "Name": "BettleWings",
   "Sprites":
   [
     {
@@ -34110,8 +34065,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Wings_24",
+        "Type": "Wings",
         "Sprited": false
     }
   ]
@@ -34125,7 +34080,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_242",
         "Type": "Tile",
         "Sprited": false
     }
@@ -34140,7 +34095,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_242",
         "Type": "Tile",
         "Sprited": false
     }
@@ -34155,7 +34110,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_242",
         "Type": "Tile",
         "Sprited": false
     }
@@ -34170,8 +34125,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Acc_Front_1",
+        "Type": "Sheet",
         "Sprited": false
     }
   ]
@@ -34185,8 +34140,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Acc_Front_2",
+        "Type": "Sheet",
         "Sprited": false
     }
   ]
@@ -34200,8 +34155,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Acc_Front_3",
+        "Type": "Sheet",
         "Sprited": false
     }
   ]
@@ -34215,8 +34170,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Acc_Front_4",
+        "Type": "Sheet",
         "Sprited": false
     }
   ]
@@ -34230,9 +34185,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_15",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -34242,12 +34197,12 @@
     {
       "FileName": "Item_2289",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Projectile_360",
+        "Type": "Projectile",
+        "Sprited": true
     }
   ]
 },{
@@ -34257,12 +34212,7 @@
     {
       "FileName": "Item_2290",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -34272,12 +34222,12 @@
     {
       "FileName": "Item_2291",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Projectile_361",
+        "Type": "Projectile",
+        "Sprited": true
     }
   ]
 },{
@@ -34287,12 +34237,12 @@
     {
       "FileName": "Item_2292",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Projectile_362",
+        "Type": "Projectile",
+        "Sprited": true
     }
   ]
 },{
@@ -34305,8 +34255,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Projectile_363",
+        "Type": "Projectile",
         "Sprited": false
     }
   ]
@@ -34317,12 +34267,12 @@
     {
       "FileName": "Item_2294",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Projectile_364",
+        "Type": "Projectile",
+        "Sprited": true
     }
   ]
 },{
@@ -34332,12 +34282,12 @@
     {
       "FileName": "Item_2295",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Projectile_365",
+        "Type": "Projectile",
+        "Sprited": true
     }
   ]
 },{
@@ -34350,8 +34300,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Projectile_366",
+        "Type": "Projectile",
         "Sprited": false
     }
   ]
@@ -34363,11 +34313,6 @@
       "FileName": "Item_2297",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34378,11 +34323,6 @@
       "FileName": "Item_2298",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34392,12 +34332,7 @@
     {
       "FileName": "Item_2299",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -34408,11 +34343,6 @@
       "FileName": "Item_2300",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34423,11 +34353,6 @@
       "FileName": "Item_2301",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34437,12 +34362,7 @@
     {
       "FileName": "Item_2302",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -34452,12 +34372,7 @@
     {
       "FileName": "Item_2303",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -34468,11 +34383,6 @@
       "FileName": "Item_2304",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34483,11 +34393,6 @@
       "FileName": "Item_2305",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34498,11 +34403,6 @@
       "FileName": "Item_2306",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34513,11 +34413,6 @@
       "FileName": "Item_2307",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34527,12 +34422,7 @@
     {
       "FileName": "Item_2308",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -34543,11 +34433,6 @@
       "FileName": "Item_2309",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34558,11 +34443,6 @@
       "FileName": "Item_2310",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34573,11 +34453,6 @@
       "FileName": "Item_2311",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34588,11 +34463,6 @@
       "FileName": "Item_2312",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34603,11 +34473,6 @@
       "FileName": "Item_2313",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34618,11 +34483,6 @@
       "FileName": "Item_2314",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34633,11 +34493,6 @@
       "FileName": "Item_2315",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34648,11 +34503,6 @@
       "FileName": "Item_2316",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34662,12 +34512,7 @@
     {
       "FileName": "Item_2317",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -34678,11 +34523,6 @@
       "FileName": "Item_2318",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34693,11 +34533,6 @@
       "FileName": "Item_2319",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34708,11 +34543,6 @@
       "FileName": "Item_2320",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34723,11 +34553,6 @@
       "FileName": "Item_2321",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34737,12 +34562,12 @@
     {
       "FileName": "Item_2322",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Buff_104",
+        "Type": "Buff",
+        "Sprited": true
     }
   ]
 },{
@@ -34752,11 +34577,11 @@
     {
       "FileName": "Item_2323",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_105",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -34767,11 +34592,11 @@
     {
       "FileName": "Item_2324",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_106",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -34782,11 +34607,11 @@
     {
       "FileName": "Item_2325",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_107",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -34797,12 +34622,12 @@
     {
       "FileName": "Item_2326",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Buff_108",
+        "Type": "Buff",
+        "Sprited": true
     }
   ]
 },{
@@ -34812,11 +34637,11 @@
     {
       "FileName": "Item_2327",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_109",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -34827,11 +34652,11 @@
     {
       "FileName": "Item_2328",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_110",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -34842,11 +34667,11 @@
     {
       "FileName": "Item_2329",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_111",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -34858,11 +34683,6 @@
       "FileName": "Item_2330",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34872,12 +34692,12 @@
     {
       "FileName": "Item_2331",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Projectile_367",
+        "Type": "Projectile",
+        "Sprited": true
     }
   ]
 },{
@@ -34890,8 +34710,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Projectile_368",
+        "Type": "Projectile",
         "Sprited": false
     }
   ]
@@ -34902,12 +34722,12 @@
     {
       "FileName": "Item_2333",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Wall_145",
+        "Type": "Wall",
+        "Sprited": true
     }
   ]
 },{
@@ -34917,12 +34737,12 @@
     {
       "FileName": "Item_2334",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_376",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -34932,12 +34752,12 @@
     {
       "FileName": "Item_2335",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_376",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -34947,12 +34767,12 @@
     {
       "FileName": "Item_2336",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_376",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -34963,11 +34783,6 @@
       "FileName": "Item_2337",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34978,11 +34793,6 @@
       "FileName": "Item_2338",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -34993,11 +34803,6 @@
       "FileName": "Item_2339",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -35007,12 +34812,12 @@
     {
       "FileName": "Item_2340",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_314",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -35022,12 +34827,7 @@
     {
       "FileName": "Item_2341",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -35040,8 +34840,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Projectile_369",
+        "Type": "Projectile",
         "Sprited": false
     }
   ]
@@ -35055,8 +34855,13 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Mount_Minecraft",
+        "Type": "Mount",
+        "Sprited": false
+    },
+    {
+        "FileName": "Buff_118",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -35067,12 +34872,12 @@
     {
       "FileName": "Item_2344",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Buff_112",
+        "Type": "Buff",
+        "Sprited": true
     }
   ]
 },{
@@ -35082,11 +34887,11 @@
     {
       "FileName": "Item_2345",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_113",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -35097,12 +34902,12 @@
     {
       "FileName": "Item_2346",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Buff_114",
+        "Type": "Buff",
+        "Sprited": true
     }
   ]
 },{
@@ -35112,12 +34917,12 @@
     {
       "FileName": "Item_2347",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Buff_115",
+        "Type": "Buff",
+        "Sprited": true
     }
   ]
 },{
@@ -35127,11 +34932,11 @@
     {
       "FileName": "Item_2348",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_116",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -35142,11 +34947,11 @@
     {
       "FileName": "Item_2349",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_117",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -35157,12 +34962,7 @@
     {
       "FileName": "Item_2350",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -35172,12 +34972,7 @@
     {
       "FileName": "Item_2351",
       "Type": "Item",
-      "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -35187,12 +34982,17 @@
     {
       "FileName": "Item_2352",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_119",
+        "Type": "Buff",
         "Sprited": false
+    },
+    {
+        "FileName": "Projectile_370",
+        "Type": "Projectile",
+        "Sprited": true
     }
   ]
 },{
@@ -35202,12 +35002,17 @@
     {
       "FileName": "Item_2353",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_120",
+        "Type": "Buff",
         "Sprited": false
+    },
+    {
+        "FileName": "Projectile_371",
+        "Type": "Projectile",
+        "Sprited": true
     }
   ]
 },{
@@ -35217,11 +35022,11 @@
     {
       "FileName": "Item_2354",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_121",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -35232,11 +35037,11 @@
     {
       "FileName": "Item_2355",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_122",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -35247,12 +35052,12 @@
     {
       "FileName": "Item_2356",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Buff_123",
+        "Type": "Buff",
+        "Sprited": true
     }
   ]
 },{
@@ -35265,9 +35070,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_82",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -35277,12 +35082,17 @@
     {
       "FileName": "Item_2358",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_83",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
+    },
+    {
+        "FileName": "Tiles_84",
+        "Type": "Tile",
+        "Sprited": true
     }
   ]
 },{
@@ -35292,11 +35102,11 @@
     {
       "FileName": "Item_2359",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_124",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -35310,8 +35120,13 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Projectile_372",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Chain33",
+        "Type": "Chain",
         "Sprited": false
     }
   ]
@@ -35325,8 +35140,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_Head_160",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -35340,8 +35155,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_168",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -35355,8 +35170,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_Legs_103",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -35370,8 +35185,13 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_125",
+        "Type": "Buff",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_373",
+        "Type": "Projectile",
         "Sprited": false
     }
   ]
@@ -35385,8 +35205,13 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_126",
+        "Type": "Buff",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_375",
+        "Type": "Projectile",
         "Sprited": false
     }
   ]
@@ -35397,12 +35222,12 @@
     {
       "FileName": "Item_2366",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Projectile_377",
+        "Type": "Projectile",
+        "Sprited": true
     }
   ]
 },{
@@ -35415,8 +35240,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_Head_161",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -35430,8 +35255,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_169",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -35445,8 +35270,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_Legs_104",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -35460,8 +35285,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_Head_162",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -35475,8 +35300,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_170",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -35490,8 +35315,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_Legs_105",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -35503,11 +35328,6 @@
       "FileName": "Item_2373",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -35518,11 +35338,6 @@
       "FileName": "Item_2374",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -35533,11 +35348,6 @@
       "FileName": "Item_2375",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
     }
   ]
 },{
@@ -35550,7 +35360,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35565,7 +35375,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35580,7 +35390,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35595,7 +35405,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35610,7 +35420,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35625,7 +35435,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35640,7 +35450,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35655,7 +35465,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35670,7 +35480,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35685,7 +35495,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35700,7 +35510,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_88",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35715,7 +35525,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_88",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35730,7 +35540,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_88",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35745,7 +35555,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_88",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35760,7 +35570,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_88",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35775,7 +35585,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_88",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35790,7 +35600,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_88",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35805,7 +35615,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_88",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35820,7 +35630,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_88",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35835,7 +35645,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_88",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35850,7 +35660,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_88",
         "Type": "Tile",
         "Sprited": false
     }
@@ -35862,12 +35672,12 @@
     {
       "FileName": "Item_2397",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -35880,9 +35690,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -35895,9 +35705,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -35910,9 +35720,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -35925,9 +35735,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -35940,9 +35750,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -35955,9 +35765,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -35970,9 +35780,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -35985,9 +35795,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -36000,9 +35810,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -36015,9 +35825,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -36030,9 +35840,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -36045,9 +35855,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -36060,9 +35870,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -36075,9 +35885,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -36090,9 +35900,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -36105,9 +35915,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -36120,9 +35930,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -36135,9 +35945,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -36150,9 +35960,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
+        "FileName": "Tiles_89",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -36165,8 +35975,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_Head_163",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -36180,8 +35990,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_171",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -36195,8 +36005,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Armor_Legs_106",
+        "Type": "Armor",
         "Sprited": false
     }
   ]
@@ -36210,8 +36020,13 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_127",
+        "Type": "Buff",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_380",
+        "Type": "Projectile",
         "Sprited": false
     }
   ]
@@ -36222,12 +36037,12 @@
     {
       "FileName": "Item_2421",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Projectile_381",
+        "Type": "Projectile",
+        "Sprited": true
     }
   ]
 },{
@@ -36237,12 +36052,12 @@
     {
       "FileName": "Item_2422",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Projectile_382",
+        "Type": "Projectile",
+        "Sprited": true
     }
   ]
 },{
@@ -36255,8 +36070,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Acc_Shoes_15",
+        "Type": "Sheet",
         "Sprited": false
     }
   ]
@@ -36270,8 +36085,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Projectile_383",
+        "Type": "Projectile",
         "Sprited": false
     }
   ]
@@ -36285,8 +36100,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_26",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -36300,8 +36115,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_206",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -36315,8 +36130,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Buff_206",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -36330,8 +36145,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Mount_Bunny",
+        "Type": "Mount",
         "Sprited": false
     }
   ]
@@ -36345,8 +36160,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
+        "FileName": "Mount_Pigron",
+        "Type": "Mount",
         "Sprited": false
     }
   ]
@@ -36357,12 +36172,12 @@
     {
       "FileName": "Item_2430",
       "Type": "Item",
-      "Sprited": false
+      "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Mount_Slime",
+        "Type": "Mount",
+        "Sprited": true
     }
   ]
 },{
