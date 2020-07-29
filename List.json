@@ -49571,7 +49571,7 @@
     },
     {
         "FileName": "Mount_MinecartMech",
-        "Type": "Tile",
+        "Type": "Mount",
         "Sprited": false
     },
     {
@@ -63361,12 +63361,12 @@
     },
     {
         "FileName": "Extra_96",
-        "Type": "Mount",
+        "Type": "Extra",
         "Sprited": false
     },
     {
         "FileName": "Extra_97",
-        "Type": "Mount",
+        "Type": "Extra",
         "Sprited": false
     },
     {
@@ -70406,7 +70406,7 @@
     },
     {
         "FileName": "Extra_149",
-        "Type": "Mount",
+        "Type": "Extra",
         "Sprited": false
     },
     {
