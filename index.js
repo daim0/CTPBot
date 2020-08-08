@@ -224,6 +224,14 @@ client.on('message', message => {
 
 
     }
+
+    else if(command === 'search')
+    {  
+        var test = fs.readFileSync("b.txt", "utf-8"); 
+        var WordArr = test.split('\n');
+        var lista = difflib.getCloseMatches(args[0], WordArr, n=20, cutoff=0.5);
+        return message.channel.send(lista);     
+    }
 });
 
 // Login to discord true hackerman style :sugnlasses.
