@@ -7,6 +7,7 @@ const { prefix, token } = require('./config.json');
 const fs = require('fs');
 const spriteList = require(fileName);
 const thingy = " | ";
+var difflib = require('difflib');
 
 // On startup.
 client.once('ready', () => {
