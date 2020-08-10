@@ -61,7 +61,10 @@ client.on('message', message => {
                 }
             }
             // If the user doesn't input a correct ID.
-            return message.channel.send(`Invalid Sprite ID (${args[0]}), ${message.author}`);
+            var test = fs.readFileSync("b.txt", "utf-8"); 
+            var WordArr = test.split('\n');
+            var list = difflib.getCloseMatches(args[0], WordArr, n=20, cutoff=0.5);
+            return message.channel.send("```" + `Invalid Sprite ID (${args[0]}), did you mean:\n` + list + "```");
         }
     }
     // status command.
@@ -230,8 +233,8 @@ client.on('message', message => {
     {  
         var test = fs.readFileSync("b.txt", "utf-8"); 
         var WordArr = test.split('\n');
-        var lista = difflib.getCloseMatches(args[0], WordArr, n=20, cutoff=0.5);
-        return message.channel.send(lista);     
+        var list = difflib.getCloseMatches(args[0], WordArr, n=20, cutoff=0.5);
+        return message.channel.send(list);     
     }
 });
 
