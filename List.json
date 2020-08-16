@@ -38910,6 +38910,26 @@
         "FileName": "Projectile_407",
         "Type": "Projectile",
         "Sprited": false
+    },
+    {
+        "FileName": "Projectile_408",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+     "FileName": "Gore_584",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_585",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_586",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -83295,6 +83315,21 @@
       "FileName": "NPC_332",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_491",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_492",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_493",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83345,6 +83380,16 @@
       "FileName": "NPC_337",
       "Type": "NPC",
       "Sprited": true
+     },
+     {
+      "FileName": "Gore_76",
+      "Type": "Gore",
+      "Sprited": true
+     },
+     {
+      "FileName": "Gore_77",
+      "Type": "Gore",
+      "Sprited": true
      }
   ]
 },{
@@ -83354,6 +83399,26 @@
     {
       "FileName": "NPC_338",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_494",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_497",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_498",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_499",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83365,6 +83430,26 @@
       "FileName": "NPC_339",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_495",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_497",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_498",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_499",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83374,6 +83459,26 @@
     {
       "FileName": "NPC_340",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_496",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_497",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_498",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_499",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83385,6 +83490,21 @@
       "FileName": "NPC_341",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_61",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_62",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_63",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83394,6 +83514,21 @@
     {
       "FileName": "NPC_342",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_500",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_501",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_502",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83405,6 +83540,26 @@
       "FileName": "NPC_343",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_503",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_504",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_505",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_506",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83414,6 +83569,31 @@
     {
       "FileName": "NPC_344",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_508",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_509",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_510",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_511",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_512",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83425,6 +83605,26 @@
       "FileName": "NPC_345",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_513",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_514",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_515",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_516",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83434,6 +83634,41 @@
     {
       "FileName": "NPC_346",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_517",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_518",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_519",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_520",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_521",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_522",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_523",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83445,6 +83680,26 @@
       "FileName": "NPC_347",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_524",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_525",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_526",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_527",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83454,6 +83709,31 @@
     {
       "FileName": "NPC_348",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_528",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_529",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_530",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_531",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_532",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83465,6 +83745,31 @@
       "FileName": "NPC_349",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_528",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_529",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_530",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_531",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_532",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83475,6 +83780,26 @@
       "FileName": "NPC_350",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_533",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_534",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_535",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_536",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83484,6 +83809,31 @@
     {
       "FileName": "NPC_351",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_538",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_539",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_540",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_541",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_542",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83505,6 +83855,36 @@
       "FileName": "NPC_353",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_543",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_544",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_545",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_546",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_926",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_936",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83514,6 +83894,26 @@
     {
       "FileName": "NPC_354",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_543",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_544",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_545",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_546",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83565,6 +83965,16 @@
       "FileName": "NPC_359",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_547",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_548",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83574,6 +83984,16 @@
     {
       "FileName": "NPC_360",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_549",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_550",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83585,6 +84005,16 @@
       "FileName": "NPC_361",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_551",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_552",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83594,6 +84024,21 @@
     {
       "FileName": "NPC_362",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_555",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_556",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_557",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83605,6 +84050,21 @@
       "FileName": "NPC_363",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_555",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_556",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_557",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83614,6 +84074,21 @@
     {
       "FileName": "NPC_364",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_558",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_559",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_560",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83625,6 +84100,21 @@
       "FileName": "NPC_365",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_558",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_559",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_560",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83634,6 +84124,21 @@
     {
       "FileName": "NPC_366",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_561",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_562",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_563",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83645,6 +84150,21 @@
       "FileName": "NPC_367",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_564",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_565",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_566",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83654,6 +84174,26 @@
     {
       "FileName": "NPC_368",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_567",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_568",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_569",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_939",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83665,6 +84205,21 @@
       "FileName": "NPC_369",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_61",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_62",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_63",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83674,6 +84229,26 @@
     {
       "FileName": "NPC_370",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_573",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_574",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_575",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_576",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83695,6 +84270,26 @@
       "FileName": "NPC_372",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_577",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_578",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_579",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_583",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83704,6 +84299,26 @@
     {
       "FileName": "NPC_373",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_577",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_578",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {   
+      "FileName": "Gore_579",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_583",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83735,6 +84350,21 @@
       "FileName": "NPC_376",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_61",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_62",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_63",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83755,6 +84385,21 @@
       "FileName": "NPC_378",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_61",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_62",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_63",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83764,6 +84409,16 @@
     {
       "FileName": "NPC_379",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_900",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_901",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83785,6 +84440,26 @@
       "FileName": "NPC_381",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_587",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_588",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_589",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_590",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83795,6 +84470,21 @@
       "FileName": "NPC_382",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_591",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_592",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_593",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83804,6 +84494,21 @@
     {
       "FileName": "NPC_383",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_594",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_595",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_596",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83825,6 +84530,21 @@
       "FileName": "NPC_385",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_597",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_598",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_599",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83834,6 +84554,21 @@
     {
       "FileName": "NPC_386",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_600",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_601",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_602",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83845,6 +84580,16 @@
       "FileName": "NPC_387",
       "Type": "NPC",
       "Sprited": true
+     },
+     {
+      "FileName": "Gore_603",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_604",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83854,6 +84599,16 @@
     {
       "FileName": "NPC_388",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_605",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_606",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83865,6 +84620,21 @@
       "FileName": "NPC_389",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_904",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_905",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_906",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83874,6 +84644,11 @@
     {
       "FileName": "NPC_390",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_591",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83885,6 +84660,21 @@
       "FileName": "NPC_391",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_607",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_608",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_609",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83894,6 +84684,36 @@
     {
       "FileName": "NPC_392",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_610",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_611",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_612",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_613",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_614",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_615",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83905,6 +84725,11 @@
       "FileName": "NPC_393",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_616",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83915,6 +84740,11 @@
       "FileName": "NPC_394",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_617",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83924,6 +84754,36 @@
     {
       "FileName": "NPC_395",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_610",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_611",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_612",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_613",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_614",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_615",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -83955,6 +84815,26 @@
       "FileName": "NPC_398",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_619",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_620",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_621",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_622",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -83965,7 +84845,17 @@
       "FileName": "NPC_399",
       "Type": "NPC",
       "Sprited": false
-     }
+    },
+    {
+     "FileName": "Gore_898",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_899",
+     "Type": "Gore",
+     "Sprited": false
+    }
   ]
 },{
   "Name": "MoonLordFreeEye",
@@ -84045,6 +84935,26 @@
       "FileName": "NPC_407",
       "Type": "NPC",
       "Sprited": true
+     },
+     {
+      "FileName": "Gore_778",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_779",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_780",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_781",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },      {
@@ -84055,6 +84965,21 @@
       "FileName": "NPC_409",
       "Type": "NPC",
       "Sprited": true
+     },
+     {
+      "FileName": "Gore_775",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_776",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_777",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -84075,6 +85000,21 @@
       "FileName": "NPC_411",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_772",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_773",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_774",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -84084,6 +85024,11 @@
     {
       "FileName": "NPC_412",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_828",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -84095,6 +85040,11 @@
       "FileName": "NPC_413",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_829",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -84104,6 +85054,11 @@
     {
       "FileName": "NPC_414",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_830",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -84115,6 +85070,26 @@
       "FileName": "NPC_415",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_831",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_832",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_833",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_834",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -84124,6 +85099,21 @@
     {
       "FileName": "NPC_416",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_835",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_836",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_844",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -84135,6 +85125,26 @@
       "FileName": "NPC_417",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_837",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_838",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_839",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_840",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -84144,6 +85154,21 @@
     {
       "FileName": "NPC_418",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_841",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_842",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_843",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -84155,6 +85180,26 @@
       "FileName": "NPC_419",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_844",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_845",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_846",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_847",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -84165,6 +85210,31 @@
       "FileName": "NPC_420",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_782",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_783",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_784",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_788",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_789",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -84174,6 +85244,21 @@
     {
       "FileName": "NPC_421",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_785",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_786",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_787",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -84195,6 +85280,21 @@
       "FileName": "NPC_423",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_790",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_791",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_792",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -84204,6 +85304,21 @@
     {
       "FileName": "NPC_424",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_793",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_794",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_795",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -84215,6 +85330,21 @@
       "FileName": "NPC_425",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_796",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_797",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_798",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -84224,6 +85354,21 @@
     {
       "FileName": "NPC_426",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_799",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_800",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_801",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -84235,6 +85380,26 @@
       "FileName": "NPC_427",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_802",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_803",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_804",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_805",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -84244,6 +85409,16 @@
     {
       "FileName": "NPC_428",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_806",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_807",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
@@ -84255,6 +85430,21 @@
       "FileName": "NPC_429",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_808",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_809",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_810",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -84264,6 +85454,21 @@
     {
       "FileName": "NPC_430",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_3",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_4",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_5",
+      "Type": "Gore",
       "Sprited": false
      }
   ]
