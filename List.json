@@ -1210,6 +1210,16 @@
          "FileName": "Projectile_12",
          "Type": "Projectile",
          "Sprited": true
+      },
+      {
+         "FileName": "Gore_16",
+         "Type": "Gore",
+         "Sprited": false
+      },
+      {
+         "FileName": "Gore_17",
+         "Type": "Gore",
+         "Sprited": false
       }
     ]
   },
@@ -7945,6 +7955,21 @@
       "FileName": "Item_508",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+     "FileName": "Gore_570",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_571",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_572",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -21375,6 +21400,106 @@
         "FileName": "Tiles_244",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+      "FileName": "Gore_411",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_412",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_413",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_414",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_415",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_416",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_417",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_418",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_419",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_420",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_421",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_422",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_423",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_424",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_425",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_426",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_427",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_428",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_429",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_430",
+      "Type": "Gore",
+      "Sprited": false
     }
   ]
 },{
@@ -35005,6 +35130,11 @@
         "FileName": "Projectile_370",
         "Type": "Projectile",
         "Sprited": true
+    },
+    {
+      "FileName": "Gore_331",
+      "Type": "Gore",
+      "Sprited": false
     }
   ]
 },{
@@ -35025,6 +35155,21 @@
         "FileName": "Projectile_371",
         "Type": "Projectile",
         "Sprited": true
+    },
+    {
+      "FileName": "Gore_435",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_436",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_437",
+      "Type": "Gore",
+      "Sprited": false
     }
   ]
 },{
@@ -46550,6 +46695,16 @@
         "FileName": "Projectile_510",
         "Type": "Projectile",
         "Sprited": true
+    },
+    {
+        "FileName": "Gore_704",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_705",
+        "Type": "Gore",
+        "Sprited": false
     }
   ]
 },{
@@ -47700,6 +47855,76 @@
         "FileName": "Tiles_373",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+        "FileName": "Gore_706",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_707",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_708",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_709",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_710",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_711",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_712",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_713",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_714",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_715",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_1147",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_1160",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_1161",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_1162",
+        "Type": "Gore",
+        "Sprited": false
     }
   ]
 },{
@@ -47725,6 +47950,11 @@
         "FileName": "Tiles_374",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+        "FileName": "Gore_716",
+        "Type": "Gore",
+        "Sprited": false
     }
   ]
 },{
@@ -47739,6 +47969,11 @@
     {
         "FileName": "Tiles_375",
         "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_717",
+        "Type": "Gore",
         "Sprited": false
     }
   ]
@@ -50274,6 +50509,21 @@
     {
         "FileName": "Tiles_406",
         "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_825",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_826",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_827",
+        "Type": "Gore",
         "Sprited": false
     }
   ]
@@ -56065,6 +56315,21 @@
         "FileName": "Tiles_452",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+        "FileName": "Gore_907",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_908",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_909",
+        "Type": "Gore",
+        "Sprited": false
     }
   ]
 },{
@@ -56640,6 +56905,11 @@
         "FileName": "Tiles_461",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_943",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61360,6 +61630,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61375,6 +61660,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61390,6 +61690,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61405,6 +61720,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61420,6 +61750,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61435,6 +61780,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61450,6 +61810,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61465,6 +61840,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61480,6 +61870,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61495,6 +61900,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61510,6 +61930,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61525,6 +61960,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61540,6 +61990,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61555,6 +62020,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61570,6 +62050,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61585,6 +62080,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61600,6 +62110,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61615,6 +62140,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61630,6 +62170,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61645,6 +62200,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61660,6 +62230,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61675,6 +62260,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61690,6 +62290,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61705,6 +62320,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61720,6 +62350,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61735,6 +62380,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61750,6 +62410,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61765,6 +62440,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61780,6 +62470,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61795,6 +62500,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61810,6 +62530,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -61825,6 +62560,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -62035,6 +62785,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -62395,6 +63160,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -62715,6 +63495,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -63035,6 +63830,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -63355,6 +64165,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -64710,6 +65535,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -68355,6 +69195,21 @@
         "FileName": "Tiles_565",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+        "FileName": "Gore_1202",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_1203",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_1204",
+        "Type": "Gore",
+        "Sprited": false
     }
   ]
 },{
@@ -68870,6 +69725,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -69234,6 +70104,11 @@
     {
         "FileName": "Projectile_820",
         "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_1201",
+        "Type": "Gore",
         "Sprited": false
     },
     {
@@ -71175,6 +72050,21 @@
         "FileName": "Tiles_497",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+     "FileName": "Gore_580",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_581",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_582",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -72240,6 +73130,11 @@
         "FileName": "Projectile_881",
         "Type": "Projectile",
         "Sprited": true
+    },
+    {
+        "FileName": "Gore_1226",
+        "Type": "Gore",
+        "Sprited": false
     }
   ]
 },{
@@ -74945,6 +75840,16 @@
         "FileName": "Projectile_934",
         "Type": "Projectile",
         "Sprited": true
+    },
+    {
+        "FileName": "Gore_1260",
+        "Type": "Gore",
+        "Sprited": false
+    },
+    {
+        "FileName": "Gore_1261",
+        "Type": "Gore",
+        "Sprited": false
     }
   ]
 },{
@@ -77070,6 +77975,11 @@
       "FileName": "Gore_63",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_927",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -77307,9 +78217,9 @@
       "Sprited": true
      },
      {
-      "FileName": "Gore_82",
+      "FileName": "Gore_83",
       "Type": "Gore",
-      "Sprited": true
+      "Sprited": false
      }
   ]
 },{
@@ -77930,6 +78840,11 @@
       "FileName": "Gore_63",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_1218",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -78420,6 +79335,11 @@
       "FileName": "Gore_129",
       "Type": "Gore",
       "Sprited": true
+     },
+     {
+      "FileName": "Gore_938",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -79120,6 +80040,11 @@
       "FileName": "Gore_159",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_933",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -79778,6 +80703,11 @@
      },
      {
       "FileName": "Gore_233",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_935",
       "Type": "Gore",
       "Sprited": false
      }
@@ -80790,6 +81720,11 @@
       "FileName": "Gore_323",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_931",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -80843,6 +81778,11 @@
      },
      {
       "FileName": "Gore_330",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_932",
       "Type": "Gore",
       "Sprited": false
      }
@@ -82530,6 +83470,11 @@
       "FileName": "Gore_438",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_439",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -84207,6 +85152,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Gore_937",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_939",
       "Type": "Gore",
       "Sprited": false
@@ -84728,6 +85678,11 @@
      },
      {
       "FileName": "Gore_615",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_618",
       "Type": "Gore",
       "Sprited": false
      }
@@ -85985,6 +86940,11 @@
       "FileName": "Gore_642",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_934",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -86303,6 +87263,11 @@
      },
      {
       "FileName": "Gore_658",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_659",
       "Type": "Gore",
       "Sprited": false
      }
@@ -87535,6 +88500,11 @@
       "FileName": "Gore_865",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_866",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -87547,9 +88517,9 @@
       "Sprited": false
      },
      {
-      "FileName": "Gore_866",
-      "Type": "Gore",
-      "Sprited": false
+      "FileName": "Buff_39",
+      "Type": "Buff",
+      "Sprited": true
      },
      {
       "FileName": "Gore_867",
@@ -87558,6 +88528,16 @@
      },
      {
       "FileName": "Gore_868",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_869",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_870",
       "Type": "Gore",
       "Sprited": false
      }
@@ -87572,17 +88552,27 @@
       "Sprited": false
      },
      {
-      "FileName": "Gore_869",
-      "Type": "Gore",
-      "Sprited": false
-     },
-     {
-      "FileName": "Gore_870",
-      "Type": "Gore",
-      "Sprited": false
+      "FileName": "Buff_69",
+      "Type": "Buff",
+      "Sprited": true
      },
      {
       "FileName": "Gore_871",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_872",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_873",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_874",
       "Type": "Gore",
       "Sprited": false
      }
@@ -87597,6 +88587,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Buff_31",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
       "FileName": "Gore_879",
       "Type": "Gore",
       "Sprited": false
@@ -87608,6 +88603,11 @@
      },
      {
       "FileName": "Gore_881",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_882",
       "Type": "Gore",
       "Sprited": false
      }
@@ -88587,6 +89587,16 @@
       "Sprited": false
      },
      {
+      "FileName": "Gore_1007",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_1008",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_1009",
       "Type": "Gore",
       "Sprited": false
@@ -88649,6 +89659,16 @@
     {
       "FileName": "NPC_565",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_1007",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_1008",
+      "Type": "Gore",
       "Sprited": false
      },
      {
@@ -88973,6 +89993,11 @@
      },
      {
       "FileName": "Gore_1053",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_1054",
       "Type": "Gore",
       "Sprited": false
      }
@@ -89830,6 +90855,11 @@
       "FileName": "Gore_1159",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Gore_1163",
+      "Type": "Gore",
+      "Sprited": false
      }
   ]
 },{
@@ -90283,6 +91313,11 @@
      },
      {
       "FileName": "Gore_1216",
+      "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Gore_1217",
       "Type": "Gore",
       "Sprited": false
      }
@@ -90811,6 +91846,271 @@
       "Type": "Dust",
       "Sprited": true
      }
+  ]
+},{
+  "Name": "Trees",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_5",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_910",
+      "Type": "Gore",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "Pots",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_28",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_51",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_52",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_53",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_166",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_167",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_168",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_169",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_170",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_171",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_172",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_173",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_174",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_197",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_198",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_199",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_200",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_201",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_202",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_203",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_204",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_217",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_218",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_219",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_315",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_316",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+     "FileName": "Gore_698",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_699",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_700",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_701",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_702",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_703",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1122",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1123",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1124",
+     "Type": "Gore",
+     "Sprited": false
+    }
+  ]
+},{
+  "Name": "MushroomTrees",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_72",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_912",
+      "Type": "Gore",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "PineTrees",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_170",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_913",
+      "Type": "Gore",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "Larva",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_231",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_300",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_301",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_302",
+      "Type": "Gore",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "PalmTrees",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_5",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_911",
+      "Type": "Gore",
+      "Sprited": false
+    }
   ]
 }
 ]
