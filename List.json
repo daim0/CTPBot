@@ -19077,9 +19077,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Projectile_261",
-        "Type": "Projectile",
-        "Sprited": true
+      "FileName": "Projectile_261",
+      "Type": "Projectile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_252",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -23117,9 +23122,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_Head_109",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_Head_109",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_208",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -27297,9 +27307,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_35",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_35",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_257",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -41010,6 +41025,11 @@
         "FileName": "Projectile_423",
         "Type": "Projectile",
         "Sprited": false
+    },
+    {
+        "FileName": "Glow_0",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -41132,8 +41152,18 @@
       "Sprited": true
     },
     {
+        "FileName": "Glow_26",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Armor_Head_169",
         "Type": "Armor",
+        "Sprited": true
+    },
+    {
+        "FileName": "Glow_15",
+        "Type": "Glow",
         "Sprited": true
     }
   ]
@@ -41147,9 +41177,24 @@
       "Sprited": true
     },
     {
+        "FileName": "Glow_27",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Armor_175",
         "Type": "Armor",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_13",
+        "Type": "Glow",
+        "Sprited": true
+    },
+    {
+        "FileName": "Glow_18",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -41162,9 +41207,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Armor_Legs_110",
-        "Type": "Armor",
-        "Sprited": true
+      "FileName": "Armor_Legs_110",
+      "Type": "Armor",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_199",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -41177,8 +41227,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_28",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Armor_Head_170",
         "Type": "Armor",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_16",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -41192,8 +41252,28 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_29",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Armor_176",
         "Type": "Armor",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_12",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_14",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_19",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -41207,8 +41287,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_30",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Armor_Legs_111",
         "Type": "Armor",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_17",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -41360,6 +41450,11 @@
         "FileName": "Wings_27",
         "Type": "Wings",
         "Sprited": false
+    },
+    {
+        "FileName": "Glow_92",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -41400,6 +41495,11 @@
       "FileName": "Item_2772",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+        "FileName": "Glow_1",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -41412,8 +41512,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_20",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Projectile_427",
         "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_2",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -41427,8 +41537,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_21",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Projectile_428",
         "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_3",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -41440,6 +41560,11 @@
       "FileName": "Item_2775",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+        "FileName": "Glow_4",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -41450,6 +41575,11 @@
       "FileName": "Item_2776",
       "Type": "Item",
       "Sprited": true
+    },
+    {
+        "FileName": "Glow_5",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -41460,6 +41590,11 @@
       "FileName": "Item_2777",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+        "FileName": "Glow_6",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -41472,8 +41607,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_22",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Projectile_429",
         "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_7",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -41487,8 +41632,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_23",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Projectile_430",
         "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_8",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -41500,6 +41655,11 @@
       "FileName": "Item_2780",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+        "FileName": "Glow_9",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -41510,6 +41670,11 @@
       "FileName": "Item_2781",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+        "FileName": "Glow_10",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -41702,8 +41867,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_47",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Projectile_439",
         "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_35",
+        "Type": "Glow",
         "Sprited": false
     },
     {
@@ -41722,8 +41897,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_36",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Projectile_442",
         "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_37",
+        "Type": "Glow",
         "Sprited": false
     },
     {
@@ -41742,6 +41927,11 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_38",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Projectile_444",
         "Type": "Projectile",
         "Sprited": false
@@ -41757,8 +41947,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_39",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Projectile_445",
         "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_40",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -41877,8 +42077,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_46",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Armor_Head_175",
         "Type": "Armor",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_41",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -41892,8 +42102,28 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_45",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Armor_179",
         "Type": "Armor",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_42",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_43",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_44",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -41910,6 +42140,11 @@
         "FileName": "Armor_Legs_114",
         "Type": "Armor",
         "Sprited": false
+    },
+    {
+        "FileName": "Glow_43",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -41922,8 +42157,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_70",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_104",
         "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_51",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -41937,8 +42182,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_71",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_90",
         "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_52",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -41952,9 +42207,19 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_72",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_79",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_53",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -41967,9 +42232,19 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_73",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_15",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_54",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -41982,8 +42257,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_74",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_34",
         "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_55",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -41997,9 +42282,19 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_75",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_21",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_56",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -42012,14 +42307,29 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_76",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_10",
         "Type": "Tile",
         "Sprited": true
     },
     {
+        "FileName": "Glow_57",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_11",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_58",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -42032,9 +42342,19 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_77",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_88",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_59",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -42047,8 +42367,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_78",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_101",
         "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_60",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -42062,9 +42392,19 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_79",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_33",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_61",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -42077,9 +42417,19 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_80",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_93",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_62",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -42092,8 +42442,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_81",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_42",
         "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_63",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -42107,8 +42467,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_82",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_87",
         "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_64",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -42122,9 +42492,19 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_83",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_19",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_65",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -42137,9 +42517,19 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_84",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_89",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_66",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -42152,9 +42542,19 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_85",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_14",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_67",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -42167,9 +42567,19 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_86",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_100",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_68",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -42182,9 +42592,19 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_87",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_18",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_69",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -42617,8 +43037,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_89",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_172",
         "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_88",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -42692,8 +43122,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_93",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_350",
         "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_94",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -42705,6 +43145,11 @@
       "FileName": "Item_2861",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+        "FileName": "Glow_95",
+        "Type": "Glow",
+        "Sprited": false
     },
     {
         "FileName": "Wall_176",
@@ -42722,8 +43167,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_97",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Armor_Head_178",
         "Type": "Armor",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_96",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -42735,6 +43190,11 @@
       "FileName": "Item_2863",
       "Type": "Item",
       "Sprited": true
+    },
+    {
+        "FileName": "Glow_98",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -42745,6 +43205,11 @@
       "FileName": "Item_2864",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+        "FileName": "Glow_99",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -42905,6 +43370,11 @@
       "FileName": "Item_2878",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+      "FileName": "Glow_105",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -42915,6 +43385,11 @@
       "FileName": "Item_2879",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+        "FileName": "Glow_104",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -42962,6 +43437,11 @@
         "Sprited": false
     },
     {
+        "FileName": "Glow_102",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Projectile_461",
         "Type": "Projectile",
         "Sprited": false
@@ -42975,6 +43455,11 @@
       "FileName": "Item_2883",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+        "FileName": "Glow_103",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -42985,6 +43470,11 @@
       "FileName": "Item_2884",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+      "FileName": "Glow_107",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -42994,6 +43484,11 @@
     {
       "FileName": "Item_2885",
       "Type": "Item",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_106",
+      "Type": "Glow",
       "Sprited": false
     }
   ]
@@ -46625,6 +47120,11 @@
         "FileName": "Tiles_370",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+        "FileName": "Glow_111",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -47000,6 +47500,11 @@
         "FileName": "Tiles_104",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+        "FileName": "Glow_118",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -47050,6 +47555,11 @@
         "FileName": "Tiles_11",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_119",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -47105,6 +47615,11 @@
         "FileName": "Tiles_88",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_120",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -47240,6 +47755,11 @@
         "FileName": "Tiles_87",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+        "FileName": "Glow_121",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -47285,6 +47805,11 @@
         "FileName": "Tiles_19",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_112",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -47329,6 +47854,11 @@
     {
         "FileName": "Tiles_172",
         "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_122",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -47375,6 +47905,11 @@
         "FileName": "Tiles_89",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_123",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -47420,6 +47955,11 @@
         "FileName": "Tiles_14",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_124",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -47465,6 +48005,11 @@
         "FileName": "Tiles_18",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_125",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -47509,6 +48054,11 @@
     {
         "FileName": "Tiles_90",
         "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_113",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -47555,6 +48105,11 @@
         "FileName": "Tiles_79",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_114",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -47599,6 +48154,11 @@
     {
         "FileName": "Tiles_101",
         "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_115",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -47735,6 +48295,11 @@
         "FileName": "Tiles_15",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_116",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -47825,6 +48390,11 @@
         "FileName": "Tiles_21",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Glow_117",
+        "Type": "Glow",
+        "Sprited": false
     }
   ]
 },{
@@ -48052,9 +48622,14 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_484",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_484",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_131",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -49007,8 +49582,18 @@
       "Sprited": false
     },
     {
+        "FileName": "Glow_129",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
         "FileName": "Tiles_390",
         "Type": "Tile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_130",
+        "Type": "Glow",
         "Sprited": false
     }
   ]
@@ -50772,19 +51357,24 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_Head_189",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_Head_189",
+      "Type": "Armor",
+      "Sprited": false
     },
     {
-        "FileName": "Buff_187",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Glow_184",
+      "Type": "Glow",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_623",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Buff_187",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_623",
+      "Type": "Projectile",
+      "Sprited": false
     }
   ]
 },{
@@ -50797,9 +51387,24 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_190",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_190",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_185",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_186",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_188",
+      "Type": "Glow",
+      "Sprited": false
     },
     {
         "FileName": "Buff_187",
@@ -50822,19 +51427,24 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_Legs_130",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_Legs_130",
+      "Type": "Armor",
+      "Sprited": false
     },
     {
-        "FileName": "Buff_187",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Glow_187",
+      "Type": "Glow",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_623",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Buff_187",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_623",
+      "Type": "Projectile",
+      "Sprited": false
     }
   ]
 },{
@@ -50848,6 +51458,21 @@
     },
     {
         "FileName": "Projectile_600",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Glow_173",
+        "Type": "Glow",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_601",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_602",
         "Type": "Projectile",
         "Sprited": false
     }
@@ -52315,6 +52940,11 @@
       "FileName": "Item_3462",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+      "FileName": "Glow_174",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -52327,9 +52957,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_610",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Glow_175",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_610",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_179",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -52342,9 +52982,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_609",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Glow_176",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_609",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_180",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -52355,6 +53005,11 @@
       "FileName": "Item_3465",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+      "FileName": "Glow_177",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -52364,6 +53019,11 @@
     {
       "FileName": "Item_3466",
       "Type": "Item",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_178",
+      "Type": "Glow",
       "Sprited": false
     }
   ]
@@ -52407,9 +53067,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Wings_30",
-        "Type": "Wings",
-        "Sprited": true
+      "FileName": "Wings_30",
+      "Type": "Wings",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_181",
+      "Type": "Glow",
+      "Sprited": true
     }
   ]
 },{
@@ -52422,9 +53087,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wings_31",
-        "Type": "Wings",
-        "Sprited": false
+      "FileName": "Wings_31",
+      "Type": "Wings",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_182",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -52437,9 +53107,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wings_32",
-        "Type": "Wings",
-        "Sprited": false
+      "FileName": "Wings_32",
+      "Type": "Wings",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_183",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -52492,14 +53167,29 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_182",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_182",
+      "Type": "Buff",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_613",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_613",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_189",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_614",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_190",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -52512,14 +53202,34 @@
       "Sprited": true
     },
     {
-        "FileName": "Projectile_615",
-        "Type": "Projectile",
-        "Sprited": true
+      "FileName": "Glow_191",
+      "Type": "Glow",
+      "Sprited": true
     },
     {
-        "FileName": "Projectile_616",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_615",
+      "Type": "Projectile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_192",
+      "Type": "Glow",
+      "Sprited": true
+    },
+    {
+      "FileName": "Projectile_616",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_618",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_193",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -52532,24 +53242,29 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_617",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Glow_194",
+      "Type": "Glow",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_618",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Glow_195",
+      "Type": "Glow",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_619",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_617",
+      "Type": "Projectile",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_620",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_619",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_620",
+      "Type": "Projectile",
+      "Sprited": false
     }
   ]
 },{
@@ -52562,9 +53277,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_621",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_621",
+      "Type": "Projectile",
+      "Sprited": false
     }
   ]
 },{
@@ -52577,9 +53292,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_Head_190",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_Head_190",
+      "Type": "Armor",
+      "Sprited": false
     }
   ]
 },{
@@ -53070,6 +53785,11 @@
       "FileName": "Item_3523",
       "Type": "Item",
       "Sprited": true
+    },
+    {
+      "FileName": "Glow_196",
+      "Type": "Glow",
+      "Sprited": true
     }
   ]
 },{
@@ -53080,6 +53800,11 @@
       "FileName": "Item_3524",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+      "FileName": "Glow_197",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -53089,6 +53814,11 @@
     {
       "FileName": "Item_3525",
       "Type": "Item",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_198",
+      "Type": "Glow",
       "Sprited": false
     }
   ]
@@ -53232,9 +53962,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_410",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_410",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_201",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -53247,9 +53982,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_410",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_410",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_201",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -53262,9 +54002,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_410",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_410",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_201",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -53277,9 +54022,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_410",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_410",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_201",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -53292,14 +54042,19 @@
       "Sprited": true
     },
     {
-        "FileName": "Projectile_630",
-        "Type": "Projectile",
-        "Sprited": true
+      "FileName": "Projectile_630",
+      "Type": "Projectile",
+      "Sprited": true
     },
     {
-        "FileName": "Projectile_630",
-        "Type": "Projectile",
-        "Sprited": true
+      "FileName": "Glow_200",
+      "Type": "Glow",
+      "Sprited": true
+    },
+    {
+      "FileName": "Projectile_630",
+      "Type": "Projectile",
+      "Sprited": true
     }
   ]
 },{
@@ -53332,14 +54087,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_634",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_634",
+      "Type": "Projectile",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_635",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Glow_207",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_635",
+      "Type": "Projectile",
+      "Sprited": false
     }
   ]
 },{
@@ -53457,9 +54217,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_412",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_412",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_202",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -53742,64 +54507,84 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_646",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_646",
+      "Type": "Projectile",
+      "Sprited": false
     },
     {
-        "FileName": "Chains_8",
-        "Type": "Chain",
-        "Sprited": false
+      "FileName": "Glow_203",
+      "Type": "Glow",
+      "Sprited": false
     },
     {
-        "FileName": "Chains_12",
-        "Type": "Chain",
-        "Sprited": false
+      "FileName": "Chains_8",
+      "Type": "Chain",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_647",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Chains_12",
+      "Type": "Chain",
+      "Sprited": false
     },
     {
-        "FileName": "Chains_9",
-        "Type": "Chain",
-        "Sprited": true
+      "FileName": "Projectile_647",
+      "Type": "Projectile",
+      "Sprited": false
     },
     {
-        "FileName": "Chains_13",
-        "Type": "Chain",
-        "Sprited": false
+      "FileName": "Glow_204",
+      "Type": "Glow",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_648",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Chains_9",
+      "Type": "Chain",
+      "Sprited": true
     },
     {
-        "FileName": "Chains_10",
-        "Type": "Chain",
-        "Sprited": false
+      "FileName": "Chains_13",
+      "Type": "Chain",
+      "Sprited": false
     },
     {
-        "FileName": "Chains_14",
-        "Type": "Chain",
-        "Sprited": false
+      "FileName": "Projectile_648",
+      "Type": "Projectile",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_649",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Glow_205",
+      "Type": "Glow",
+      "Sprited": false
     },
     {
-        "FileName": "Chains_11",
-        "Type": "Chain",
-        "Sprited": false
+      "FileName": "Chains_10",
+      "Type": "Chain",
+      "Sprited": false
     },
     {
-        "FileName": "Chains_15",
-        "Type": "Chain",
-        "Sprited": false
+      "FileName": "Chains_14",
+      "Type": "Chain",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_649",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_206",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Chains_11",
+      "Type": "Chain",
+      "Sprited": false
+    },
+    {
+      "FileName": "Chains_15",
+      "Type": "Chain",
+      "Sprited": false
     }
   ]
 },{
@@ -54057,9 +54842,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_Head_193",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_Head_193",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_209",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -54072,9 +54862,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_194",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_194",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_210",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_211",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -54087,9 +54887,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_Legs_134",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_Legs_134",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_212",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -54102,9 +54907,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wings_36",
-        "Type": "Wings",
-        "Sprited": false
+      "FileName": "Wings_36",
+      "Type": "Wings",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_213",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -54622,9 +55432,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_429",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_429",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_214",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -55147,9 +55962,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_209",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_209",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_215",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -55720,6 +56540,11 @@
         "FileName": "Tiles_441",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Gore_117",
+        "Type": "Gore",
+        "Sprited": false
     }
   ]
 },{
@@ -56782,9 +57607,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_198",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_198",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_217",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -56857,9 +57687,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_659",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Glow_218",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_659",
+      "Type": "Projectile",
+      "Sprited": false
     }
   ]
 },{
@@ -56992,9 +57827,19 @@
       "Sprited": true
     },
     {
-        "FileName": "Projectile_661",
-        "Type": "Projectile",
-        "Sprited": true
+      "FileName": "Glow_219",
+      "Type": "Glow",
+      "Sprited": true
+    },
+    {
+      "FileName": "Projectile_661",
+      "Type": "Projectile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_220",
+      "Type": "Glow",
+      "Sprited": true
     }
   ]
 },{
@@ -57387,9 +58232,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_463",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Glow_244",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Tiles_463",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_243",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -57457,9 +58312,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_663",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_663",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_221",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -57472,9 +58332,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_665",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_665",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_222",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -57487,9 +58352,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_667",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_667",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_223",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -57587,9 +58457,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_684",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Glow_227",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_684",
+      "Type": "Projectile",
+      "Sprited": false
     }
   ]
 },{
@@ -57612,9 +58487,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_688",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_688",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_228",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -57627,9 +58507,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_689",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_689",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_229",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -57642,9 +58527,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_690",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_690",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_230",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -57657,9 +58547,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_691",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_691",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_235",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -57672,9 +58567,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_692",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_692",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_236",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -57687,9 +58587,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_693",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_693",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_237",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -57702,9 +58607,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_697",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_697",
+      "Type": "Projectile",
+      "Sprited": false
     }
   ]
 },{
@@ -57725,6 +58630,11 @@
         "FileName": "Projectile_700",
         "Type": "Projectile",
         "Sprited": false
+    },
+    {
+      "FileName": "Glow_231",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -58102,19 +59012,29 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_707",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Glow_233",
+      "Type": "Glow",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_708",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_707",
+      "Type": "Projectile",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_709",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_708",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_709",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_232",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -58124,6 +59044,11 @@
     {
       "FileName": "Item_3859",
       "Type": "Item",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_234",
+      "Type": "Glow",
       "Sprited": false
     }
   ]
@@ -58272,14 +59197,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_203",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Glow_238",
+      "Type": "Glow",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_711",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Buff_203",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_711",
+      "Type": "Projectile",
+      "Sprited": false
     }
   ]
 },{
@@ -58292,9 +59222,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_Head_210",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Glow_242",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Armor_Head_210",
+      "Type": "Armor",
+      "Sprited": false
     }
   ]
 },{
@@ -58337,9 +59272,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_Head_211",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Glow_240",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Armor_Head_211",
+      "Type": "Armor",
+      "Sprited": false
     }
   ]
 },{
@@ -58352,9 +59292,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_205",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Glow_241",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Armor_205",
+      "Type": "Armor",
+      "Sprited": false
     }
   ]
 },{
@@ -59052,9 +59997,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_Head_214",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_Head_214",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_245",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -59067,9 +60017,24 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_208",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_208",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_246",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_247",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_248",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -59082,9 +60047,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_Legs_158",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_Legs_158",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_249",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_250",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -59097,9 +60072,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wings_38",
-        "Type": "Wings",
-        "Sprited": false
+      "FileName": "Wings_38",
+      "Type": "Wings",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_251",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -60352,9 +61332,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_Head_216",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_Head_216",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_256",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -65572,9 +66557,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_410",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_410",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_265",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -66102,9 +67092,29 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_381",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Tiles_381",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_126",
+      "Type": "Glow",
+      "Sprited": true
+    },
+    {
+      "FileName": "Tiles_517",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_258",
+      "Type": "Glow",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_127",
+      "Type": "Glow",
+      "Sprited": true
     }
   ]
 },{
@@ -66462,9 +67472,29 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_534",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Tiles_534",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_259",
+      "Type": "Glow",
+      "Sprited": true
+    },
+    {
+      "FileName": "Tiles_535",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_260",
+      "Type": "Glow",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_127",
+      "Type": "Glow",
+      "Sprited": true
     }
   ]
 },{
@@ -66477,9 +67507,29 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_536",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Tiles_536",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_261",
+      "Type": "Glow",
+      "Sprited": true
+    },
+    {
+      "FileName": "Tiles_537",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_262",
+      "Type": "Glow",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_127",
+      "Type": "Glow",
+      "Sprited": true
     }
   ]
 },{
@@ -66637,9 +67687,29 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_539",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Tiles_539",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_263",
+      "Type": "Glow",
+      "Sprited": true
+    },
+    {
+      "FileName": "Tiles_540",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_264",
+      "Type": "Glow",
+      "Sprited": true
+    },
+    {
+      "FileName": "Glow_127",
+      "Type": "Glow",
+      "Sprited": true
     }
   ]
 },{
@@ -67127,9 +68197,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_773",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_773",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_266",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -69222,9 +70297,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_564",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_564",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_267",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -70852,9 +71932,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_570",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_570",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_268",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -70867,9 +71952,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_569",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_569",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_269",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -70882,9 +71972,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_568",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_568",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_270",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -71912,9 +73007,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_857",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_857",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_271",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -72422,9 +73522,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wings_43",
-        "Type": "Wings",
-        "Sprited": false
+      "FileName": "Wings_43",
+      "Type": "Wings",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_272",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -72437,9 +73542,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_Head_240",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_Head_240",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_273",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -72452,9 +73562,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_227",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_227",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_274",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73042,14 +74157,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_167",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_167",
+      "Type": "Extra",
+      "Sprited": false
     },
     {
-        "FileName": "Buff_280",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_280",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_283",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73082,14 +74202,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_169",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_169",
+      "Type": "Extra",
+      "Sprited": false
     },
     {
-        "FileName": "Buff_282",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_282",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_284",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73134,7 +74259,7 @@
     {
         "FileName": "Gore_1226",
         "Type": "Gore",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -73247,14 +74372,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_290",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_290",
+      "Type": "Buff",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_887",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_887",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_275",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73287,14 +74417,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_292",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_292",
+      "Type": "Buff",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_889",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_889",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_276",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73327,14 +74462,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_294",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_294",
+      "Type": "Buff",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_891",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_891",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_277",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73387,14 +74527,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_297",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_297",
+      "Type": "Buff",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_894",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_894",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_282",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73427,14 +74572,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_299",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_299",
+      "Type": "Buff",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_896",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_896",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_278",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73447,14 +74597,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_300",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_300",
+      "Type": "Buff",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_897",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_897",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_279",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73467,14 +74622,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_301",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_301",
+      "Type": "Buff",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_898",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_898",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_280",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73487,14 +74647,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_302",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_302",
+      "Type": "Buff",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_899",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_899",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_281",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73682,14 +74847,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_172",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_172",
+      "Type": "Extra",
+      "Sprited": false
     },
     {
-        "FileName": "Buff_305",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_305",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_285",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73722,9 +74892,19 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_639",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_639",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_286",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_1227",
+      "Type": "Gore",
+      "Sprited": false
     }
   ]
 },{
@@ -73737,9 +74917,19 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_640",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_640",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_286",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_1228",
+      "Type": "Gore",
+      "Sprited": false
     }
   ]
 },{
@@ -73752,9 +74942,19 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_641",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_641",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_286",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_1229",
+      "Type": "Gore",
+      "Sprited": false
     }
   ]
 },{
@@ -73767,9 +74967,19 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_642",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_642",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_286",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_1230",
+      "Type": "Gore",
+      "Sprited": false
     }
   ]
 },{
@@ -73782,9 +74992,19 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_643",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_643",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_286",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_1231",
+      "Type": "Gore",
+      "Sprited": false
     }
   ]
 },{
@@ -73797,9 +75017,19 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_644",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_644",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_286",
+      "Type": "Glow",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_1232",
+      "Type": "Gore",
+      "Sprited": false
     }
   ]
 },{
@@ -73812,9 +75042,19 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_645",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_645",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_1233",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_286",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73827,9 +75067,24 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_646",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_646",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+     "FileName": "Glow_287",
+     "Type": "Glow",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1234",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1235",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -73842,9 +75097,24 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_647",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_647",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+     "FileName": "Glow_287",
+     "Type": "Glow",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1236",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1237",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -73857,9 +75127,24 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_648",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_648",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+     "FileName": "Glow_287",
+     "Type": "Glow",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1238",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1239",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -73872,9 +75157,24 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_649",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_649",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+     "FileName": "Glow_287",
+     "Type": "Glow",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1240",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1241",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -73887,9 +75187,24 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_650",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_650",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+     "FileName": "Glow_287",
+     "Type": "Glow",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1242",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1243",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -73902,9 +75217,24 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_651",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_651",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+     "FileName": "Glow_287",
+     "Type": "Glow",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1244",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1245",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -73917,9 +75247,24 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_652",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_652",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+     "FileName": "Glow_287",
+     "Type": "Glow",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1246",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_1247",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -73932,9 +75277,14 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_653",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_653",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_288",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73947,9 +75297,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_295",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_295",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_289",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73962,9 +75317,14 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_654",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_654",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_290",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73977,9 +75337,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_580",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_580",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_291",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -73992,9 +75357,14 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_655",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_655",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_292",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -74007,9 +75377,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_582",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_582",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_293",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -74227,9 +75602,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_592",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_592",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_294",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -74242,9 +75622,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_593",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_593",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_295",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -74257,9 +75642,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_594",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_594",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_296",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -74752,9 +76142,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_548",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_548",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_297",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -74767,9 +76162,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_549",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_548",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_297",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -74782,9 +76182,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_613",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_613",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_298",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -74797,9 +76202,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_613",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_613",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_298",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -74815,6 +76225,11 @@
         "FileName": "Tiles_614",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+      "FileName": "Glow_299",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -75844,12 +77259,12 @@
     {
         "FileName": "Gore_1260",
         "Type": "Gore",
-        "Sprited": false
+        "Sprited": true
     },
     {
         "FileName": "Gore_1261",
         "Type": "Gore",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -75892,9 +77307,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_619",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_619",
+      "Type": "Tile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_300",
+      "Type": "Glow",
+      "Sprited": false
     }
   ]
 },{
@@ -78219,7 +79639,7 @@
      {
       "FileName": "Gore_83",
       "Type": "Gore",
-      "Sprited": false
+      "Sprited": true
      }
   ]
 },{
@@ -80322,6 +81742,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_166",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_188",
       "Type": "Gore",
       "Sprited": false
@@ -81314,6 +82739,11 @@
     {
       "FileName": "NPC_209",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_167",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -82505,6 +83935,11 @@
       "FileName": "NPC_261",
       "Type": "NPC",
       "Sprited": true
+     },
+     {
+      "FileName": "Glow_168",
+      "Type": "Glow",
+      "Sprited": false
      },
      {
       "FileName": "Gore_375",
@@ -83882,6 +85317,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_255",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_446",
       "Type": "Gore",
       "Sprited": false
@@ -84532,6 +85972,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_253",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_508",
       "Type": "Gore",
       "Sprited": false
@@ -84594,6 +86039,11 @@
     {
       "FileName": "NPC_346",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_254",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -85407,6 +86857,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_24",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_587",
       "Type": "Gore",
       "Sprited": false
@@ -85459,6 +86914,11 @@
     {
       "FileName": "NPC_383",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_11",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -85522,6 +86982,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_31",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_600",
       "Type": "Gore",
       "Sprited": false
@@ -85547,6 +87012,11 @@
       "Sprited": true
      },
      {
+      "FileName": "Glow_32",
+      "Type": "Glow",
+      "Sprited": true
+     },
+     {
       "FileName": "Gore_603",
       "Type": "Gore",
       "Sprited": true
@@ -85567,6 +87037,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_33",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_605",
       "Type": "Gore",
       "Sprited": false
@@ -85584,6 +87059,11 @@
     {
       "FileName": "NPC_389",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_34",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -85652,6 +87132,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_48",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_610",
       "Type": "Gore",
       "Sprited": false
@@ -85697,6 +87182,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_49",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_616",
       "Type": "Gore",
       "Sprited": false
@@ -85709,6 +87199,11 @@
     {
       "FileName": "NPC_394",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_50",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -85817,6 +87312,16 @@
       "Sprited": false
     },
     {
+     "FileName": "Glow_100",
+     "Type": "Glow",
+     "Sprited": false
+    },
+    {
+     "FileName": "Glow_101",
+     "Type": "Glow",
+     "Sprited": false
+    },
+    {
      "FileName": "Gore_898",
      "Type": "Gore",
      "Sprited": false
@@ -85855,7 +87360,12 @@
       "FileName": "NPC_402",
       "Type": "NPC",
       "Sprited": true
-     }
+    },
+    {
+      "FileName": "Glow_135",
+      "Type": "Glow",
+      "Sprited": true
+    }
   ]
 },{
   "Name": "StardustWormBody",
@@ -85865,7 +87375,12 @@
       "FileName": "NPC_403",
       "Type": "NPC",
       "Sprited": true
-     }
+    },
+    {
+      "FileName": "Glow_133",
+      "Type": "Glow",
+      "Sprited": true
+    }
   ]
 },{
   "Name": "StardustWormTail",
@@ -85875,7 +87390,12 @@
       "FileName": "NPC_404",
       "Type": "NPC",
       "Sprited": true
-     }
+    },
+    {
+      "FileName": "Glow_134",
+      "Type": "Glow",
+      "Sprited": true
+    }
   ]
 },{
   "Name": "StardustCellBig",
@@ -85885,7 +87405,12 @@
       "FileName": "NPC_405",
       "Type": "NPC",
       "Sprited": false
-     }
+    },
+    {
+     "FileName": "Glow_141",
+     "Type": "Glow",
+     "Sprited": false
+    }
   ]
 },{
   "Name": "StardustCellSmall",
@@ -85895,7 +87420,12 @@
       "FileName": "NPC_406",
       "Type": "NPC",
       "Sprited": false
-     }
+    },
+    {
+     "FileName": "Glow_142",
+     "Type": "Glow",
+     "Sprited": false
+    }
   ]
 },{
   "Name": "StardustJellyfishBig",
@@ -85905,6 +87435,16 @@
       "FileName": "NPC_407",
       "Type": "NPC",
       "Sprited": true
+     },
+     {
+      "FileName": "Glow_139",
+      "Type": "Glow",
+      "Sprited": true
+     },
+     {
+      "FileName": "Glow_140",
+      "Type": "Glow",
+      "Sprited": false
      },
      {
       "FileName": "Gore_778",
@@ -85937,6 +87477,11 @@
       "Sprited": true
      },
      {
+      "FileName": "Glow_138",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_775",
       "Type": "Gore",
       "Sprited": false
@@ -85960,6 +87505,11 @@
       "FileName": "NPC_410",
       "Type": "NPC",
       "Sprited": true
+     },
+     {
+      "FileName": "Glow_137",
+      "Type": "Glow",
+      "Sprited": false
      }
   ]
 },{
@@ -85969,6 +87519,11 @@
     {
       "FileName": "NPC_411",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_136",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -85997,6 +87552,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_157",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_828",
       "Type": "Gore",
       "Sprited": false
@@ -86009,6 +87569,11 @@
     {
       "FileName": "NPC_413",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_158",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -86027,6 +87592,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_159",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_830",
       "Type": "Gore",
       "Sprited": false
@@ -86039,6 +87609,11 @@
     {
       "FileName": "NPC_415",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_155",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -86072,6 +87647,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_156",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_835",
       "Type": "Gore",
       "Sprited": false
@@ -86094,6 +87674,11 @@
     {
       "FileName": "NPC_417",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_160",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -86127,6 +87712,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_161",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_841",
       "Type": "Gore",
       "Sprited": false
@@ -86149,6 +87739,11 @@
     {
       "FileName": "NPC_419",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_154",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -86179,6 +87774,16 @@
     {
       "FileName": "NPC_420",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_147",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_148",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -86217,6 +87822,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_146",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_785",
       "Type": "Gore",
       "Sprited": false
@@ -86240,6 +87850,11 @@
       "FileName": "NPC_422",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Glow_149",
+      "Type": "Glow",
+      "Sprited": false
      }
   ]
 },{
@@ -86249,6 +87864,11 @@
     {
       "FileName": "NPC_423",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_145",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -86277,6 +87897,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_144",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_793",
       "Type": "Gore",
       "Sprited": false
@@ -86299,6 +87924,11 @@
     {
       "FileName": "NPC_425",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_150",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -86327,6 +87957,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_153",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_799",
       "Type": "Gore",
       "Sprited": false
@@ -86349,6 +87984,11 @@
     {
       "FileName": "NPC_427",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_152",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -86399,6 +88039,11 @@
     {
       "FileName": "NPC_429",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_151",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -86599,6 +88244,16 @@
     {
       "FileName": "NPC_437",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_108",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_109",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -87290,6 +88945,11 @@
       "FileName": "Gore_661",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Glow_128",
+      "Type": "Glow",
+      "Sprited": false
      }
   ]
 },{
@@ -87404,6 +89064,11 @@
     {
       "FileName": "NPC_472",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_110",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -87700,7 +89365,17 @@
       "FileName": "NPC_484",
       "Type": "NPC",
       "Sprited": false
-     }
+    },
+    {
+      "FileName": "Gore_130",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Glow_131",
+      "Type": "Glow",
+      "Sprited": false
+    }
   ]
 },{
   "Name": "Grubby",
@@ -87895,7 +89570,12 @@
       "FileName": "NPC_493",
       "Type": "NPC",
       "Sprited": false
-     }
+    },
+    {
+      "FileName": "Glow_132",
+      "Type": "Glow",
+      "Sprited": false
+    }
   ]
 },{
   "Name": "Crawdad",
@@ -88210,6 +89890,11 @@
       "FileName": "NPC_507",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Glow_143",
+      "Type": "Glow",
+      "Sprited": false
      }
   ]
 },{
@@ -88380,6 +90065,11 @@
       "FileName": "NPC_517",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Glow_162",
+      "Type": "Glow",
+      "Sprited": false
      }
   ]
 },{
@@ -88389,6 +90079,11 @@
     {
       "FileName": "NPC_518",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_163",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -88419,6 +90114,16 @@
     {
       "FileName": "NPC_520",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_164",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_165",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -88517,6 +90222,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_169",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Buff_39",
       "Type": "Buff",
       "Sprited": true
@@ -88552,6 +90262,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_170",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Buff_69",
       "Type": "Buff",
       "Sprited": true
@@ -88584,6 +90299,11 @@
     {
       "FileName": "NPC_527",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_171",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -88770,6 +90490,11 @@
       "FileName": "NPC_533",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Glow_172",
+      "Type": "Glow",
+      "Sprited": false
      }
   ]
 },{
@@ -88900,6 +90625,11 @@
       "FileName": "NPC_541",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+       "FileName": "Glow_216",
+       "Type": "Glow",
+       "Sprited": false
      },
      {
       "FileName": "Gore_960",
@@ -89077,6 +90807,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_239",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_1027",
       "Type": "Gore",
       "Sprited": false
@@ -89144,6 +90879,11 @@
     {
       "FileName": "NPC_551",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_226",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -89587,6 +91327,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_225",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_1007",
       "Type": "Gore",
       "Sprited": false
@@ -89659,6 +91404,11 @@
     {
       "FileName": "NPC_565",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_225",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -89797,6 +91547,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Glow_224",
+      "Type": "Glow",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_1020",
       "Type": "Gore",
       "Sprited": false
@@ -89824,6 +91579,11 @@
     {
       "FileName": "NPC_569",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_224",
+      "Type": "Glow",
       "Sprited": false
      },
      {
@@ -91490,6 +93250,11 @@
       "FileName": "Gore_1227",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+       "FileName": "Glow_286",
+       "Type": "Glow",
+       "Sprited": false
      }
   ]
 },{
@@ -91505,6 +93270,11 @@
       "FileName": "Gore_1228",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+       "FileName": "Glow_286",
+       "Type": "Glow",
+       "Sprited": false
      }
   ]
 },{
@@ -91520,6 +93290,11 @@
       "FileName": "Gore_1229",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+       "FileName": "Glow_286",
+       "Type": "Glow",
+       "Sprited": false
      }
   ]
 },{
@@ -91535,6 +93310,11 @@
       "FileName": "Gore_1230",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+       "FileName": "Glow_286",
+       "Type": "Glow",
+       "Sprited": false
      }
   ]
 },{
@@ -91550,6 +93330,11 @@
       "FileName": "Gore_1231",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+       "FileName": "Glow_286",
+       "Type": "Glow",
+       "Sprited": false
      }
   ]
 },{
@@ -91565,6 +93350,11 @@
       "FileName": "Gore_1232",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+       "FileName": "Glow_286",
+       "Type": "Glow",
+       "Sprited": false
      }
   ]
 },{
@@ -91580,6 +93370,11 @@
       "FileName": "Gore_1233",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+       "FileName": "Glow_286",
+       "Type": "Glow",
+       "Sprited": false
      }
   ]
 },{
@@ -91599,6 +93394,11 @@
      {
       "FileName": "Gore_1235",
       "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_287",
+      "Type": "Glow",
       "Sprited": false
      }
   ]
@@ -91620,6 +93420,11 @@
       "FileName": "Gore_1237",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Glow_287",
+      "Type": "Glow",
+      "Sprited": false
      }
   ]
 },{
@@ -91639,6 +93444,11 @@
      {
       "FileName": "Gore_1239",
       "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_287",
+      "Type": "Glow",
       "Sprited": false
      }
   ]
@@ -91660,6 +93470,11 @@
       "FileName": "Gore_1241",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Glow_287",
+      "Type": "Glow",
+      "Sprited": false
      }
   ]
 },{
@@ -91679,6 +93494,11 @@
      {
       "FileName": "Gore_1243",
       "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_287",
+      "Type": "Glow",
       "Sprited": false
      }
   ]
@@ -91700,6 +93520,11 @@
       "FileName": "Gore_1245",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Glow_287",
+      "Type": "Glow",
+      "Sprited": false
      }
   ]
 },{
@@ -91719,6 +93544,11 @@
      {
       "FileName": "Gore_1247",
       "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_287",
+      "Type": "Glow",
       "Sprited": false
      }
   ]
@@ -91854,12 +93684,12 @@
     {
       "FileName": "Tiles_5",
       "Type": "Tile",
-      "Sprited": false
+      "Sprited": true
     },
     {
       "FileName": "Gore_910",
       "Type": "Gore",
-      "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -91869,7 +93699,7 @@
     {
       "FileName": "Tiles_28",
       "Type": "Tile",
-      "Sprited": false
+      "Sprited": true
     },
     {
       "FileName": "Gore_51",
@@ -92079,22 +93909,22 @@
     {
       "FileName": "Tiles_231",
       "Type": "Tile",
-      "Sprited": false
+      "Sprited": true
     },
     {
       "FileName": "Gore_300",
       "Type": "Gore",
-      "Sprited": false
+      "Sprited": true
     },
     {
       "FileName": "Gore_301",
       "Type": "Gore",
-      "Sprited": false
+      "Sprited": true
     },
     {
       "FileName": "Gore_302",
       "Type": "Gore",
-      "Sprited": false
+      "Sprited": true
     }
   ]
 },{
@@ -92104,12 +93934,12 @@
     {
       "FileName": "Tiles_5",
       "Type": "Tile",
-      "Sprited": false
+      "Sprited": true
     },
     {
       "FileName": "Gore_911",
       "Type": "Gore",
-      "Sprited": false
+      "Sprited": true
     }
   ]
 }
