@@ -66557,7 +66557,7 @@
       "Sprited": false
     },
     {
-      "FileName": "Tiles_410",
+      "FileName": "Tiles_509",
       "Type": "Tile",
       "Sprited": false
     },
@@ -93940,6 +93940,836 @@
       "FileName": "Gore_911",
       "Type": "Gore",
       "Sprited": true
+    }
+  ]
+},{
+  "Name": "DemonAltar",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_26",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "ShadowOrbs",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_31",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "CorruptThorns",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_32",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "Cobweb",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_51",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "Vines",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_52",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "JungleVines",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_62",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "JungleThorns",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_69",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "MushroomPlants",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_71",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "Plants2",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_73",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "JunglePlants2",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_74",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "ChineseLanterns",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_95",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "TrashCan",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_99",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "HallowedPlants2",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_113",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "HallowedVines",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_115",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "MagicalIceBlock",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_127",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "Mannequin",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_128",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "MusicBoxes",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_139",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "Stalactite",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_165",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "LongMoss",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_184",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "SmallPiles",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_185",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "LargePiles",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_186",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "LargePiles",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_187",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "CrimsonPlants",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_201",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "CrimsonVines",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_205",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "Rope",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_213",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "Chain",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_214",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "PlantDetritus",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_233",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "PlanteraBulb",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_238",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "AmethystGemspark",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_262",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "TopazGemspark",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_263",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "SapphireGemspark",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_264",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "EmeraldGemspark",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_265",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "RubyGemspark",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_266",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "DiamondGemspark",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_267",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "AmberGemspark",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_268",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "Womannequin",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_269",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "PalmTree",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_323",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "WeaponsRack",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_334",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "CrimsonThorns",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_352",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "VineRope",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_353",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "SilkRope",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_365",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "WebRope",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_366",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "TargetDummy",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_378",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "VineFlowers",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_382",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "TeamBlockRedPlatform",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_427",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "WeightedPressurePlate",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_428",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "TeamBlockGreenPlatform",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_435",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "TeamBlockBluePlatform",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_436",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "TeamBlockYellowPlatform",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_437",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "TeamBlockPinkPlatform",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_438",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "TeamBlockWhitePlatform",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_439",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "BeeHive",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_444",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "GolfGrass",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_477",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "AntlionLarva",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_485",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "FallenLog",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_488",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "GolfGrassHallowed",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_492",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "MysticSnakeRope",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_504",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "GreenMossBrick",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_512",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "BrownMossBrick",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_513",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "RedMossBrick",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_514",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "BlueMossBrick",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_515",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "PurpleMossBrick",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_516",
+      "Type": "Tile",
+      "Sprited": true
+    }
+  ]
+},{
+  "Name": "LilyPad",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_518",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "Cattail",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_519",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "MushroomVines",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_528",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "SeaOats",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_529",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "OasisPlants",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_530",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "BoulderStatue",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_531",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "RatCage",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_533",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "Seaweed",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_549",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "Bamboo",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_571",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "SoulBottles",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_572",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "LavaflyinaBottle",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_581",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "TreeTopaz",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_583",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "TreeAmethyst",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_584",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "TreeSapphire",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_585",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "TreeEmerald",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_586",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "TreeRuby",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_587",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "TreeDiamond",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_588",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "TreeAmber",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_589",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "GemSaplings",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_590",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "VanityTreeSakura",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_596",
+      "Type": "Tile",
+      "Sprited": false
+    }
+  ]
+},{
+  "Name": "VanityTreeYellowWillow",
+  "Sprites":
+  [
+    {
+      "FileName": "Tiles_616",
+      "Type": "Tile",
+      "Sprited": false
     }
   ]
 }
