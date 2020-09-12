@@ -82,6 +82,11 @@
         "FileName": "Item_6",
         "Type": "Item",
         "Sprited": true
+      },
+      {
+          "FileName": "Projectile_940",
+          "Type": "Projectile",
+          "Sprited": false
       }
     ]
   },
@@ -630,6 +635,11 @@
          "FileName": "Projectile_1",
          "Type": "Projectile",
          "Sprited": true
+      },
+      {
+          "FileName": "Projectile_81",
+          "Type": "Projectile",
+          "Sprited": false
       }
     ]
   },
@@ -647,6 +657,11 @@
          "FileName": "Projectile_2",
          "Type": "Projectile",
          "Sprited": true
+      },
+      {
+          "FileName": "Projectile_82",
+          "Type": "Projectile",
+          "Sprited": false
       }
     ]
   },
@@ -1127,6 +1142,11 @@
          "FileName": "Projectile_158",
          "Type": "Projectile",
          "Sprited": false
+      },
+      {
+         "FileName": "Projectile_411",
+         "Type": "Projectile",
+         "Sprited": false
       }
     ]
   },
@@ -1147,6 +1167,11 @@
       },
       {
          "FileName": "Projectile_159",
+         "Type": "Projectile",
+         "Sprited": false
+      },
+      {
+         "FileName": "Projectile_412",
          "Type": "Projectile",
          "Sprited": false
       }
@@ -1171,6 +1196,11 @@
          "FileName": "Projectile_160",
          "Type": "Projectile",
          "Sprited": false
+      },
+      {
+         "FileName": "Projectile_413",
+         "Type": "Projectile",
+         "Sprited": false
       }
     ]
   },
@@ -1191,6 +1221,11 @@
       },
       {
          "FileName": "Projectile_161",
+         "Type": "Projectile",
+         "Sprited": false
+      },
+      {
+         "FileName": "Projectile_414",
          "Type": "Projectile",
          "Sprited": false
       }
@@ -1375,13 +1410,13 @@
         "Sprited": true
       },
       {
-         "FileName": "Projectile_13",
-         "Type": "Projectile",
+         "FileName": "Chain",
+         "Type": "Chain",
          "Sprited": true
       },
       {
-         "FileName": "Chain",
-         "Type": "Chain",
+         "FileName": "Projectile_13",
+         "Type": "Projectile",
          "Sprited": true
       }
     ]
@@ -2808,6 +2843,11 @@
          "FileName": "Buff_68",
          "Type": "Buff",
          "Sprited": false
+      },
+      {
+         "FileName": "Projectile_31",
+         "Type": "Projectile",
+         "Sprited": true
       }
     ]
   },
@@ -2858,6 +2898,11 @@
       {
          "FileName": "Tiles_57",
          "Type": "Tile",
+         "Sprited": false
+      },
+      {
+         "FileName": "Projectile_40",
+         "Type": "Projectile",
          "Sprited": false
       }
     ]
@@ -2932,6 +2977,11 @@
          "FileName": "Tiles_59",
          "Type": "Tile",
          "Sprited": true
+      },
+      {
+         "FileName": "Projectile_39",
+         "Type": "Projectile",
+         "Sprited": false
       }
     ]
   },
@@ -4325,6 +4375,21 @@
       "FileName": "Item_266",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+     "FileName": "Projectile_42",
+     "Type": "Projectile",
+     "Sprited": true
+    },
+    {
+     "FileName": "Projectile_68",
+     "Type": "Projectile",
+     "Sprited": true
+    },
+    {
+     "FileName": "Projectile_354",
+     "Type": "Projectile",
+     "Sprited": true
     }
   ]
 },{
@@ -4410,6 +4475,11 @@
       "FileName": "Item_272",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+       "FileName": "Projectile_44",
+       "Type": "Projectile",
+       "Sprited": true
     },
     {
         "FileName": "Projectile_45",
@@ -4613,7 +4683,7 @@
     },
     {
         "FileName": "Projectile_53",
-        "Type": "Tile",
+        "Type": "Projectile",
         "Sprited": true
     }
   ]
@@ -5200,6 +5270,16 @@
      "FileName": "Extra_101",
      "Type": "Extra",
      "Sprited": false
+    },
+    {
+     "FileName": "Projectile_43",
+     "Type": "Projectile",
+     "Sprited": true
+    },
+    {
+     "FileName": "Projectile_528",
+     "Type": "Projectile",
+     "Sprited": true
     }
   ]
 },{
@@ -5897,6 +5977,11 @@
         "Sprited": true
     },
     {
+     "FileName": "Projectile_65",
+     "Type": "Projectile",
+     "Sprited": true
+    },
+    {
         "FileName": "Buff_68",
         "Type": "Buff",
         "Sprited": false
@@ -6462,6 +6547,11 @@
         "Sprited": true
     },
     {
+        "FileName": "Projectile_67",
+        "Type": "Projectile",
+        "Sprited": true
+    },
+    {
         "FileName": "Buff_68",
         "Type": "Buff",
         "Sprited": false
@@ -6705,6 +6795,11 @@
         "FileName": "Tiles_123",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Projectile_71",
+        "Type": "Projectile",
+        "Sprited": false
     }
   ]
 },{
@@ -7772,9 +7867,9 @@
         "Sprited": false
     },
     {
-        "FileName": "Projectile_7",
+        "FileName": "Projectile_78",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -8085,6 +8180,11 @@
         "FileName": "Projectile_89",
         "Type": "Projectile",
         "Sprited": false
+    },
+    {
+        "FileName": "Projectile_90",
+        "Type": "Projectile",
+        "Sprited": true
     }
   ]
 },{
@@ -8174,6 +8274,11 @@
     {
       "FileName": "Item_522",
       "Type": "Item",
+      "Sprited": true
+    },
+    {
+      "FileName": "Projectile_96",
+      "Type": "Projectile",
       "Sprited": true
     }
   ]
@@ -8325,6 +8430,16 @@
         "FileName": "Acc_Back_2",
         "Type": "Sheet",
         "Sprited": false
+    },
+    {
+        "FileName": "Projectile_92",
+        "Type": "Projectile",
+        "Sprited": true
+    },
+    {
+     "FileName": "Projectile_726",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -8420,6 +8535,11 @@
         "FileName": "Buff_20",
         "Type": "Buff",
         "Sprited": true
+    },
+    {
+        "FileName": "Projectile_98",
+        "Type": "Projectile",
+        "Sprited": false
     }
   ]
 },{
@@ -8434,6 +8554,11 @@
     {
         "FileName": "Tiles_138",
         "Type": "Tile",
+        "Sprited": true
+    },
+    {
+        "FileName": "Projectile_99",
+        "Type": "Projectile",
         "Sprited": true
     }
   ]
@@ -10355,6 +10480,11 @@
       "FileName": "Item_674",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+      "FileName": "Projectile_156",
+      "Type": "Projectile",
+      "Sprited": true
     }
   ]
 },{
@@ -10365,6 +10495,11 @@
       "FileName": "Item_675",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+      "FileName": "Projectile_157",
+      "Type": "Projectile",
+      "Sprited": true
     }
   ]
 },{
@@ -11095,6 +11230,11 @@
       "FileName": "Item_725",
       "Type": "Item",
       "Sprited": true
+    },
+    {
+      "FileName": "Projectile_120",
+      "Type": "Projectile",
+      "Sprited": true
     }
   ]
 },{
@@ -11595,6 +11735,66 @@
       "FileName": "Item_758",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+      "FileName": "Projectile_133",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_136",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_139",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_142",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_777",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_781",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_785",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_788",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_791",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_794",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_797",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_800",
+      "Type": "Projectile",
+      "Sprited": false
     }
   ]
 },{
@@ -11614,6 +11814,66 @@
     {
       "FileName": "Item_760",
       "Type": "Item",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_135",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_138",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_141",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_144",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_778",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_782",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_786",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_789",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_792",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_795",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_798",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_801",
+      "Type": "Projectile",
       "Sprited": false
     }
   ]
@@ -13135,6 +13395,16 @@
         "FileName": "Acc_Neck_5",
         "Type": "Sheet",
         "Sprited": false
+    },
+    {
+        "FileName": "Projectile_92",
+        "Type": "Projectile",
+        "Sprited": true
+    },
+    {
+     "FileName": "Projectile_725",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -14162,9 +14432,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_210",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_210",
+      "Type": "Tile",
+      "Sprited": false
     }
   ]
 },{
@@ -14199,6 +14469,11 @@
     {
         "FileName": "Projectile_165",
         "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Chain15",
+        "Type": "Chain",
         "Sprited": false
     }
   ]
@@ -14340,6 +14615,11 @@
       "FileName": "Item_949",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+        "FileName": "Projectile_109",
+        "Type": "Projectile",
+        "Sprited": false
     },
     {
         "FileName": "Projectile_166",
@@ -14910,6 +15190,11 @@
       "FileName": "Item_985",
       "Type": "Item",
       "Sprited": true
+    },
+    {
+      "FileName": "Projectile_171",
+      "Type": "Projectile",
+      "Sprited": true
     }
   ]
 },{
@@ -15179,6 +15464,16 @@
     {
         "FileName": "Armor_51",
         "Type": "Armor",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_226",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_227",
+        "Type": "Projectile",
         "Sprited": false
     }
   ]
@@ -16192,9 +16487,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_224",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Tiles_224",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Projectile_179",
+      "Type": "Projectile",
+      "Sprited": false
     }
   ]
 },{
@@ -16812,14 +17112,19 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_137",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Tiles_137",
+      "Type": "Tile",
+      "Sprited": true
     },
     {
-        "FileName": "Buff_20",
-        "Type": "Buff",
-        "Sprited": true
+      "FileName": "Projectile_184",
+      "Type": "Projectile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Buff_20",
+      "Type": "Buff",
+      "Sprited": true
     }
   ]
 },{
@@ -16852,9 +17157,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_137",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Tiles_137",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Projectile_185",
+      "Type": "Projectile",
+      "Sprited": true
     }
   ]
 },{
@@ -16867,9 +17177,19 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_137",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Tiles_137",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Chain17",
+      "Type": "Chain",
+      "Sprited": true
+    },
+    {
+      "FileName": "Projectile_186",
+      "Type": "Projectile",
+      "Sprited": true
     }
   ]
 },{
@@ -17008,6 +17328,11 @@
     },
     {
         "FileName": "Projectile_194",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_195",
         "Type": "Projectile",
         "Sprited": false
     }
@@ -17257,9 +17582,19 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_85",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Tiles_85",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Projectile_201",
+      "Type": "Projectile",
+      "Sprited": true
+    },
+    {
+     "FileName": "Projectile_529",
+     "Type": "Projectile",
+     "Sprited": true
     }
   ] 
 },{
@@ -17272,9 +17607,19 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_85",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Tiles_85",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    { 
+      "FileName": "Projectile_202",
+      "Type": "Projectile",
+      "Sprited": true
+    },
+    {
+     "FileName": "Projectile_527",
+     "Type": "Projectile",
+     "Sprited": true
     }
   ]
 },{
@@ -17287,9 +17632,19 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_85",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Tiles_85",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    { 
+      "FileName": "Projectile_203",
+      "Type": "Projectile",
+      "Sprited": true
+    },
+    {
+     "FileName": "Projectile_531",
+     "Type": "Projectile",
+     "Sprited": true
     }
   ]
 },{
@@ -17302,9 +17657,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_85",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Tiles_85",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    { 
+      "FileName": "Projectile_204",
+      "Type": "Projectile",
+      "Sprited": true
     }
   ]
 },{
@@ -17317,9 +17677,19 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_85",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Tiles_85",
+      "Type": "Tile",
+      "Sprited": true
+    },
+    { 
+      "FileName": "Projectile_205",
+      "Type": "Projectile",
+      "Sprited": true
+    },
+    {
+     "FileName": "Projectile_530",
+     "Type": "Projectile",
+     "Sprited": true
     }
   ]
 },{
@@ -17805,6 +18175,11 @@
         "FileName": "Armor_Head_87",
         "Type": "Armor",
         "Sprited": false
+    },
+    {
+        "FileName": "Projectile_221",
+        "Type": "Projectile",
+        "Sprited": false
     }
   ]
 },{
@@ -17909,6 +18284,11 @@
     {
         "FileName": "Armor_56",
         "Type": "Armor",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_908",
+        "Type": "Projectile",
         "Sprited": false
     }
   ]
@@ -18342,14 +18722,19 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_234",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Tiles_234",
+      "Type": "Tile",
+      "Sprited": true
     },
     {
-        "FileName": "Buff_68",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Projectile_241",
+      "Type": "Projectile",
+      "Sprited": true
+    },
+    {
+      "FileName": "Buff_68",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -18365,6 +18750,16 @@
         "FileName": "Acc_Back_1",
         "Type": "Sheet",
         "Sprited": true
+    },
+    {
+        "FileName": "Projectile_92",
+        "Type": "Projectile",
+        "Sprited": true
+    },
+    {
+     "FileName": "Projectile_724",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -18558,6 +18953,11 @@
     },
     {
         "FileName": "Projectile_250",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_251",
         "Type": "Projectile",
         "Sprited": false
     }
@@ -20002,9 +20402,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Buff_78",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Projectile_289",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_78",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -22332,9 +22737,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_Head_101",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_Head_101",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+      "FileName": "Projectile_298",
+      "Type": "Projectile",
+      "Sprited": false
     }
   ]
 },{
@@ -22465,6 +22875,11 @@
       "FileName": "Item_1513",
       "Type": "Item",
       "Sprited": true
+    },
+    {
+        "FileName": "Projectile_300",
+        "Type": "Projectile",
+        "Sprited": false
     },
     {
         "FileName": "Projectile_301",
@@ -23292,9 +23707,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Projectile_308",
-        "Type": "Projectile",
-        "Sprited": true
+     "FileName": "Projectile_308",
+     "Type": "Projectile",
+     "Sprited": true
+    },
+    {
+     "FileName": "Projectile_309",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -27157,7 +27577,7 @@
         "Sprited": false
     },
     {
-       "FileName": "Chain?",
+       "FileName": "Chain28",
        "Type": "Chain",
        "Sprited": false
     }
@@ -29052,9 +29472,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_907",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_335",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_907",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -29077,9 +29502,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+     "FileName": "Projectile_336",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -29340,6 +29765,56 @@
         "FileName": "Projectile_341",
         "Type": "Projectile",
         "Sprited": false
+    },
+    {
+       "FileName": "Projectile_803",
+       "Type": "Projectile",
+       "Sprited": false
+    },
+    {
+       "FileName": "Projectile_804",
+       "Type": "Projectile",
+       "Sprited": false
+    },
+    {
+       "FileName": "Projectile_805",
+       "Type": "Projectile",
+       "Sprited": false
+    },
+    {
+       "FileName": "Projectile_806",
+       "Type": "Projectile",
+       "Sprited": false
+    },
+    {
+       "FileName": "Projectile_807",
+       "Type": "Projectile",
+       "Sprited": false
+    },
+    {
+       "FileName": "Projectile_808",
+       "Type": "Projectile",
+       "Sprited": false
+    },
+    {
+       "FileName": "Projectile_809",
+       "Type": "Projectile",
+       "Sprited": false
+    },
+    {
+       "FileName": "Projectile_810",
+       "Type": "Projectile",
+       "Sprited": false
+    },
+    {
+       "FileName": "Projectile_862",
+       "Type": "Projectile",
+       "Sprited": false
+    },
+    {
+       "FileName": "Projectile_863",
+       "Type": "Projectile",
+       "Sprited": false
     }
   ]
 },{
@@ -32913,7 +33388,7 @@
     },
     {
         "FileName": "Projectile_355",
-        "Type": "Tile",
+        "Type": "Projectile",
         "Sprited": false
     }
   ]
@@ -32929,6 +33404,11 @@
     {
         "FileName": "Armor_Head_156",
         "Type": "Armor",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_356",
+        "Type": "Projectile",
         "Sprited": false
     }
   ]
@@ -35000,6 +35480,11 @@
         "FileName": "Tiles_314",
         "Type": "Tile",
         "Sprited": true
+    },
+    {
+        "FileName": "Projectile_403",
+        "Type": "Projectile",
+        "Sprited": false
     }
   ]
 },{
@@ -35415,6 +35900,11 @@
         "FileName": "Projectile_375",
         "Type": "Projectile",
         "Sprited": false
+    },
+    {
+        "FileName": "Projectile_376",
+        "Type": "Projectile",
+        "Sprited": false
     }
   ]
 },{
@@ -35427,9 +35917,19 @@
       "Sprited": true
     },
     {
-        "FileName": "Projectile_377",
-        "Type": "Projectile",
-        "Sprited": true
+     "FileName": "Projectile_377",
+     "Type": "Projectile",
+     "Sprited": true
+    },
+    {
+     "FileName": "Projectile_378",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_379",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -37737,19 +38237,29 @@
       "Sprited": true
     },
     {
+        "FileName": "Eye_Laser_Small",
+        "Type": "Extra",
+        "Sprited": true
+    },
+    {
         "FileName": "Buff_134",
         "Type": "Tile",
         "Sprited": false
     },
     {
         "FileName": "Projectile_387",
-        "Type": "Tile",
+        "Type": "Projectile",
         "Sprited": true
     },
     {
         "FileName": "Projectile_388",
-        "Type": "Tile",
+        "Type": "Projectile",
         "Sprited": true
+    },
+    {
+        "FileName": "Projectile_389",
+        "Type": "Projectile",
+        "Sprited": false
     }
   ]
 },{
@@ -38630,6 +39140,21 @@
         "FileName": "Projectile_399",
         "Type": "Projectile",
         "Sprited": true
+    },
+    {
+        "FileName": "Projectile_400",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_401",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_402",
+        "Type": "Projectile",
+        "Sprited": false
     }
   ]
 },{
@@ -38922,7 +39447,7 @@
         "Sprited": true
     },
     {
-        "FileName": "Projectile_137",
+        "FileName": "Projectile_406",
         "Type": "Projectile",
         "Sprited": false
     }
@@ -41375,6 +41900,11 @@
      "FileName": "Extra_63",
      "Type": "Extra",
      "Sprited": false
+    },
+    {
+     "FileName": "Projectile_608",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -41524,6 +42054,16 @@
     {
         "FileName": "Mount_ScutlixEyes",
         "Type": "Mount",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_434",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_606",
+        "Type": "Projectile",
         "Sprited": false
     },
     {
@@ -41930,6 +42470,11 @@
         "FileName": "Projectile_440",
         "Type": "Projectile",
         "Sprited": false
+    },
+    {
+     "FileName": "Projectile_441",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -43470,6 +44015,16 @@
       "FileName": "Item_2881",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+     "FileName": "Projectile_457",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_458",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -43580,6 +44135,11 @@
       "FileName": "Item_2888",
       "Type": "Item",
       "Sprited": true
+    },
+    {
+     "FileName": "Projectile_469",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -45692,7 +46252,7 @@
         "Sprited": false
     },
     {
-        "FileName": "Chain38",
+        "FileName": "Chain39",
         "Type": "Chain",
         "Sprited": false
     }
@@ -45787,6 +46347,11 @@
       "Sprited": false
     },
     {
+        "FileName": "Projectile_117",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
         "FileName": "Projectile_474",
         "Type": "Projectile",
         "Sprited": false
@@ -45815,6 +46380,11 @@
       "FileName": "Item_3005",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+     "FileName": "Projectile_475",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -45882,9 +46452,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Projectile_477",
+        "FileName": "Projectile_478",
         "Type": "Projectile",
         "Sprited": true
+    },
+    {
+        "FileName": "Projectile_480",
+        "Type": "Projectile",
+        "Sprited": false
     }
   ]
 },{
@@ -45897,7 +46472,7 @@
       "Sprited": true
     },
     {
-        "FileName": "Projectile_478",
+        "FileName": "Projectile_479",
         "Type": "Projectile",
         "Sprited": true
     }
@@ -45995,6 +46570,11 @@
         "FileName": "Projectile_483",
         "Type": "Projectile",
         "Sprited": false
+    },
+    {
+        "FileName": "Projectile_484",
+        "Type": "Projectile",
+        "Sprited": false
     }
   ]
 },{
@@ -46022,7 +46602,7 @@
       "Sprited": true
     },
     {
-        "FileName": "Chain30",
+        "FileName": "Chains_0",
         "Type": "Chain",
         "Sprited": true
     },
@@ -46042,14 +46622,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Chain5",
+        "FileName": "Chains_1",
         "Type": "Chain",
-        "Sprited": true
+        "Sprited": false
     },
     {
-        "FileName": "Chain14",
+        "FileName": "Projectile_487",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
     }
   ]
 },{
@@ -46082,9 +46662,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+        "FileName": "Chains_3",
+        "Type": "Chain",
+        "Sprited": true
+    },
+    {
+        "FileName": "Projectile_489",
+        "Type": "Projectile",
+        "Sprited": true
     }
   ]
 },{
@@ -46457,9 +47042,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Buff_153",
-        "Type": "Tile",
-        "Sprited": false
+     "FileName": "Projectile_495",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Buff_153",
+     "Type": "Tile",
+     "Sprited": false
     }
   ]
 },{
@@ -47255,6 +47845,21 @@
         "FileName": "Projectile_510",
         "Type": "Projectile",
         "Sprited": true
+    },
+    {
+        "FileName": "Projectile_511",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_512",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_513",
+        "Type": "Projectile",
+        "Sprited": false
     },
     {
         "FileName": "Gore_704",
@@ -49182,9 +49787,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_321",
-        "Type": "Buff",
-        "Sprited": false
+     "FileName": "Projectile_565",
+     "Type": "Projectile",
+     "Sprited": true
+    },
+    {
+     "FileName": "Buff_321",
+     "Type": "Buff",
+     "Sprited": false
     }
   ]
 },{
@@ -50232,9 +50842,9 @@
       "Sprited": true
     },
     {
-        "FileName": "Projectile_550",
+        "FileName": "Projectile_554",
         "Type": "Projectile",
-        "Sprited": false
+        "Sprited": true
     }
   ]
 },{
@@ -50707,9 +51317,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Acc_Back_9",
-        "Type": "Sheet",
-        "Sprited": false
+     "FileName": "Acc_Back_9",
+     "Type": "Sheet",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_566",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -50747,9 +51362,34 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_20",
-        "Type": "Buff",
-        "Sprited": true
+     "FileName": "Projectile_567",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_568",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_569",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_570",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_571",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Buff_20",
+     "Type": "Buff",
+     "Sprited": true
     }
   ]
 },{
@@ -50984,6 +51624,11 @@
     {
         "FileName": "Mount_MinecartMech",
         "Type": "Mount",
+        "Sprited": true
+    },
+    {
+        "FileName": "Projectile_591",
+        "Type": "Projectile",
         "Sprited": true
     },
     {
@@ -51477,14 +52122,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_187",
-        "Type": "Buff",
-        "Sprited": false
+     "FileName": "Buff_187",
+     "Type": "Buff",
+     "Sprited": false
     },
     {
-        "FileName": "Projectile_623",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_623",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_624",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -53763,7 +54413,7 @@
     },
     {
         "FileName": "Projectile_942",
-        "Type": "Tile",
+        "Type": "Projectile",
         "Sprited": false
     }
   ]
@@ -54140,6 +54790,11 @@
       "FileName": "Projectile_630",
       "Type": "Projectile",
       "Sprited": true
+    },
+    {
+     "FileName": "Projectile_631",
+     "Type": "Projectile",
+     "Sprited": true
     },
     {
      "FileName": "Extra_65",
@@ -54555,6 +55210,11 @@
         "FileName": "Projectile_641",
         "Type": "Projectile",
         "Sprited": false
+    },
+    {
+        "FileName": "Projectile_642",
+        "Type": "Projectile",
+        "Sprited": false
     }
   ]
 },{
@@ -54582,7 +55242,12 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_645",
+        "FileName": "Projectile_643",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_644",
         "Type": "Projectile",
         "Sprited": false
     }
@@ -56940,6 +57605,11 @@
         "FileName": "Tiles_443",
         "Type": "Tile",
         "Sprited": false
+    },
+    {
+        "FileName": "Projectile_654",
+        "Type": "Projectile",
+        "Sprited": false
     }
   ]
 },{
@@ -57755,6 +58425,11 @@
      "FileName": "Extra_74",
      "Type": "Extra",
      "Sprited": false
+    },
+    {
+        "FileName": "Projectile_656",
+        "Type": "Projectile",
+        "Sprited": false
     }
   ]
 },{
@@ -58462,6 +59137,11 @@
       "Sprited": false
     },
     {
+     "FileName": "Projectile_664",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
       "FileName": "Glow_221",
       "Type": "Glow",
       "Sprited": false
@@ -58482,6 +59162,11 @@
       "Sprited": false
     },
     {
+     "FileName": "Projectile_666",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
       "FileName": "Glow_222",
       "Type": "Glow",
       "Sprited": false
@@ -58500,6 +59185,11 @@
       "FileName": "Projectile_667",
       "Type": "Projectile",
       "Sprited": false
+    },
+    {
+     "FileName": "Projectile_668",
+     "Type": "Projectile",
+     "Sprited": false
     },
     {
       "FileName": "Glow_223",
@@ -58562,6 +59252,11 @@
         "Sprited": false
     },
     {
+        "FileName": "Projectile_680",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
      "FileName": "Extra_83",
      "Type": "Extra",
      "Sprited": false
@@ -58582,6 +59277,11 @@
      "Sprited": false
     },
     {
+     "FileName": "Projectile_680",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
      "FileName": "Extra_84",
      "Type": "Extra",
      "Sprited": false
@@ -58598,6 +59298,11 @@
     },
     {
      "FileName": "Projectile_679",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_680",
      "Type": "Projectile",
      "Sprited": false
     },
@@ -58727,6 +59432,11 @@
       "Sprited": false
     },
     {
+     "FileName": "Projectile_694",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
       "FileName": "Glow_235",
       "Type": "Glow",
       "Sprited": false
@@ -58747,6 +59457,11 @@
       "Sprited": false
     },
     {
+     "FileName": "Projectile_695",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
       "FileName": "Glow_236",
       "Type": "Glow",
       "Sprited": false
@@ -58765,6 +59480,11 @@
       "FileName": "Projectile_693",
       "Type": "Projectile",
       "Sprited": false
+    },
+    {
+     "FileName": "Projectile_695",
+     "Type": "Projectile",
+     "Sprited": false
     },
     {
       "FileName": "Glow_237",
@@ -59220,6 +59940,11 @@
       "FileName": "Item_3859",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+     "FileName": "Projectile_710",
+     "Type": "Projectile",
+     "Sprited": false
     },
     {
       "FileName": "Glow_234",
@@ -60340,6 +61065,31 @@
       "FileName": "Item_3930",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+     "FileName": "Projectile_714",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_715",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_716",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_717",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_718",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -61420,6 +62170,16 @@
         "FileName": "Acc_Back_14",
         "Type": "Sheet",
         "Sprited": false
+    },
+    {
+        "FileName": "Projectile_92",
+        "Type": "Projectile",
+        "Sprited": true
+    },
+    {
+     "FileName": "Projectile_723",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -62265,6 +63025,16 @@
       "FileName": "Item_4060",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+     "FileName": "Projectile_728",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_729",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -62277,9 +63047,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_730",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_730",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_731",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -62292,9 +63067,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_730",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_730",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_732",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_733",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -62712,9 +63497,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_495",
-        "Type": "Tile",
-        "Sprited": false
+     "FileName": "Tiles_495",
+     "Type": "Tile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_812",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65502,9 +66292,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_481",
-        "Type": "Tile",
-        "Sprited": false
+     "FileName": "Tiles_481",
+     "Type": "Tile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_736",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65517,9 +66312,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_482",
-        "Type": "Tile",
-        "Sprited": false
+     "FileName": "Tiles_482",
+     "Type": "Tile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_737",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65532,9 +66332,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_483",
-        "Type": "Tile",
-        "Sprited": false
+     "FileName": "Tiles_483",
+     "Type": "Tile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_738",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65562,9 +66367,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_721",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_721",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_739",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65577,9 +66387,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_721",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_721",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_740",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65592,9 +66407,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_721",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_721",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_741",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65607,9 +66427,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_721",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_721",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_742",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65622,9 +66447,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_721",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_721",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_743",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65637,9 +66467,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_721",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_721",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_744",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65652,9 +66487,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_721",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_721",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_745",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65667,9 +66507,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_721",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_721",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_746",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65682,9 +66527,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_721",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_721",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_747",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65697,9 +66547,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_721",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_721",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_748",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65712,9 +66567,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_721",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_721",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_749",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65727,9 +66587,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_721",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_721",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_750",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65742,9 +66607,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_721",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_721",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_751",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -65757,9 +66627,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_721",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_721",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_752",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -67805,6 +68680,11 @@
       "FileName": "Item_4381",
       "Type": "Item",
       "Sprited": true
+    },
+    {
+     "FileName": "Projectile_819",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -68777,9 +69657,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_776",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_776",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+      "FileName": "Projectile_779",
+      "Type": "Projectile",
+      "Sprited": false
     }
   ]
 },{
@@ -71402,6 +72287,21 @@
         "Sprited": false
     },
     {
+        "FileName": "Projectile_818",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_831",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_832",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
         "FileName": "Projectile_833",
         "Type": "Projectile",
         "Sprited": false
@@ -71416,6 +72316,7 @@
         "Type": "Projectile",
         "Sprited": false
     }
+    
   ]
 },{
   "Name": "ChumBucket",
@@ -71527,9 +72428,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_825",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_826",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -73902,9 +74803,9 @@
         "Sprited": false
     },
     {
-        "FileName": "Projectile_865",
-        "Type": "Projectile",
-        "Sprited": false
+       "FileName": "Projectile_866",
+       "Type": "Projectile",
+       "Sprited": false
     }
   ]
 },{
@@ -74454,6 +75355,11 @@
     {
         "FileName": "Extra_168",
         "Type": "Extra",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_930",
+        "Type": "Projectile",
         "Sprited": false
     },
     {
@@ -76590,6 +77496,11 @@
         "FileName": "Projectile_912",
         "Type": "Projectile",
         "Sprited": false
+    },
+    {
+        "FileName": "Projectile_917",
+        "Type": "Projectile",
+        "Sprited": false
     }
   ]
 },{
@@ -78060,6 +78971,11 @@
       "FileName": "Item_4987",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+      "FileName": "Projectile_937",
+      "Type": "Projectile",
+      "Sprited": false
     }
   ]
 },{
@@ -78433,6 +79349,11 @@
     },
     {
         "FileName": "Projectile_947",
+        "Type": "Projectile",
+        "Sprited": false
+    },
+    {
+        "FileName": "Projectile_948",
         "Type": "Projectile",
         "Sprited": false
     }
@@ -79222,6 +80143,16 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_583",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_584",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_33",
       "Type": "Gore",
       "Sprited": false
@@ -79289,6 +80220,11 @@
     {
       "FileName": "NPC_20",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_586",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -79602,6 +80538,11 @@
       "Sprited": true
      },
      {
+      "FileName": "Projectile_270",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_54",
       "Type": "Gore",
       "Sprited": true
@@ -79757,6 +80698,16 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_55",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_374",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_70",
       "Type": "Gore",
       "Sprited": false
@@ -79882,6 +80833,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_38",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
       "FileName": "Gore_80",
       "Type": "Gore",
       "Sprited": false
@@ -80002,6 +80958,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_585",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_58",
       "Type": "Gore",
       "Sprited": false
@@ -80044,6 +81005,11 @@
     {
       "FileName": "NPC_56",
       "Type": "NPC",
+      "Sprited": true
+     },
+     {
+      "FileName": "Chain5",
+      "Type": "Chain",
       "Sprited": true
      },
      {
@@ -80892,6 +81858,16 @@
       "Sprited": false
      },
      {
+      "FileName": "Chain10",
+      "Type": "Chain",
+      "Sprited": true
+     },
+     {
+      "FileName": "Chain11",
+      "Type": "Chain",
+      "Sprited": true
+     },
+     {
       "FileName": "Gore_110",
       "Type": "Gore",
       "Sprited": false
@@ -81069,6 +82045,11 @@
     {
       "FileName": "NPC_109",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_75",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -81402,6 +82383,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_582",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
       "FileName": "Gore_151",
       "Type": "Gore",
       "Sprited": true
@@ -81427,6 +82413,16 @@
       "Sprited": true
      },
      {
+      "FileName": "Eye_Laser",
+      "Type": "Extra",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_100",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
       "FileName": "Gore_143",
       "Type": "Gore",
       "Sprited": true
@@ -81447,6 +82443,11 @@
       "Sprited": true
      },
      {
+      "FileName": "Projectile_101",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
       "FileName": "Gore_144",
       "Type": "Gore",
       "Sprited": true
@@ -81464,6 +82465,11 @@
     {
       "FileName": "NPC_127",
       "Type": "NPC",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_102",
+      "Type": "Projectile",
       "Sprited": true
      },
      {
@@ -81747,6 +82753,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_589",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_157",
       "Type": "Gore",
       "Sprited": false
@@ -81774,6 +82785,11 @@
     {
       "FileName": "NPC_143",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_110",
+      "Type": "Projectile",
       "Sprited": false
      }
   ]
@@ -81972,6 +82988,11 @@
       "Sprited": true
      },
      {
+      "FileName": "Projectile_115",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
       "FileName": "Gore_184",
       "Type": "Gore",
       "Sprited": true
@@ -82039,6 +83060,11 @@
     {
       "FileName": "NPC_160",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_590",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -82119,6 +83145,11 @@
     {
       "FileName": "NPC_163",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_472",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -82250,6 +83281,16 @@
       "FileName": "NPC_169",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Projectile_128",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_129",
+      "Type": "Projectile",
+      "Sprited": true
      }
   ]
 },{
@@ -82352,6 +83393,11 @@
       "Sprited": true
      },
      {
+      "FileName": "Chain14",
+      "Type": "Chain",
+      "Sprited": true
+     },
+     {
       "FileName": "Gore_227",
       "Type": "Gore",
       "Sprited": true
@@ -82370,6 +83416,16 @@
       "FileName": "NPC_176",
       "Type": "NPC",
       "Sprited": true
+     },
+     {
+      "FileName": "Projectile_55",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_374",
+      "Type": "Projectile",
+      "Sprited": false
      },
      {
       "FileName": "Gore_229",
@@ -82530,7 +83586,12 @@
       "FileName": "NPC_184",
       "Type": "NPC",
       "Sprited": true
-     }
+    },
+    {
+      "FileName": "Projectile_174",
+      "Type": "Projectile",
+      "Sprited": true
+    }
   ]
 },{
   "Name": "SnowFlinx",
@@ -82930,7 +83991,12 @@
       "FileName": "NPC_204",
       "Type": "NPC",
       "Sprited": false
-     }
+    },
+    {
+      "FileName": "Projectile_176",
+      "Type": "Projectile",
+      "Sprited": true
+    }
   ]
 },{
   "Name": "Moth",
@@ -83014,6 +84080,11 @@
     {
       "FileName": "NPC_208",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_588",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -83139,6 +84210,11 @@
     {
       "FileName": "NPC_214",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_240",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -83307,6 +84383,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_719",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_303",
       "Type": "Gore",
       "Sprited": false
@@ -83432,6 +84513,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_587",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_320",
       "Type": "Gore",
       "Sprited": false
@@ -83547,6 +84633,16 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_55",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_374",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_70",
       "Type": "Gore",
       "Sprited": false
@@ -83564,6 +84660,16 @@
     {
       "FileName": "NPC_232",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_55",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_374",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -83587,6 +84693,16 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_55",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_374",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_70",
       "Type": "Gore",
       "Sprited": false
@@ -83607,6 +84723,16 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_55",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_374",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_70",
       "Type": "Gore",
       "Sprited": false
@@ -83624,6 +84750,16 @@
     {
       "FileName": "NPC_235",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_55",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_374",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -83832,6 +84968,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_257",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_359",
       "Type": "Gore",
       "Sprited": false
@@ -83889,6 +85030,16 @@
     {
       "FileName": "NPC_246",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_258",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_259",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -84004,6 +85155,11 @@
     {
       "FileName": "NPC_250",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_264",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -84487,6 +85643,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_288",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_403",
       "Type": "Gore",
       "Sprited": true
@@ -84782,6 +85943,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_293",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_42",
       "Type": "Gore",
       "Sprited": true
@@ -84804,6 +85970,11 @@
     {
       "FileName": "NPC_282",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_293",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -84832,6 +86003,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_290",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_42",
       "Type": "Gore",
       "Sprited": true
@@ -84854,6 +86030,11 @@
     {
       "FileName": "NPC_284",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_290",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -84882,6 +86063,16 @@
       "Sprited": true
      },
      {
+      "FileName": "Projectile_291",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_292",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_42",
       "Type": "Gore",
       "Sprited": true
@@ -84904,6 +86095,16 @@
     {
       "FileName": "NPC_286",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_291",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_292",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -85002,6 +86203,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_302",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_42",
       "Type": "Gore",
       "Sprited": true
@@ -85049,6 +86255,11 @@
     {
       "FileName": "NPC_293",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_303",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -85847,6 +87058,26 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_325",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_326",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_327",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_328",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
       "FileName": "Gore_469",
       "Type": "Gore",
       "Sprited": false
@@ -85899,6 +87130,11 @@
     {
       "FileName": "NPC_327",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_329",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -86282,6 +87518,21 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_345",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_346",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_347",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Glow_253",
       "Type": "Glow",
       "Sprited": false
@@ -86322,6 +87573,16 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_348",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_349",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_513",
       "Type": "Gore",
       "Sprited": false
@@ -86349,6 +87610,21 @@
     {
       "FileName": "NPC_346",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_350",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_351",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_352",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -86957,6 +88233,21 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_384",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_385",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_386",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_573",
       "Type": "Gore",
       "Sprited": false
@@ -87172,6 +88463,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_436",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Glow_24",
       "Type": "Glow",
       "Sprited": false
@@ -87209,6 +88505,11 @@
      {
       "FileName": "Extra_1",
       "Type": "Extra",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_438",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -87332,6 +88633,11 @@
       "Sprited": true
      },
      {
+      "FileName": "Projectile_435",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Glow_32",
       "Type": "Glow",
       "Sprited": true
@@ -87379,6 +88685,11 @@
     {
       "FileName": "NPC_389",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_437",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -87449,6 +88760,31 @@
     {
       "FileName": "NPC_392",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_433",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_447",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_448",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_449",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_450",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -87584,6 +88920,36 @@
     {
       "FileName": "NPC_396",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_452",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_453",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_454",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_455",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_456",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_462",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -87847,6 +89213,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_539",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Glow_139",
       "Type": "Glow",
       "Sprited": true
@@ -87885,6 +89256,11 @@
       "FileName": "NPC_409",
       "Type": "NPC",
       "Sprited": true
+     },
+     {
+      "FileName": "Projectile_538",
+      "Type": "Projectile",
+      "Sprited": false
      },
      {
       "FileName": "Glow_138",
@@ -87929,6 +89305,11 @@
     {
       "FileName": "NPC_411",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_537",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -88019,6 +89400,11 @@
     {
       "FileName": "NPC_415",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_607",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -88187,6 +89573,16 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_574",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_576",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Glow_147",
       "Type": "Glow",
       "Sprited": false
@@ -88270,6 +89666,21 @@
       "FileName": "Extra_50",
       "Type": "Extra",
       "Sprited": false
+     },
+     {
+      "FileName": "Projectile_578",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_579",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_580",
+      "Type": "Projectile",
+      "Sprited": false
      }
   ]
 },{
@@ -88279,6 +89690,11 @@
     {
       "FileName": "NPC_423",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_575",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -88312,6 +89728,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_573",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Glow_144",
       "Type": "Glow",
       "Sprited": false
@@ -88342,6 +89763,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_577",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Glow_150",
       "Type": "Glow",
       "Sprited": false
@@ -88369,6 +89795,11 @@
     {
       "FileName": "NPC_426",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_581",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -88662,6 +90093,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_526",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Glow_108",
       "Type": "Glow",
       "Sprited": false
@@ -88730,6 +90166,36 @@
       "FileName": "NPC_439",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Projectile_464",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_465",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_466",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_467",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_468",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_490",
+      "Type": "Projectile",
+      "Sprited": true
      },
      {
       "FileName": "Extra_30",
@@ -88999,6 +90465,11 @@
     {
       "FileName": "NPC_453",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_471",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -89272,6 +90743,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_498",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_653",
       "Type": "Gore",
       "Sprited": false
@@ -89389,6 +90865,11 @@
     {
       "FileName": "NPC_468",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_501",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -89737,6 +91218,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_508",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_695",
       "Type": "Gore",
       "Sprited": false
@@ -89884,6 +91370,11 @@
     {
       "FileName": "NPC_490",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_928",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -90045,6 +91536,11 @@
      "FileName": "Extra_47",
      "Type": "Extra",
      "Sprited": false
+    },
+    {
+     "FileName": "Projectile_540",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -90137,6 +91633,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_572",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_750",
       "Type": "Gore",
       "Sprited": false
@@ -90159,6 +91660,11 @@
     {
       "FileName": "NPC_499",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_572",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -90187,6 +91693,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_572",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_752",
       "Type": "Gore",
       "Sprited": false
@@ -90209,6 +91720,11 @@
     {
       "FileName": "NPC_501",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_572",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -90237,6 +91753,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_572",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_754",
       "Type": "Gore",
       "Sprited": false
@@ -90259,6 +91780,11 @@
     {
       "FileName": "NPC_503",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_572",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -90287,6 +91813,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_572",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_756",
       "Type": "Gore",
       "Sprited": false
@@ -90312,6 +91843,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_572",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_757",
       "Type": "Gore",
       "Sprited": false
@@ -90334,6 +91870,11 @@
     {
       "FileName": "NPC_506",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_572",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -90602,6 +92143,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_592",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_848",
       "Type": "Gore",
       "Sprited": false
@@ -90654,6 +92200,11 @@
     {
       "FileName": "NPC_523",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_593",
+      "Type": "Projectile",
       "Sprited": false
      }
   ]
@@ -90967,6 +92518,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_596",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Glow_172",
       "Type": "Glow",
       "Sprited": false
@@ -91004,6 +92560,11 @@
     {
       "FileName": "NPC_535",
       "Type": "NPC",
+      "Sprited": true
+     },
+     {
+      "FileName": "Projectile_605",
+      "Type": "Projectile",
       "Sprited": true
      }
   ]
@@ -91102,9 +92663,19 @@
       "Sprited": false
      },
      {
-       "FileName": "Glow_216",
-       "Type": "Glow",
-       "Sprited": false
+      "FileName": "Projectile_657",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_658",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Glow_216",
+      "Type": "Glow",
+      "Sprited": false
      },
      {
       "FileName": "Gore_960",
@@ -91337,6 +92908,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_670",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_967",
       "Type": "Gore",
       "Sprited": false
@@ -91379,6 +92955,16 @@
      {
       "FileName": "Glow_226",
       "Type": "Glow",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_686",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_687",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -91522,6 +93108,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_681",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_1031",
       "Type": "Gore",
       "Sprited": false
@@ -91547,6 +93138,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_681",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_1034",
       "Type": "Gore",
       "Sprited": false
@@ -91569,6 +93165,11 @@
     {
       "FileName": "NPC_557",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_681",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -91702,6 +93303,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_662",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_987",
       "Type": "Gore",
       "Sprited": false
@@ -91739,6 +93345,11 @@
     {
       "FileName": "NPC_562",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_662",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -91782,6 +93393,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_685",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_1061",
       "Type": "Gore",
       "Sprited": false
@@ -91819,6 +93435,16 @@
     {
       "FileName": "NPC_564",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_673",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_675",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -91899,6 +93525,16 @@
     {
       "FileName": "NPC_565",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_673",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_675",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -92117,6 +93753,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_671",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_1075",
       "Type": "Gore",
       "Sprited": false
@@ -92144,6 +93785,11 @@
     {
       "FileName": "NPC_571",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_671",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -92302,6 +93948,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_676",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_1000",
       "Type": "Gore",
       "Sprited": false
@@ -92362,6 +94013,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_676",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_1000",
       "Type": "Gore",
       "Sprited": false
@@ -92419,6 +94075,11 @@
     {
       "FileName": "NPC_578",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_682",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -93170,7 +94831,12 @@
       "FileName": "NPC_614",
       "Type": "NPC",
       "Sprited": false
-     }
+    },
+    {
+     "FileName": "Projectile_281",
+     "Type": "Projectile",
+     "Sprited": false
+    }
   ]
 },{
   "Name": "Dolphin",
@@ -93300,6 +94966,16 @@
       "FileName": "Gore_1178",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Projectile_813",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_814",
+      "Type": "Projectile",
+      "Sprited": false
      }
   ]
 },{
@@ -93330,6 +95006,11 @@
       "FileName": "Gore_1182",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Projectile_811",
+      "Type": "Projectile",
+      "Sprited": false
      }
   ]
 },{
@@ -93359,6 +95040,11 @@
      {
       "FileName": "Gore_1186",
       "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_811",
+      "Type": "Projectile",
       "Sprited": false
      }
   ]
@@ -93497,6 +95183,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_836",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_1205",
       "Type": "Gore",
       "Sprited": false
@@ -93539,6 +95230,11 @@
     {
       "FileName": "NPC_631",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_909",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -93599,6 +95295,16 @@
     {
       "FileName": "NPC_633",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_880",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_929",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -93719,6 +95425,31 @@
      {
       "FileName": "Extra_188",
       "Type": "Extra",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_872",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_873",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_874",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_919",
+      "Type": "Projectile",
+      "Sprited": false
+     },
+     {
+      "FileName": "Projectile_923",
+      "Type": "Projectile",
       "Sprited": false
      },
      {
@@ -94162,6 +95893,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Projectile_926",
+      "Type": "Projectile",
+      "Sprited": true
+     },
+     {
       "FileName": "Gore_1258",
       "Type": "Gore",
       "Sprited": true
@@ -94180,6 +95916,11 @@
       "FileName": "NPC_658",
       "Type": "NPC",
       "Sprited": true
+     },
+     {
+         "FileName": "Projectile_920",
+         "Type": "Projectile",
+         "Sprited": true
      }
   ]
 },{
@@ -94190,6 +95931,11 @@
       "FileName": "NPC_659",
       "Type": "NPC",
       "Sprited": true
+     },
+     {
+         "FileName": "Projectile_921",
+         "Type": "Projectile",
+         "Sprited": true
      }
   ]
 },{
@@ -94270,6 +96016,11 @@
       "FileName": "Tiles_28",
       "Type": "Tile",
       "Sprited": true
+    },
+    {
+      "FileName": "Projectile_518",
+      "Type": "Projectile",
+      "Sprited": false
     },
     {
       "FileName": "Gore_51",
@@ -95030,6 +96781,11 @@
       "FileName": "Tiles_444",
       "Type": "Tile",
       "Sprited": true
+    },
+    {
+        "FileName": "Projectile_655",
+        "Type": "Projectile",
+        "Sprited": true
     }
   ]
 },{
