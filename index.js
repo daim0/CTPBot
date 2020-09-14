@@ -156,9 +156,9 @@ client.on('message', message => {
     {
         return message.channel.send("```" + 
         "CTP Bot:\n" +
-        "Current version: 0.2.2\n" + 
+        "Current version: 0.3.0\n" + 
         "Bot github: https://github.com/daim0/CTPBot\n" +
-        "If you come across any errors notify daimgamer#6490 on discord." +
+        "If you come across any errors notify daim#6490 on discord." +
         "```");
     }
     // Random command.
