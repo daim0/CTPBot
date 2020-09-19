@@ -433,9 +433,14 @@
         "Sprited": true
       },
       {
-         "FileName": "Tiles_13",
-         "Type": "Tile",
-         "Sprited": true
+        "FileName": "Tiles_13",
+        "Type": "Tile",
+        "Sprited": true
+      },
+      {
+        "FileName": "Buff_21",
+        "Type": "Buff",
+        "Sprited": true
       }
     ]
   },
@@ -467,9 +472,14 @@
         "Sprited": true
       },
       {
-         "FileName": "Wall_2",
-         "Type": "Wall",
-         "Sprited": true
+        "FileName": "Wall_2",
+        "Type": "Wall",
+        "Sprited": true
+      },
+      {
+        "FileName": "Wall_16",
+        "Type": "Wall",
+        "Sprited": true
       }
     ]
   },
@@ -1820,6 +1830,11 @@
          "FileName": "Tiles_13",
          "Type": "Tile",
          "Sprited": true
+      },
+      {
+       "FileName": "Buff_94",
+       "Type": "Buff",
+       "Sprited": true
       }
     ]
   },
@@ -2721,6 +2736,11 @@
         "Sprited": true
       },
       {
+         "FileName": "Chain2",
+         "Type": "Chain",
+         "Sprited": false
+      },
+      {
          "FileName": "Projectile_25",
          "Type": "Projectile",
          "Sprited": true
@@ -2736,6 +2756,11 @@
         "FileName": "Item_163",
         "Type": "Item",
         "Sprited": true
+      },
+      {
+       "FileName": "Chain3",
+       "Type": "Chain",
+       "Sprited": true
       },
       {
          "FileName": "Projectile_26",
@@ -3064,9 +3089,9 @@
         "Sprited": true
       },
       {
-         "FileName": "Tiles_178",
-         "Type": "Tile",
-         "Sprited": true
+        "FileName": "Tiles_178",
+        "Type": "Tile",
+        "Sprited": true
       }
     ]
   },
@@ -3171,6 +3196,11 @@
         "FileName": "Item_188",
         "Type": "Item",
         "Sprited": true
+      },
+      {
+        "FileName": "Buff_21",
+        "Type": "Buff",
+        "Sprited": true
       }
     ]
   },
@@ -3183,6 +3213,11 @@
         "FileName": "Item_189",
         "Type": "Item",
         "Sprited": true
+      },
+      {
+       "FileName": "Buff_94",
+       "Type": "Buff",
+       "Sprited": true
       }
     ]
   },
@@ -3650,6 +3685,11 @@
          "FileName": "Buff_24",
          "Type": "Buff",
          "Sprited": true
+      },
+      {
+       "FileName": "Chain6",
+       "Type": "Chain",
+       "Sprited": false
       },        
       {
          "FileName": "Projectile_35",
@@ -4763,7 +4803,7 @@
     },
     {
         "FileName": "Buff_4",
-        "Type": "Tile",
+        "Type": "Buff",
         "Sprited": true
     }
   ]
@@ -4973,7 +5013,7 @@
     },
     {
         "FileName": "Buff_18",
-        "Type": "Tile",
+        "Type": "Buff",
         "Sprited": true
     }
   ]
@@ -5392,9 +5432,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_20",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_14",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_20",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -6267,14 +6312,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_31",
-        "Type": "Buff",
-        "Sprited": true
+     "FileName": "Buff_31",
+     "Type": "Buff",
+     "Sprited": true
     },
     {
-        "FileName": "Projectile_63",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Chain7",
+     "Type": "Chain",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_63",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -7950,6 +8000,11 @@
       "FileName": "Item_499",
       "Type": "Item",
       "Sprited": true
+    },
+    {
+      "FileName": "Buff_21",
+      "Type": "Buff",
+      "Sprited": true
     }
   ]
 },{
@@ -7960,6 +8015,11 @@
       "FileName": "Item_500",
       "Type": "Item",
       "Sprited": true
+    },
+    {
+     "FileName": "Buff_94",
+     "Type": "Buff",
+     "Sprited": true
     }
   ]
 },{
@@ -8714,6 +8774,11 @@
     {
         "FileName": "Armor_24",
         "Type": "Armor",
+        "Sprited": false
+    },
+    {
+        "FileName": "Buff_59",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -10413,7 +10478,7 @@
     },
     {
         "FileName": "Buff_41",
-        "Type": "Tile",
+        "Type": "Buff",
         "Sprited": false
     },
     {
@@ -11532,9 +11597,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Wall_66",
-        "Type": "Wall",
-        "Sprited": true
+      "FileName": "Wall_63",
+      "Type": "Wall",
+      "Sprited": true
+    },
+    {
+      "FileName": "Wall_66",
+      "Type": "Wall",
+      "Sprited": true
     }
   ]
 },{
@@ -11547,9 +11617,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Wall_67",
-        "Type": "Wall",
-        "Sprited": true
+      "FileName": "Wall_64",
+      "Type": "Wall",
+      "Sprited": true
+    },
+    {
+      "FileName": "Wall_67",
+      "Type": "Wall",
+      "Sprited": true
     }
   ]
 },{
@@ -11562,9 +11637,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Wall_68",
-        "Type": "Wall",
-        "Sprited": true
+      "FileName": "Wall_65",
+      "Type": "Wall",
+      "Sprited": true
+    },
+    {
+      "FileName": "Wall_68",
+      "Type": "Wall",
+      "Sprited": true
     }
   ]
 },{
@@ -11932,9 +12012,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_74",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_80",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_74",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -12447,9 +12532,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Projectile_154",
-        "Type": "Projectile",
-        "Sprited": true
+     "FileName": "Chain13",
+     "Type": "Chain",
+     "Sprited": true
+    },
+    {
+      "FileName": "Projectile_154",
+      "Type": "Projectile",
+      "Sprited": true
     }
   ]
 },{
@@ -15475,6 +15565,11 @@
         "FileName": "Projectile_227",
         "Type": "Projectile",
         "Sprited": false
+    },
+    {
+        "FileName": "Buff_60",
+        "Type": "Buff",
+        "Sprited": false
     }
   ]
 },{
@@ -16472,9 +16567,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Wall_112",
-        "Type": "Wall",
-        "Sprited": true
+      "FileName": "Wall_87",
+      "Type": "Wall",
+      "Sprited": true
+    },
+    {
+      "FileName": "Wall_112",
+      "Type": "Wall",
+      "Sprited": true
     }
   ]
 },{
@@ -16817,9 +16917,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Wall_108",
-        "Type": "Wall",
-        "Sprited": true
+      "FileName": "Wall_86",
+      "Type": "Wall",
+      "Sprited": true
+    },
+    {
+      "FileName": "Wall_108",
+      "Type": "Wall",
+      "Sprited": true
     }
   ]
 },{
@@ -16845,6 +16950,11 @@
       "FileName": "Item_1128",
       "Type": "Item",
       "Sprited": true
+    },
+    {
+     "FileName": "Buff_48",
+     "Type": "Buff",
+     "Sprited": true
     }
   ]
 },{
@@ -18130,6 +18240,11 @@
         "FileName": "Armor_54",
         "Type": "Armor",
         "Sprited": false
+    },
+    {
+        "FileName": "Buff_58",
+        "Type": "Buff",
+        "Sprited": true
     }
   ]
 },{
@@ -18282,14 +18397,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_56",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_56",
+      "Type": "Armor",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_908",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_908",
+      "Type": "Projectile",
+      "Sprited": false
+    },
+    {
+     "FileName": "Buff_306",
+     "Type": "Buff",
+     "Sprited": false
     }
   ]
 },{
@@ -18927,14 +19047,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_247",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Chain19",
+     "Type": "Chain",
+     "Sprited": false
     },
     {
-        "FileName": "Projectile_248",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_247",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_248",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -19165,6 +19290,11 @@
        "FileName": "Chain20",
        "Type": "Chain",
        "Sprited": false
+    },
+    {
+     "FileName": "Buff_32",
+     "Type": "Buff",
+     "Sprited": true
     }
   ]
 },{
@@ -19420,6 +19550,11 @@
         "FileName": "Acc_Neck_3",
         "Type": "Sheet",
         "Sprited": true
+    },
+    {
+        "FileName": "Buff_63",
+        "Type": "Buff",
+        "Sprited": true
     }
   ]
 },{
@@ -19517,9 +19652,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_262",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Chain22",
+     "Type": "Chain",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_262",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -19767,6 +19907,11 @@
       "Sprited": false
     },
     {
+     "FileName": "Chain18",
+     "Type": "Chain",
+     "Sprited": false
+    },
+    {
         "FileName": "Projectile_271",
         "Type": "Projectile",
         "Sprited": false
@@ -19915,6 +20060,11 @@
       "FileName": "Item_1325",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+       "FileName": "Chain",
+       "Type": "Chain",
+       "Sprited": true
     },
     {
         "FileName": "Projectile_273",
@@ -20707,14 +20857,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Wall_94",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Wall_94",
+      "Type": "Wall",
+      "Sprited": true
     },
     {
-        "FileName": "Wall_100",
-        "Type": "Tile",
-        "Sprited": true
+      "FileName": "Wall_100",
+      "Type": "Wall",
+      "Sprited": true
     }
   ]
 },{
@@ -20728,12 +20878,12 @@
     },
     {
         "FileName": "Wall_95",
-        "Type": "Tile",
+        "Type": "Wall",
         "Sprited": true
     },
     {
         "FileName": "Wall_101",
-        "Type": "Tile",
+        "Type": "Wall",
         "Sprited": true
     }
   ]
@@ -20748,12 +20898,12 @@
     },
     {
         "FileName": "Wall_96",
-        "Type": "Tile",
+        "Type": "Wall",
         "Sprited": true
     },
     {
         "FileName": "Wall_102",
-        "Type": "Tile",
+        "Type": "Wall",
         "Sprited": true
     }
   ]
@@ -20768,12 +20918,12 @@
     },
     {
         "FileName": "Wall_97",
-        "Type": "Tile",
+        "Type": "Wall",
         "Sprited": true
     },
     {
         "FileName": "Wall_103",
-        "Type": "Tile",
+        "Type": "Wall",
         "Sprited": true
     }
   ]
@@ -20788,12 +20938,12 @@
     },
     {
         "FileName": "Wall_98",
-        "Type": "Tile",
+        "Type": "Wall",
         "Sprited": true
     },
     {
         "FileName": "Wall_104",
-        "Type": "Tile",
+        "Type": "Wall",
         "Sprited": true
     }
   ]
@@ -20808,12 +20958,12 @@
     },
     {
         "FileName": "Wall_99",
-        "Type": "Tile",
+        "Type": "Wall",
         "Sprited": true
     },
     {
         "FileName": "Wall_105",
-        "Type": "Tile",
+        "Type": "Wall",
         "Sprited": true
     }
   ]
@@ -23803,7 +23953,7 @@
     },
     {
         "FileName": "Buff_63",
-        "Type": "Tile",
+        "Type": "Buff",
         "Sprited": true
     },
     {
@@ -26432,9 +26582,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_244",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_78",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_244",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -29987,7 +30142,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_124",
+        "FileName": "Wall_125",
         "Type": "Wall",
         "Sprited": false
     }
@@ -30672,7 +30827,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_116",
+        "FileName": "Wall_126",
         "Type": "Wall",
         "Sprited": false
     }
@@ -30687,7 +30842,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_117",
+        "FileName": "Wall_127",
         "Type": "Wall",
         "Sprited": false
     }
@@ -30702,7 +30857,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_118",
+        "FileName": "Wall_128",
         "Type": "Wall",
         "Sprited": false
     }
@@ -30717,7 +30872,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_119",
+        "FileName": "Wall_129",
         "Type": "Wall",
         "Sprited": false
     }
@@ -30732,7 +30887,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_120",
+        "FileName": "Wall_130",
         "Type": "Wall",
         "Sprited": false
     }
@@ -30747,7 +30902,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_121",
+        "FileName": "Wall_131",
         "Type": "Wall",
         "Sprited": false
     }
@@ -30762,7 +30917,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_122",
+        "FileName": "Wall_132",
         "Type": "Wall",
         "Sprited": false
     }
@@ -32937,9 +33092,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Wall_133",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -32952,9 +33107,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_124",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_134",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -32967,9 +33122,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_125",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_135",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -33097,9 +33252,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_136",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_136",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -33112,9 +33267,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_137",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_137",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -33572,9 +33727,24 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_105",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_105",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+     "FileName": "Buff_98",
+     "Type": "Buff",
+     "Sprited": false
+    },
+    {
+     "FileName": "Buff_99",
+     "Type": "Buff",
+     "Sprited": false
+    },
+    {
+     "FileName": "Buff_100",
+     "Type": "Buff",
+     "Sprited": false
     }
   ]
 },{
@@ -33587,9 +33757,24 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_106",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_106",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+     "FileName": "Buff_95",
+     "Type": "Buff",
+     "Sprited": false
+    },
+    {
+     "FileName": "Buff_96",
+     "Type": "Buff",
+     "Sprited": false
+    },
+    {
+     "FileName": "Buff_97",
+     "Type": "Buff",
+     "Sprited": false
     }
   ]
 },{
@@ -33705,6 +33890,11 @@
       "FileName": "Item_2209",
       "Type": "Item",
       "Sprited": true
+    },
+    {
+     "FileName": "Buff_94",
+     "Type": "Buff",
+     "Sprited": true
     }
   ]
 },{
@@ -35522,14 +35712,29 @@
       "Sprited": false
     },
     {
-        "FileName": "Mount_Minecraft",
-        "Type": "Mount",
-        "Sprited": false
+      "FileName": "Mount_Minecraft",
+      "Type": "Mount",
+      "Sprited": false
     },
     {
-        "FileName": "Buff_118",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_118",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_138",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_184",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_185",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -36787,6 +36992,11 @@
       "Sprited": false
     },
     {
+     "FileName": "Chain34",
+     "Type": "Chain",
+     "Sprited": false
+    },
+    {
         "FileName": "Projectile_383",
         "Type": "Projectile",
         "Sprited": false
@@ -36847,9 +37057,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Mount_Bunny",
-        "Type": "Mount",
-        "Sprited": false
+      "FileName": "Mount_Bunny",
+      "Type": "Mount",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_128",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -36862,9 +37077,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Mount_Pigron",
-        "Type": "Mount",
-        "Sprited": false
+      "FileName": "Mount_Pigron",
+      "Type": "Mount",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_129",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -36877,9 +37097,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Mount_Slime",
-        "Type": "Mount",
-        "Sprited": true
+      "FileName": "Mount_Slime",
+      "Type": "Mount",
+      "Sprited": true
+    },
+    {
+      "FileName": "Buff_130",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -36970,6 +37195,11 @@
       "FileName": "Item_2437",
       "Type": "Item",
       "Sprited": false
+    },
+    {
+     "FileName": "Buff_35",
+     "Type": "Buff",
+     "Sprited": true
     }
   ]
 },{
@@ -38243,7 +38473,7 @@
     },
     {
         "FileName": "Buff_134",
-        "Type": "Tile",
+        "Type": "Buff",
         "Sprited": false
     },
     {
@@ -39462,14 +39692,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_404",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Chain37",
+     "Type": "Chain",
+     "Sprited": false
     },
     {
-        "FileName": "Projectile_405",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Projectile_404",
+     "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_405",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -40782,9 +41017,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_169",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Wall_169",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -41904,6 +42139,21 @@
     {
      "FileName": "Projectile_608",
      "Type": "Projectile",
+     "Sprited": false
+    },
+    {
+     "FileName": "Buff_170",
+     "Type": "Buff",
+     "Sprited": false
+    },
+    {
+     "FileName": "Buff_171",
+     "Type": "Buff",
+     "Sprited": false
+    },
+    {
+     "FileName": "Buff_172",
+     "Type": "Buff",
      "Sprited": false
     }
   ]
@@ -46487,9 +46737,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_481",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Chain40",
+     "Type": "Chain",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_481",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -47048,7 +47303,7 @@
     },
     {
      "FileName": "Buff_153",
-     "Type": "Tile",
+     "Type": "Buff",
      "Sprited": false
     }
   ]
@@ -47070,6 +47325,11 @@
         "FileName": "Projectile_496",
         "Type": "Projectile",
         "Sprited": false
+    },
+    {
+     "FileName": "Buff_153",
+     "Type": "Buff",
+     "Sprited": false
     }
   ]
 },{
@@ -47077,19 +47337,24 @@
   "Sprites":
   [
     {
-      "FileName": "Item_3054",
-      "Type": "Item",
-      "Sprited": true
+     "FileName": "Item_3054",
+     "Type": "Item",
+     "Sprited": true
     },
     {
-        "FileName": "Buff_153",
-        "Type": "Tile",
-        "Sprited": false
+     "FileName": "Buff_153",
+     "Type": "Tile",
+     "Sprited": false
     },
     {
-        "FileName": "Projectile_497",
-        "Type": "Projectile",
-        "Sprited": true
+     "FileName": "Projectile_497",
+     "Type": "Projectile",
+     "Sprited": true
+    },
+    {
+     "FileName": "Buff_153",
+     "Type": "Buff",
+     "Sprited": false
     }
   ]
 },{
@@ -47178,7 +47443,7 @@
     },
     {
         "FileName": "Buff_154",
-        "Type": "Tile",
+        "Type": "Buff",
         "Sprited": true
     },
     {
@@ -47212,8 +47477,8 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_154",
-        "Type": "Tile",
+        "FileName": "Buff_155",
+        "Type": "Buff",
         "Sprited": true
     },
     {
@@ -47297,9 +47562,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_177",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_13",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_177",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -47532,14 +47802,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Wall_178",
-        "Type": "Wall",
-        "Sprited": true
+      "FileName": "Wall_178",
+      "Type": "Wall",
+      "Sprited": true
     },
     {
-        "FileName": "Wall_183",
-        "Type": "Wall",
-        "Sprited": true
+      "FileName": "Wall_183",
+      "Type": "Wall",
+      "Sprited": true
     }
   ]
 },{
@@ -47637,9 +47907,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Wall_181",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -49210,6 +49480,11 @@
         "FileName": "Gore_717",
         "Type": "Gore",
         "Sprited": false
+    },
+    {
+     "FileName": "Buff_48",
+     "Type": "Buff",
+     "Sprited": true
     }
   ]
 },{
@@ -50572,9 +50847,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_275",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_187",
+      "Type": "Wall",
+      "Sprited": true
+    },
+    {
+      "FileName": "Wall_275",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -51442,9 +51722,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_304",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_216",
+      "Type": "Wall",
+      "Sprited": true
+    },
+    {
+      "FileName": "Wall_304",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -51457,9 +51742,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_305",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_217",
+      "Type": "Wall",
+      "Sprited": true
+    },
+    {
+      "FileName": "Wall_305",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -51472,9 +51762,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_306",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_218",
+      "Type": "Wall",
+      "Sprited": true
+    },
+    {
+      "FileName": "Wall_306",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -51487,9 +51782,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_307",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_219",
+      "Type": "Wall",
+      "Sprited": true
+    },
+    {
+      "FileName": "Wall_307",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -51502,9 +51802,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_308",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_220",
+      "Type": "Wall",
+      "Sprited": true
+    },
+    {
+      "FileName": "Wall_308",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -51517,9 +51822,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_309",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_221",
+      "Type": "Wall",
+      "Sprited": true
+    },
+    {
+      "FileName": "Wall_309",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -51532,9 +51842,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_310",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_222",
+      "Type": "Wall",
+      "Sprited": true
+    },
+    {
+      "FileName": "Wall_310",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -51562,9 +51877,14 @@
       "Sprited": true
     },
     {
-        "FileName": "Wall_311",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_223",
+      "Type": "Wall",
+      "Sprited": true
+    },
+    {
+      "FileName": "Wall_311",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -53557,9 +53877,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_173",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_179",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_180",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_181",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -53572,9 +53902,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_176",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_173",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_174",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_175",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -53587,9 +53927,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Buff_176",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_177",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_178",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -54875,6 +55225,11 @@
       "FileName": "Item_3544",
       "Type": "Item",
       "Sprited": true
+    },
+    {
+      "FileName": "Buff_21",
+      "Type": "Buff",
+      "Sprited": true
     }
   ]
 },{
@@ -56112,9 +56467,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Projectile_652",
-        "Type": "Projectile",
-        "Sprited": false
+     "FileName": "Chains_16",
+     "Type": "Chain",
+     "Sprited": false
+    },
+    {
+     "FileName": "Projectile_652",
+     "Type": "Projectile",
+     "Sprited": false
     }
   ]
 },{
@@ -58872,9 +59232,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_201",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_201",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_205",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -59440,6 +59805,11 @@
       "FileName": "Glow_235",
       "Type": "Glow",
       "Sprited": false
+    },
+    {
+     "FileName": "Buff_204",
+     "Type": "Buff",
+     "Sprited": false
     }
   ]
 },{
@@ -59465,6 +59835,11 @@
       "FileName": "Glow_236",
       "Type": "Glow",
       "Sprited": false
+    },
+    {
+     "FileName": "Buff_204",
+     "Type": "Buff",
+     "Sprited": false
     }
   ]
 },{
@@ -59490,6 +59865,11 @@
       "FileName": "Glow_237",
       "Type": "Glow",
       "Sprited": false
+    },
+    {
+     "FileName": "Buff_204",
+     "Type": "Buff",
+     "Sprited": false
     }
   ]
 },{
@@ -60142,9 +60522,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Armor_204",
-        "Type": "Armor",
-        "Sprited": false
+      "FileName": "Armor_204",
+      "Type": "Armor",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_205",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -63137,9 +63522,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Mount_MinecartDesert",
-        "Type": "Mount",
-        "Sprited": false
+      "FileName": "Mount_MinecartDesert",
+      "Type": "Mount",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_208",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_209",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -63152,9 +63547,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Mount_MinecartMineCarp",
-        "Type": "Mount",
-        "Sprited": false
+      "FileName": "Mount_MinecartMineCarp",
+      "Type": "Mount",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_210",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_211",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -66900,12 +67305,12 @@
       "FileName": "Projectile_757",
       "Type": "Projectile",
       "Sprited": true
-  },
-  {
-   "FileName": "Extra_99",
-   "Type": "Extra",
-   "Sprited": false
-  }
+    },
+    {
+    "FileName": "Extra_99",
+    "Type": "Extra",
+    "Sprited": false
+    }
   ]
 },{
   "Name": "VampireFrogStaff",
@@ -69362,9 +69767,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_108",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_108",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_220",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_221",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -69377,9 +69792,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_109",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_109",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_222",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_223",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -69392,9 +69817,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_110",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_110",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_224",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_225",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -69407,9 +69842,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_111",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_111",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_226",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_227",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -69422,9 +69867,9 @@
       "Sprited": false
     },
     {
-        "FileName": "Tiles_547",
-        "Type": "Tile",
-        "Sprited": false
+      "FileName": "Tiles_547",
+      "Type": "Tile",
+      "Sprited": false
     }
   ]
 },{
@@ -69617,9 +70062,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_112",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_112",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_228",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_229",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -69737,14 +70192,24 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_115",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_115",
+      "Type": "Extra",
+      "Sprited": false
     },
     {
-        "FileName": "Extra_116",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_116",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_231",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_232",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -69757,9 +70222,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_117",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_117",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_233",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_234",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -69772,9 +70247,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_118",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_118",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_235",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_236",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -69787,9 +70272,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_119",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_119",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_237",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_238",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -69802,9 +70297,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_120",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_120",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_239",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_240",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -69817,9 +70322,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_121",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_121",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_241",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_242",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -69832,9 +70347,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_122",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_122",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_243",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_244",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -69997,9 +70522,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_123",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_123",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_245",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_246",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -70012,9 +70547,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_124",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_124",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_247",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_248",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -70027,9 +70572,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_125",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_125",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_249",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_250",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -70042,9 +70597,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_126",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_126",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_251",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_252",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -70057,14 +70622,24 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_127",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_127",
+      "Type": "Extra",
+      "Sprited": false
     },
     {
-        "FileName": "Extra_142",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_142",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_253",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_254",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -70077,9 +70652,19 @@
       "Sprited": false
     },
     {
-        "FileName": "Extra_128",
-        "Type": "Extra",
-        "Sprited": false
+      "FileName": "Extra_128",
+      "Type": "Extra",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_255",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_256",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -70367,9 +70952,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_250",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_48",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_250",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70382,9 +70972,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_251",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_49",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_251",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70397,9 +70992,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_252",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_50",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_252",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70412,9 +71012,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_253",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_51",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_253",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70427,9 +71032,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_254",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_52",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_254",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70442,9 +71052,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_255",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_53",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_255",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70457,9 +71072,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_256",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_54",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_256",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70472,9 +71092,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_257",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_55",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_257",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70487,9 +71112,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_258",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_56",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_258",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70502,9 +71132,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_259",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_57",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_259",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70517,9 +71152,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_260",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_58",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_260",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70532,9 +71172,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_261",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_59",
+      "Type": "Wall",
+      "Sprited": true
+    },
+    {
+      "FileName": "Wall_261",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70544,6 +71189,11 @@
     {
       "FileName": "Item_4502",
       "Type": "Item",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_61",
+      "Type": "Wall",
       "Sprited": false
     },
     {
@@ -70702,9 +71352,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_270",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_170",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_270",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70717,9 +71372,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_271",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_171",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_271",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70732,9 +71392,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_274",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_185",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_274",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70747,9 +71412,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_276",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_188",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_276",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70762,9 +71432,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_277",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_189",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_277",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70777,9 +71452,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_278",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_190",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_278",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70792,9 +71472,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_279",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_191",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_279",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70807,9 +71492,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_280",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_192",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_280",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70822,9 +71512,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_281",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_193",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_281",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70837,9 +71532,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_282",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_194",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_282",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70852,9 +71552,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_283",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_195",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_283",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70867,9 +71572,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_284",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_196",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_284",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70882,9 +71592,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_285",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_197",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_285",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70897,9 +71612,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_286",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_198",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_286",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70912,9 +71632,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_287",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_199",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_287",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70927,9 +71652,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_288",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_200",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_288",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70942,9 +71672,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_289",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_201",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_289",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70957,9 +71692,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_290",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_202",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_290",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70972,9 +71712,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_291",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_203",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_291",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -70987,9 +71732,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_292",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_204",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_292",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -71002,9 +71752,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_293",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_205",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_293",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -71017,9 +71772,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_294",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_206",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_294",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -71032,9 +71792,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_295",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_207",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_295",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -71127,9 +71892,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_300",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_212",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_300",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -71142,9 +71912,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_301",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_213",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_301",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -71157,9 +71932,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_302",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_214",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_302",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -71172,9 +71952,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Wall_303",
-        "Type": "Wall",
-        "Sprited": false
+      "FileName": "Wall_215",
+      "Type": "Wall",
+      "Sprited": false
+    },
+    {
+      "FileName": "Wall_303",
+      "Type": "Wall",
+      "Sprited": false
     }
   ]
 },{
@@ -74546,6 +75331,16 @@
      "FileName": "Extra_151",
      "Type": "Extra",
      "Sprited": false
+    },
+    {
+      "FileName": "Buff_269",
+      "Type": "Buff",
+      "Sprited": false
+    },
+    {
+      "FileName": "Buff_270",
+      "Type": "Buff",
+      "Sprited": false
     }
   ]
 },{
@@ -74854,6 +75649,11 @@
     },
     {
      "FileName": "Buff_272",
+     "Type": "Buff",
+     "Sprited": false
+    },
+    {
+     "FileName": "Buff_273",
      "Type": "Buff",
      "Sprited": false
     },
@@ -75423,7 +76223,7 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_283",
+        "FileName": "Buff_284",
         "Type": "Buff",
         "Sprited": false
     },
@@ -75573,14 +76373,14 @@
       "Sprited": false
     },
     {
-        "FileName": "Buff_291",
-        "Type": "Buff",
-        "Sprited": false
+      "FileName": "Buff_291",
+      "Type": "Buff",
+      "Sprited": false
     },
     {
-        "FileName": "Projectile_888",
-        "Type": "Projectile",
-        "Sprited": false
+      "FileName": "Projectile_888",
+      "Type": "Projectile",
+      "Sprited": false
     }
   ]
 },{
@@ -76001,6 +76801,11 @@
         "FileName": "Projectile_905",
         "Type": "Projectile",
         "Sprited": false
+    },
+    {
+     "FileName": "Buff_48",
+     "Type": "Buff",
+     "Sprited": true
     }
   ]
 },{
@@ -77305,6 +78110,11 @@
     {
         "FileName": "Armor_229",
         "Type": "Armor",
+        "Sprited": false
+    },
+    {
+        "FileName": "Buff_59",
+        "Type": "Buff",
         "Sprited": false
     }
   ]
@@ -79328,6 +80138,11 @@
       "Sprited": false
     },
     {
+     "FileName": "Chain41",
+     "Type": "Chain",
+     "Sprited": false
+    },
+    {
         "FileName": "Projectile_947",
         "Type": "Projectile",
         "Sprited": false
@@ -79346,6 +80161,21 @@
         "FileName": "Buff_24",
         "Type": "Buff",
         "Sprited": true
+    },
+    {
+     "FileName": "Chain41",
+     "Type": "Chain",
+     "Sprited": false
+    },
+    {
+     "FileName": "Chain42",
+     "Type": "Chain",
+     "Sprited": false
+    },
+    {
+     "FileName": "Chain43",
+     "Type": "Chain",
+     "Sprited": false
     },
     {
         "FileName": "Projectile_947",
@@ -80046,6 +80876,11 @@
       "FileName": "Gore_25",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -80066,6 +80901,11 @@
       "FileName": "Gore_27",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -80086,6 +80926,11 @@
       "FileName": "Gore_29",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -80246,6 +81091,16 @@
       "FileName": "Gore_940",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_165",
+      "Type": "Buff",
+      "Sprited": false
+     },
+     {
+       "FileName": "Buff_186",
+       "Type": "Buff",
+       "Sprited": false
      }
   ]
 },{
@@ -80526,6 +81381,11 @@
       "FileName": "NPC_34",
       "Type": "NPC",
       "Sprited": true
+     },
+     {
+      "FileName": "Buff_23",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -80861,6 +81721,11 @@
       "FileName": "Gore_82",
       "Type": "Gore",
       "Sprited": true
+     },
+     {
+      "FileName": "Buff_148",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -80896,6 +81761,11 @@
       "FileName": "Gore_83",
       "Type": "Gore",
       "Sprited": true
+     },
+     {
+      "FileName": "Buff_148",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -80975,6 +81845,11 @@
      {
       "FileName": "Gore_60",
       "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Buff_153",
+      "Type": "Buff",
       "Sprited": false
      }
   ]
@@ -81111,6 +81986,11 @@
       "FileName": "Gore_94",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_22",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -81181,6 +82061,11 @@
       "FileName": "Gore_94",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_22",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -81250,6 +82135,11 @@
     {
       "FileName": "NPC_70",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Chain36",
+      "Type": "Chain",
       "Sprited": false
      }
   ]
@@ -81321,6 +82211,16 @@
       "FileName": "NPC_75",
       "Type": "NPC",
       "Sprited": true
+     },
+     {
+      "FileName": "Buff_32",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_35",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -81351,6 +82251,11 @@
       "FileName": "Gore_106",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_36",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -81376,6 +82281,11 @@
       "FileName": "Gore_63",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_32",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -81401,6 +82311,16 @@
       "FileName": "Gore_63",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_22",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_35",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -81436,6 +82356,11 @@
       "FileName": "NPC_81",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_22",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -81451,6 +82376,11 @@
       "FileName": "Gore_99",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_32",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -81476,6 +82406,11 @@
       "FileName": "Gore_63",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_23",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -81500,6 +82435,11 @@
      {
       "FileName": "Gore_63",
       "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Buff_23",
+      "Type": "Buff",
       "Sprited": false
      }
   ]
@@ -81731,6 +82671,11 @@
       "FileName": "Gore_107",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_148",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -81756,6 +82701,11 @@
       "FileName": "Gore_110",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -82196,6 +83146,16 @@
       "FileName": "Gore_142",
       "Type": "Gore",
       "Sprited": true
+     },
+     {
+      "FileName": "Buff_37",
+      "Type": "Buff",
+      "Sprited": false
+     },
+     {
+      "FileName": "Buff_38",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -82238,6 +83198,11 @@
       "Sprited": true
      },
      {
+      "FileName": "Chain12",
+      "Type": "Chain",
+      "Sprited": true
+     },
+     {
       "FileName": "Gore_132",
       "Type": "Gore",
       "Sprited": true
@@ -82255,6 +83220,11 @@
     {
       "FileName": "NPC_116",
       "Type": "NPC",
+      "Sprited": true
+     },
+     {
+      "FileName": "Chain12",
+      "Type": "Chain",
       "Sprited": true
      },
      {
@@ -82821,6 +83791,11 @@
       "FileName": "NPC_147",
       "Type": "NPC",
       "Sprited": true
+     },
+     {
+      "FileName": "Buff_46",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -82881,6 +83856,16 @@
       "FileName": "Gore_165",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_46",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_47",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -82910,6 +83895,11 @@
      {
       "FileName": "Gore_176",
       "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Buff_148",
+      "Type": "Buff",
       "Sprited": false
      }
   ]
@@ -83160,6 +84150,11 @@
      {
       "FileName": "Gore_206",
       "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Buff_149",
+      "Type": "Buff",
       "Sprited": false
      }
   ]
@@ -83516,6 +84511,11 @@
       "FileName": "Gore_63",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_23",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -83566,6 +84566,11 @@
       "FileName": "Gore_239",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -83576,6 +84581,11 @@
       "FileName": "NPC_183",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_22",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -83591,6 +84601,16 @@
       "FileName": "Projectile_174",
       "Type": "Projectile",
       "Sprited": true
+    },
+    {
+     "FileName": "Buff_46",
+     "Type": "Buff",
+     "Sprited": true
+    },
+    {
+     "FileName": "Buff_47",
+     "Type": "Buff",
+     "Sprited": false
     }
   ]
 },{
@@ -84045,6 +85065,16 @@
      {
       "FileName": "Gore_275",
       "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Buff_46",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_47",
+      "Type": "Buff",
       "Sprited": false
      }
   ]
@@ -84861,6 +85891,11 @@
       "FileName": "Gore_208",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_149",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -84976,6 +86011,16 @@
       "FileName": "Gore_359",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_46",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_47",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -85058,6 +86103,11 @@
       "Sprited": false
      },
      {
+      "FileName": "Chain21",
+      "Type": "Chain",
+      "Sprited": false
+     },
+     {
       "FileName": "Gore_368",
       "Type": "Gore",
       "Sprited": false
@@ -85085,6 +86135,11 @@
     {
       "FileName": "NPC_248",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Chain21",
+      "Type": "Chain",
       "Sprited": false
      },
      {
@@ -85616,6 +86671,36 @@
       "FileName": "Gore_401",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_22",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_23",
+      "Type": "Buff",
+      "Sprited": false
+     },
+     {
+      "FileName": "Buff_32",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_35",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_36",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -85631,6 +86716,36 @@
       "FileName": "Gore_402",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_22",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_23",
+      "Type": "Buff",
+      "Sprited": false
+     },
+     {
+      "FileName": "Buff_32",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_35",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_36",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -85691,6 +86806,11 @@
       "FileName": "Gore_406",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_32",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -85721,6 +86841,11 @@
       "FileName": "Gore_407",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_32",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -85751,6 +86876,11 @@
       "FileName": "Gore_408",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_32",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -85781,6 +86911,11 @@
       "FileName": "Gore_408",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_32",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -85805,6 +86940,11 @@
      {
       "FileName": "Gore_44",
       "Type": "Gore",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_36",
+      "Type": "Buff",
       "Sprited": true
      }
   ]
@@ -85836,6 +86976,11 @@
       "FileName": "Gore_409",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_36",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -85860,6 +87005,11 @@
      {
       "FileName": "Gore_44",
       "Type": "Gore",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_36",
+      "Type": "Buff",
       "Sprited": true
      }
   ]
@@ -85891,6 +87041,11 @@
       "FileName": "Gore_410",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_36",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -85961,6 +87116,11 @@
       "FileName": "Gore_44",
       "Type": "Gore",
       "Sprited": true
+     },
+     {
+      "FileName": "Buff_80",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -85990,6 +87150,11 @@
      {
       "FileName": "Gore_44",
       "Type": "Gore",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_80",
+      "Type": "Buff",
       "Sprited": true
      }
   ]
@@ -86021,6 +87186,11 @@
       "FileName": "Gore_44",
       "Type": "Gore",
       "Sprited": true
+     },
+     {
+      "FileName": "Buff_32",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -86050,6 +87220,11 @@
      {
       "FileName": "Gore_44",
       "Type": "Gore",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_32",
+      "Type": "Buff",
       "Sprited": true
      }
   ]
@@ -86166,6 +87341,11 @@
       "FileName": "NPC_289",
       "Type": "NPC",
       "Sprited": true
+     },
+     {
+      "FileName": "Buff_23",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -86511,6 +87691,11 @@
       "FileName": "Gore_445",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -86546,6 +87731,11 @@
       "FileName": "Gore_445",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -86581,6 +87771,11 @@
       "FileName": "Gore_445",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -86616,6 +87811,11 @@
       "FileName": "Gore_445",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -86651,6 +87851,11 @@
       "FileName": "Gore_445",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -86686,6 +87891,11 @@
       "FileName": "Gore_445",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -86721,6 +87931,11 @@
       "FileName": "Gore_445",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -86756,6 +87971,11 @@
       "FileName": "Gore_445",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -86791,6 +88011,11 @@
       "FileName": "Gore_445",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -86826,6 +88051,11 @@
       "FileName": "Gore_445",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_33",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -87601,6 +88831,16 @@
       "FileName": "Gore_516",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_46",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_47",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -88266,6 +89506,11 @@
       "FileName": "Gore_576",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_148",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -88651,6 +89896,11 @@
       "FileName": "Gore_604",
       "Type": "Gore",
       "Sprited": true
+     },
+     {
+      "FileName": "Buff_144",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -88711,6 +89961,11 @@
       "FileName": "Gore_906",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_144",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -89120,6 +90375,11 @@
     {
       "FileName": "NPC_401",
       "Type": "NPC",
+      "Sprited": false
+     },
+     {
+      "FileName": "Buff_145",
+      "Type": "Buff",
       "Sprited": false
      }
   ]
@@ -89646,6 +90906,11 @@
       "FileName": "Gore_787",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_163",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -89821,6 +91086,11 @@
       "FileName": "Gore_801",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_164",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -91206,6 +92476,11 @@
       "FileName": "Extra_37",
       "Type": "Extra",
       "Sprited": true
+     },
+     {
+      "FileName": "Buff_156",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -92881,6 +94156,11 @@
       "FileName": "Gore_1030",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_199",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -93706,6 +94986,11 @@
       "FileName": "Gore_1023",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_195",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -93740,6 +95025,11 @@
      {
       "FileName": "Gore_1023",
       "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Buff_195",
+      "Type": "Buff",
       "Sprited": false
      }
   ]
@@ -94001,6 +95291,11 @@
       "FileName": "Gore_1026",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_197",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -94066,6 +95361,11 @@
       "FileName": "Gore_1026",
       "Type": "Gore",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_197",
+      "Type": "Buff",
+      "Sprited": false
      }
   ]
 },{
@@ -94095,6 +95395,11 @@
      {
       "FileName": "Gore_999",
       "Type": "Gore",
+      "Sprited": false
+     },
+     {
+      "FileName": "Buff_196",
+      "Type": "Buff",
       "Sprited": false
      }
   ]
@@ -95221,6 +96526,16 @@
       "FileName": "NPC_630",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_22",
+      "Type": "Buff",
+      "Sprited": true
+     },
+     {
+      "FileName": "Buff_35",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -97100,4 +98415,3 @@
   ]
 }
 ]
-
