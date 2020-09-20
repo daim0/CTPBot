@@ -8,6 +8,8 @@ const fs = require('fs');
 const spriteList = require(fileName);
 const thingy = " | ";
 var difflib = require('difflib');
+const { time } = require('console');
+
 
 // On startup.
 client.once('ready', () => {
@@ -35,36 +37,145 @@ client.on('message', message => {
             {
                 // If the sprite ID inputed is the same as one in the list.
                 if(args[0] === spriteList[i].Name)
-                {
+                { 
                     // Declare message variable and iterate through each of the sprites.
                     var m = "";
                     for(var j = 0; j < spriteList[i].Sprites.length; j++)
                     {
                         m += spriteList[i].Sprites[j].Type + thingy + spriteList[i].Sprites[j].FileName + thingy + 
                         (spriteList[i].Sprites[j].Sprited ? "Sprited.": "Not Sprited.") + "\n";
-                    } 
-                    message.channel.send("```" + m + "```");
+                    }
+                    const embed = new Discord.MessageEmbed()
+                    .setTitle(args[0])
+                    .setDescription("```" + m + "```")
+                    .setColor(7909985)
+                    .setTimestamp()
+                    message.channel.send({embed}); 
 
-                    // Send images.
-                    for(var k = 0; k < spriteList[i].Sprites.length; k++)
+                    var spritesnumber = 0;
+                    //if the number of sprites exceeds 3 the bot will send a zip folder with the files instead of posting them
+                    for(var l = 0; l < spriteList[i].Sprites.length; l++)
                     {
-                        if(spriteList[i].Sprites[k].Sprited)
+                        if(spriteList[i].Sprites[l].Sprited)
                         {
-                            message.channel.send(spriteList[i].Sprites[k].Type, {
-                                files: [
-                                    "./Images/" + spriteList[i].Sprites[k].FileName + ".png"
-                                ]
-                            });
+                            spritesnumber++;
                         }
                     }
-                    return;
+                    if(spritesnumber > 3)
+                    {
+    
+                        //function to stop the bot and load the zip folder
+                        function sendzip(){
+                            message.channel.send({ files: ['Sprites.zip'] })
+                        }
+                        
+                        //function to stop the bot and load the zip folder
+                        function makezip(){
+                            var archiver = require('archiver');
+
+                        //declaring the name for the zip folder
+                        var output = fs.createWriteStream('Sprites.zip');
+                        var archive = archiver('zip');
+
+                        archive.on('error', function(err){
+                        throw err;
+                        });
+
+                        archive.pipe(output);
+                        //copying all the files from "ZipArchiverTemp" folder into the final zip folder
+                        archive.directory('./ZipArchiverTemp', false);
+
+                        archive.finalize();
+                        }
+
+                        //function to stop the bot and copy the files from "./Images" folder
+                        function Copy(){
+                            var path = require('path');
+                            for(var k = 0; k < spriteList[i].Sprites.length; k++)
+                            {
+                                if(spriteList[i].Sprites[k].Sprited)
+                                {   
+                                    //declaring the variables for the location of the sprite image file and it's destination
+                                    var oldPath = path.join('./Images', spriteList[i].Sprites[k].FileName + '.png');
+                                    var newPath = path.join('./ZipArchiverTemp', spriteList[i].Sprites[k].FileName + '.png');
+                                    
+                                    //copying the image to the temporary folder
+                                    fs.copyFile(oldPath, newPath, function(err) {
+                                        if (err) {
+                                        throw err
+                                        }
+                                    });
+                            
+                                }
+                            }
+                        }
+
+                        var path = require('path');
+                        var directory = './ZipArchiverTemp';
+
+                        //removing the previous file from "ZipArchiverTemp" folder 
+                        fs.readdir(directory, (err, files) => {
+                        if (err) throw err;
+
+                        for (const file of files) {
+                        fs.unlink(path.join(directory, file), err => {
+                        if (err) throw err;
+                        });
+                        }
+                        });
+
+                        //function to work after 1s for the issue declared above
+                        setTimeout(Copy, 1000);
+
+                        //function to work after 1.5s for the issue declared above
+                        setTimeout(makezip, 1500);   
+
+                        //function to work after 2s for the issue declared above
+                        setTimeout(sendzip, 2000);
+
+                        return
+                    }
+
+                    else 
+                    {
+                        // Send images.
+                        for(var k = 0; k < spriteList[i].Sprites.length; k++)
+                        {
+                            if(spriteList[i].Sprites[k].Sprited)
+                            {
+                                message.channel.send(spriteList[i].Sprites[k].Type, {
+                                    files: [
+                                        "./Images/" + spriteList[i].Sprites[k].FileName + ".png"
+                                    ]
+                                });
+                            }
+                        }
+                        return 
+                    }   
                 }
             }
             // If the user doesn't input a correct ID.
             var test = fs.readFileSync("b.txt", "utf-8"); 
-            var WordArr = test.split('\n');
+            var WordArr = test.split('\r');
             var list = difflib.getCloseMatches(args[0], WordArr, n=10, cutoff=0.5);
-            return message.channel.send("```" + `Invalid Sprite ID (${args[0]}), did you mean:\n` + list + "```");
+            if (list.length == 0)
+            {
+                const embed = new Discord.MessageEmbed()
+                .setTitle("Invalid Sprite ID")
+                .setColor(7909985)
+                .setTimestamp()
+                return message.channel.send({embed});  
+            }
+            else
+            {
+                const embed = new Discord.MessageEmbed()
+                .setTitle("Invalid Sprite ID (" + args[0] + "), did you mean:")
+                .setDescription("```" + list + "\n```")
+                .setColor(7909985)
+                .setTimestamp()
+                return message.channel.send({embed});  
+            }   
+        
         }
     }
     // status command.
@@ -72,10 +183,15 @@ client.on('message', message => {
     {
         var yourping = new Date().getTime() - message.createdTimestamp;
 
-        return message.channel.send("```" + 
+        const embed = new Discord.MessageEmbed()
+        .setTitle("Status")
+        .setDescription("```" + 
         'Bot is currently on.\n' + 
         `Your ping: ${yourping}ms.\n` + 
-        "```");
+        "```")
+        .setColor(7909985)
+        .setTimestamp()
+        return message.channel.send({embed});
     }
     else if(command === 'uptime')
     {
@@ -84,7 +200,12 @@ client.on('message', message => {
         let minutes = Math.floor(client.uptime / 60000) % 60;
         let seconds = Math.floor(client.uptime / 1000) % 60;
 
-        return message.channel.send("```" + `Uptime:\n${days}d ${hours}h ${minutes}m ${seconds}s` + "```");
+        const embed = new Discord.MessageEmbed()
+        .setTitle("Uptime")
+        .setDescription("```" + `Uptime:\n${days}d ${hours}h ${minutes}m ${seconds}s` + "```")
+        .setColor(7909985)
+        .setTimestamp()
+        return message.channel.send({embed});
     }
     // Modify list command.
     else if(command === 'edit')
@@ -139,27 +260,36 @@ client.on('message', message => {
     // Help command.
     else if(command === 'help')
     {
-        return message.channel.send("```" +
-         "List of commands:\n" +
-         "!help: displays a list of commands.\n" + 
-         "!info: displays info on a sprite, usage: !info SpriteName.\n" + 
-         "!edit: administrator command, modifies the info on a sprite, usage: !edit textureNumber true/false.\n" + 
-         "!status: checks if the bot is on.\n" + 
-         "!botinfo: displays basic bot info.\n" +
-         "!uptime: displays the uptime of the bot.\n" + 
-         "!random: displays a random sprite.\n" + 
-         "!task: displays a random sprite that has not been finished" + 
-         "```");
+        const embed = new Discord.MessageEmbed()
+        .setTitle("List of commands:")
+        .setDescription("**!help:** displays a list of commands.\n" + 
+        "**!info:** displays info on a sprite, usage: !info SpriteName.\n" + 
+        "**!search:** displays a list of close matches between the input and the list content, usage: !search similar SpriteName.\n" + 
+        "**!edit:** administrator command, modifies the info on a sprite, usage: !edit textureNumber true/false.\n" + 
+        "**!status:** checks if the bot is on.\n" + 
+        "**!botinfo:** displays basic bot info.\n" +
+        "**!uptime:** displays the uptime of the bot.\n" + 
+        "**!random:** displays a random sprite.\n" + 
+        "**!task:** displays a random sprite that has not been finished")
+        .setColor(7909985)
+        .setTimestamp()
+        return message.channel.send({embed});
+        
     }
     // Botinfo command.
     else if(command === 'botinfo')
     {
-        return message.channel.send("```" + 
+        const embed = new Discord.MessageEmbed()
+        .setTitle("Bot Info")
+        .setDescription("```" + 
         "CTP Bot:\n" +
         "Current version: 0.3.0\n" + 
         "Bot github: https://github.com/daim0/CTPBot\n" +
-        "If you come across any errors notify daim#6490 on discord." +
-        "```");
+        "If you come across any errors notify daim#6490 or Felipe350#5384 on discord." +
+        "```")
+        .setColor(7909985)
+        .setTimestamp()
+        return message.channel.send({embed});
     }
     // Random command.
     else if(command === 'random')
@@ -174,7 +304,12 @@ client.on('message', message => {
             m += spriteList[n].Sprites[j].Type + thingy + spriteList[n].Sprites[j].FileName + thingy + 
             (spriteList[n].Sprites[j].Sprited ? "Sprited.": "Not Sprited.") + "\n";
         } 
-        message.channel.send("```" + m + "```");
+        const embed = new Discord.MessageEmbed()
+        .setTitle(spriteList[n].Name)
+        .setDescription("```" + m + "```")
+        .setColor(7909985)
+        .setTimestamp()
+        message.channel.send({embed}); 
 
         // Send images.
         for(var k = 0; k < spriteList[n].Sprites.length; k++)
@@ -210,7 +345,12 @@ client.on('message', message => {
                 m += notSprited[index].Sprites[j].Type + thingy + notSprited[index].Sprites[j].FileName + thingy + 
                 (notSprited[index].Sprites[j].Sprited ? "Sprited.": "Not Sprited.") + "\n";
             } 
-            message.channel.send("```"+`${notSprited[index].Name}:\n` + m + "```");
+            const embed = new Discord.MessageEmbed()
+            .setTitle(notSprited[index].Name)
+            .setDescription("```" + m + "```")
+            .setColor(7909985)
+            .setTimestamp()
+            message.channel.send({embed}); 
     
             for(var k = 0; k < notSprited[index].Sprites.length; k++)
             {
@@ -228,15 +368,33 @@ client.on('message', message => {
 
 
     }
-
+    // Search command.
     else if(command === 'search')
     {  
         var test = fs.readFileSync("b.txt", "utf-8"); 
-        var WordArr = test.split('\n');
+        var WordArr = test.split('\r');
         var list = difflib.getCloseMatches(args[0], WordArr, n=20, cutoff=0.5);
-        return message.channel.send(list);     
+        if (list.length == 0)
+        {
+            const embed = new Discord.MessageEmbed()
+            .setTitle("There's no iternal name similar to the one you enterd")
+            .setColor(7909985)
+            .setTimestamp()
+            return message.channel.send({embed});  
+        }
+        else
+        {
+            const embed = new Discord.MessageEmbed()
+            .setTitle('Were you looking for:')
+            .setDescription("```" + list + "\n```")
+            .setColor(7909985)
+            .setTimestamp()
+            return message.channel.send({embed});  
+        }   
     }
+
 });
+
 
 // Login to discord true hackerman style :sugnlasses.
 client.login(process.env.token);
