@@ -8,7 +8,7 @@ const fs = require('fs');
 const spriteList = require(fileName);
 const thingy = " | ";
 var difflib = require('difflib');
-const { time } = require('console');
+const { time, Console } = require('console');
 
 
 // On startup.
@@ -36,7 +36,7 @@ client.on('message', message => {
             for(var i = 0; i < spriteList.length; i++)
             {
                 // If the sprite ID inputed is the same as one in the list.
-                if(args[0] === spriteList[i].Name)
+                if(args[0].toLowerCase() === spriteList[i].Name.toLowerCase())
                 { 
                     // Declare message variable and iterate through each of the sprites.
                     var m = "";
@@ -46,7 +46,7 @@ client.on('message', message => {
                         (spriteList[i].Sprites[j].Sprited ? "Sprited.": "Not Sprited.") + "\n";
                     }
                     const embed = new Discord.MessageEmbed()
-                    .setTitle(args[0])
+                    .setTitle(spriteList[i].Name)
                     .setDescription("```" + m + "```")
                     .setColor(7909985)
                     .setTimestamp()
@@ -150,13 +150,13 @@ client.on('message', message => {
                                 });
                             }
                         }
-                        return 
+                        return
                     }   
                 }
             }
             // If the user doesn't input a correct ID.
             var test = fs.readFileSync("b.txt", "utf-8"); 
-            var WordArr = test.split('\r');
+            var WordArr = test.split('\n');
             var list = difflib.getCloseMatches(args[0], WordArr, n=10, cutoff=0.5);
             if (list.length == 0)
             {
@@ -175,7 +175,7 @@ client.on('message', message => {
                 .setTimestamp()
                 return message.channel.send({embed});  
             }   
-        
+           
         }
     }
     // status command.
@@ -311,20 +311,107 @@ client.on('message', message => {
         .setTimestamp()
         message.channel.send({embed}); 
 
-        // Send images.
-        for(var k = 0; k < spriteList[n].Sprites.length; k++)
+        var spritesnumber = 0;
+        //if the number of sprites exceeds 3 the bot will send a zip folder with the files instead of posting them
+        for(var l = 0; l < spriteList[n].Sprites.length; l++)
         {
-            if(spriteList[n].Sprites[k].Sprited)
+            if(spriteList[n].Sprites[l].Sprited)
             {
-                message.channel.send(spriteList[n].Sprites[k].Type, {
-                    files: [
-                        "./Images/" + spriteList[n].Sprites[k].FileName + ".png"
-                    ]
-                });
+                spritesnumber++;
+            }
+        }
+        if(spritesnumber > 3)
+        {
+    
+            //function to stop the bot and load the zip folder
+            function sendzip(){
+                message.channel.send({ files: ['Sprites.zip'] })
+            }
+                    
+            //function to stop the bot and load the zip folder
+            function makezip(){
+                var archiver = require('archiver');
+
+            //declaring the name for the zip folder
+            var output = fs.createWriteStream('Sprites.zip');
+            var archive = archiver('zip');
+
+            archive.on('error', function(err){
+            throw err;
+            });
+
+            archive.pipe(output);
+             //copying all the files from "ZipArchiverTemp" folder into the final zip folder
+             archive.directory('./ZipArchiverTemp', false);
+
+             archive.finalize();
+             }
+
+            //function to stop the bot and copy the files from "./Images" folder
+            function Copy(){
+                var path = require('path');
+                for(var k = 0; k < spriteList[n].Sprites.length; k++)
+                {
+                    if(spriteList[n].Sprites[k].Sprited)
+                    {   
+                        //declaring the variables for the location of the sprite image file and it's destination
+                        var oldPath = path.join('./Images', spriteList[n].Sprites[k].FileName + '.png');
+                        var newPath = path.join('./ZipArchiverTemp', spriteList[n].Sprites[k].FileName + '.png');
+                                    
+                        //copying the image to the temporary folder
+                        fs.copyFile(oldPath, newPath, function(err) {
+                            if (err) {
+                            throw err
+                            }
+                        });
+                        
+                    }
+                }
+            }
+
+            var path = require('path');
+            var directory = './ZipArchiverTemp';
+
+            //removing the previous file from "ZipArchiverTemp" folder 
+            fs.readdir(directory, (err, files) => {
+            if (err) throw err;
+
+            for (const file of files) {
+            fs.unlink(path.join(directory, file), err => {
+            if (err) throw err;
+            });
+            }
+            });
+
+            //function to work after 1s for the issue declared above
+            setTimeout(Copy, 1000);
+
+            //function to work after 1.5s for the issue declared above
+            setTimeout(makezip, 1500);   
+
+            //function to work after 2s for the issue declared above
+            setTimeout(sendzip, 2000);
+
+            return
+        }
+
+        else 
+        {
+            for(var k = 0; k < spriteList[n].Sprites.length; k++)
+            {
+                if(spriteList[n].Sprites[k].Sprited)
+                {
+                    message.channel.send(spriteList[n].Sprites[k].Type, {
+                        files: [
+                            "./Images/" + spriteList[n].Sprites[k].FileName + ".png"
+                        ]
+                    });
+                }
             }
         }
         return;
     }
+            
     // random not finished sprite command.
     else if(command === 'task')
     {
@@ -352,7 +439,94 @@ client.on('message', message => {
             .setTimestamp()
             message.channel.send({embed}); 
     
-            for(var k = 0; k < notSprited[index].Sprites.length; k++)
+            var spritesnumber = 0;
+            //if the number of sprites exceeds 3 the bot will send a zip folder with the files instead of posting them
+            for(var l = 0; l < notSprited[index].Sprites.length; l++)
+            {
+                if(notSprited[index].Sprites[l].Sprited)
+                {
+                    spritesnumber++;
+                }
+            }
+            if(spritesnumber > 3)
+            {
+    
+                //function to stop the bot and load the zip folder
+                function sendzip(){
+                    message.channel.send({ files: ['Sprites.zip'] })
+                }
+                        
+                //function to stop the bot and load the zip folder
+                function makezip(){
+                    var archiver = require('archiver');
+
+                //declaring the name for the zip folder
+                var output = fs.createWriteStream('Sprites.zip');
+                var archive = archiver('zip');
+
+                archive.on('error', function(err){
+                throw err;
+                });
+
+                archive.pipe(output);
+                //copying all the files from "ZipArchiverTemp" folder into the final zip folder
+                archive.directory('./ZipArchiverTemp', false);
+
+                archive.finalize();
+                }
+
+                //function to stop the bot and copy the files from "./Images" folder
+                function Copy(){
+                    var path = require('path');
+                    for(var k = 0; k < notSprited[index].Sprites.length; k++)
+                    {
+                        if(notSprited[index].Sprites[k].Sprited)
+                        {   
+                            //declaring the variables for the location of the sprite image file and it's destination
+                            var oldPath = path.join('./Images', notSprited[index].Sprites[k].FileName + '.png');
+                            var newPath = path.join('./ZipArchiverTemp', notSprited[index].Sprites[k].FileName + '.png');
+                                    
+                            //copying the image to the temporary folder
+                            fs.copyFile(oldPath, newPath, function(err) {
+                                if (err) {
+                                throw err
+                                }
+                            });
+                            
+                        }
+                    }
+                }
+
+                var path = require('path');
+                var directory = './ZipArchiverTemp';
+
+                //removing the previous file from "ZipArchiverTemp" folder 
+                fs.readdir(directory, (err, files) => {
+                if (err) throw err;
+
+                for (const file of files) {
+                fs.unlink(path.join(directory, file), err => {
+                if (err) throw err;
+                });
+                }
+                });
+
+                //function to work after 1s for the issue declared above
+                setTimeout(Copy, 1000);
+
+                //function to work after 1.5s for the issue declared above
+                setTimeout(makezip, 1500);   
+
+                //function to work after 2s for the issue declared above
+                setTimeout(sendzip, 2000);
+
+                return
+            }
+
+            else 
+            {
+                // Send images.
+                for(var k = 0; k < notSprited[index].Sprites.length; k++)
             {
                 if(notSprited[index].Sprites[k].Sprited)
                 {
@@ -363,7 +537,8 @@ client.on('message', message => {
                     });
                 }
             }
-            return;
+                return
+            }
         } else return message.channel.send("All current sprites are done!");
 
 
@@ -372,8 +547,8 @@ client.on('message', message => {
     else if(command === 'search')
     {  
         var test = fs.readFileSync("b.txt", "utf-8"); 
-        var WordArr = test.split('\r');
-        var list = difflib.getCloseMatches(args[0], WordArr, n=20, cutoff=0.5);
+        var WordArr = test.split('\n');
+        var list = difflib.getCloseMatches(args[0].toLowerCase(), WordArr, n=20, cutoff=0.5);
         if (list.length == 0)
         {
             const embed = new Discord.MessageEmbed()
