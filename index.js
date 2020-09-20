@@ -572,4 +572,4 @@ client.on('message', message => {
 
 
 // Login to discord true hackerman style :sugnlasses.
-client.login("NzI5MTAwMjk4MzI4NzM1ODc4.XwEBkQ.YD7u44alDeO8H6hKJW-7HsV__gg");
+client.login(process.env.token);
