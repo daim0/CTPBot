@@ -3857,6 +3857,11 @@
          "FileName": "Acc_HandsOn_5",
          "Type": "Sheet",
          "Sprited": false
+      },        
+      {
+         "FileName": "Acc_HandsOff_9",
+         "Type": "Sheet",
+         "Sprited": false
       }
     ]
   },
@@ -3939,7 +3944,7 @@
          "Sprited": false
       },
       {
-          "FileName": "Acc_HandsOff_12",
+          "FileName": "Acc_HandsOff_7",
           "Type": "Sheet",
           "Sprited": false
       }
@@ -8982,7 +8987,7 @@
         "Sprited": false
     },
     {
-        "FileName": "Acc_HandsOff_15",
+        "FileName": "Acc_HandsOff_8",
         "Type": "Sheet",
         "Sprited": false
     }
@@ -14467,7 +14472,7 @@
         "Sprited": false
     },
     {
-        "FileName": "Acc_HandsOff_10",
+        "FileName": "Acc_HandsOff_5",
         "Type": "Sheet",
         "Sprited": false
     }
@@ -14500,11 +14505,6 @@
         "FileName": "Acc_HandsOn_13",
         "Type": "Sheet",
         "Sprited": false
-    },
-    {
-        "FileName": "Acc_HandsOff_13",
-        "Type": "Sheet",
-        "Sprited": false
     }
   ]
 },{
@@ -14518,11 +14518,6 @@
     },
     {
         "FileName": "Acc_HandsOn_14",
-        "Type": "Sheet",
-        "Sprited": false
-    },
-    {
-        "FileName": "Acc_HandsOff_14",
         "Type": "Sheet",
         "Sprited": false
     }
@@ -15020,6 +15015,11 @@
         "FileName": "Acc_HandsOn_9",
         "Type": "Sheet",
         "Sprited": false
+    },        
+    {
+       "FileName": "Acc_HandsOff_4",
+       "Type": "Sheet",
+       "Sprited": false
     }
   ]
 },{
@@ -15287,7 +15287,7 @@
         "Sprited": false
     },
     {
-        "FileName": "Acc_HandsOff_11",
+        "FileName": "Acc_HandsOff_6",
         "Type": "Sheet",
         "Sprited": false
     }
@@ -15667,7 +15667,7 @@
         "Sprited": false
     },
     {
-        "FileName": "Acc_HandsOff_11",
+        "FileName": "Acc_HandsOff_6",
         "Type": "Sheet",
         "Sprited": false
     },
@@ -15760,11 +15760,6 @@
         "FileName": "Acc_HandsOn_1",
         "Type": "Sheet",
         "Sprited": false
-    },
-    {
-        "FileName": "Acc_HandsOff_1",
-        "Type": "Sheet",
-        "Sprited": false
     }
   ]
 },{
@@ -15797,7 +15792,7 @@
         "Sprited": false
     },
     {
-        "FileName": "Acc_HandsOff_11",
+        "FileName": "Acc_HandsOff_6",
         "Type": "Sheet",
         "Sprited": false
     },
@@ -20935,6 +20930,11 @@
         "FileName": "Acc_HandsOn_6",
         "Type": "Sheet",
         "Sprited": false
+    },        
+    {
+       "FileName": "Acc_HandsOff_1",
+       "Type": "Sheet",
+       "Sprited": false
     }
   ]
 },{
@@ -24855,6 +24855,11 @@
         "FileName": "Acc_HandsOn_8",
         "Type": "Sheet",
         "Sprited": false
+    },        
+    {
+       "FileName": "Acc_HandsOff_3",
+       "Type": "Sheet",
+       "Sprited": false
     }
   ]
 },{
@@ -30190,6 +30195,11 @@
         "FileName": "Acc_HandsOn_7",
         "Type": "Sheet",
         "Sprited": false
+    },        
+    {
+       "FileName": "Acc_HandsOff_2",
+       "Type": "Sheet",
+       "Sprited": false
     }
   ]
 },{
@@ -31243,7 +31253,7 @@
     }
   ]
 },{
-  "Name": "Firefly",
+  "Name": "FireflyBait",
   "Sprites":
   [
     {
@@ -31278,7 +31288,7 @@
     }
   ]
 },{
-  "Name": "MonarchButterfly",
+  "Name": "MonarchButterflyBait",
   "Sprites":
   [
     {
@@ -31293,7 +31303,7 @@
     }
   ]
 },{
-  "Name": "PurpleEmperorButterfly",
+  "Name": "PurpleEmperorButterflyBait",
   "Sprites":
   [
     {
@@ -31308,7 +31318,7 @@
     }
   ]
 },{
-  "Name": "RedAdmiralButterfly",
+  "Name": "RedAdmiralButterflyBait",
   "Sprites":
   [
     {
@@ -31323,7 +31333,7 @@
     }
   ]
 },{
-  "Name": "UlyssesButterfly",
+  "Name": "UlyssesButterflyBait",
   "Sprites":
   [
     {
@@ -31338,7 +31348,7 @@
     }
   ]
 },{
-  "Name": "SulphurButterfly",
+  "Name": "SulphurButterflyBait",
   "Sprites":
   [
     {
@@ -31353,7 +31363,7 @@
     }
   ]
 },{
-  "Name": "TreeNymphButterfly",
+  "Name": "TreeNymphButterflyBait",
   "Sprites":
   [
     {
@@ -31368,7 +31378,7 @@
     }
   ]
 },{
-  "Name": "ZebraSwallowtailButterfly",
+  "Name": "ZebraSwallowtailButterflyBait",
   "Sprites":
   [
     {
@@ -31383,7 +31393,7 @@
     }
   ]
 },{
-  "Name": "JuliaButterfly",
+  "Name": "JuliaButterflyBait",
   "Sprites":
   [
     {
@@ -31392,9 +31402,9 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_356",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_356",
+      "Type": "NPC",
+      "Sprited": false
     }
   ]
 },{
@@ -31428,7 +31438,7 @@
     }
   ]
 },{
-  "Name": "LightningBug",
+  "Name": "LightningBugBait",
   "Sprites":
   [
     {
@@ -31437,14 +31447,14 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_358",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_358",
+      "Type": "NPC",
+      "Sprited": false
     },
     {
-     "FileName": "LightningBug",
-     "Type": "Extra",
-     "Sprited": false
+      "FileName": "LightningBug",
+      "Type": "Extra",
+      "Sprited": false
     }
   ]
 },{
@@ -31468,7 +31478,7 @@
     }
   ]
 },{
-  "Name": "Snail",
+  "Name": "SnailBait",
   "Sprites":
   [
     {
@@ -31477,13 +31487,23 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_359",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_359",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+     "FileName": "Gore_547",
+     "Type": "Gore",
+     "Sprited": false
+    },
+    {
+     "FileName": "Gore_548",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
-  "Name": "GlowingSnail",
+  "Name": "GlowingSnailBait",
   "Sprites":
   [
     {
@@ -31492,9 +31512,19 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_360",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_360",
+      "Type": "NPC",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_549",
+      "Type": "Gore",
+      "Sprited": false
+    },
+    {
+      "FileName": "Gore_550",
+      "Type": "Gore",
+      "Sprited": false
     }
   ]
 },{
@@ -34108,7 +34138,7 @@
     }
   ]
 },{
-  "Name": "BlackScorpion",
+  "Name": "BlackScorpionBait",
   "Sprites":
   [
     {
@@ -34123,7 +34153,7 @@
     }
   ]
 },{
-  "Name": "Scorpion",
+  "Name": "ScorpionBait",
   "Sprites":
   [
     {
@@ -35132,7 +35162,7 @@
         "Sprited": false
     },
     {
-        "FileName": "Acc_HandsOff_17",
+        "FileName": "Acc_HandsOff_18",
         "Type": "Sheet",
         "Sprited": false
     }
@@ -35983,11 +36013,6 @@
     },
     {
         "FileName": "Acc_HandsOn_16",
-        "Type": "Sheet",
-        "Sprited": false
-    },
-    {
-        "FileName": "Acc_HandsOff_16",
         "Type": "Sheet",
         "Sprited": false
     }
@@ -38358,7 +38383,7 @@
     }
   ]
 },{
-  "Name": "BlueJellyfish",
+  "Name": "BlueJellyfishBait",
   "Sprites":
   [
     {
@@ -38368,22 +38393,17 @@
     }
   ]
 },{
-  "Name": "GreenJellyfish",
+  "Name": "GreenJellyfishBait",
   "Sprites":
   [
     {
       "FileName": "Item_2437",
       "Type": "Item",
       "Sprited": false
-    },
-    {
-     "FileName": "Buff_35",
-     "Type": "Buff",
-     "Sprited": true
     }
   ]
 },{
-  "Name": "PinkJellyfish",
+  "Name": "PinkJellyfishBait",
   "Sprites":
   [
     {
@@ -42048,7 +42068,7 @@
     }
   ]
 },{
-  "Name": "TruffleWorm",
+  "Name": "TruffleWormBait",
   "Sprites":
   [
     {
@@ -43083,7 +43103,7 @@
     }
   ]
 },{
-  "Name": "Grasshopper",
+  "Name": "GrasshopperBait",
   "Sprites":
   [
     {
@@ -45818,7 +45838,7 @@
     }
   ]
 },{
-  "Name": "GoldBird",
+  "Name": "GoldBirdBait",
   "Sprites":
   [
     {
@@ -45833,7 +45853,7 @@
     }
   ]
 },{
-  "Name": "GoldBunny",
+  "Name": "GoldBunnyBait",
   "Sprites":
   [
     {
@@ -45848,7 +45868,7 @@
     }
   ]
 },{
-  "Name": "GoldButterfly",
+  "Name": "GoldButterflyBait",
   "Sprites":
   [
     {
@@ -45857,13 +45877,13 @@
       "Sprited": false
     },
     {
-        "FileName": "NPC_444",
-        "Type": "NPC",
-        "Sprited": false
+      "FileName": "NPC_444",
+      "Type": "NPC",
+      "Sprited": false
     }
   ]
 },{
-  "Name": "GoldFrog",
+  "Name": "GoldFrogBait",
   "Sprites":
   [
     {
@@ -45878,7 +45898,7 @@
     }
   ]
 },{
-  "Name": "GoldGrasshopper",
+  "Name": "GoldGrasshopperBait",
   "Sprites":
   [
     {
@@ -45893,7 +45913,7 @@
     }
   ]
 },{
-  "Name": "GoldMouse",
+  "Name": "GoldMouseBait",
   "Sprites":
   [
     {
@@ -45908,7 +45928,7 @@
     }
   ]
 },{
-  "Name": "GoldWorm",
+  "Name": "GoldWormBait",
   "Sprites":
   [
     {
@@ -51118,7 +51138,7 @@
     }
   ]
 },{
-  "Name": "EnchantedNightcrawler",
+  "Name": "EnchantedNightcrawlerBait",
   "Sprites":
   [
     {
@@ -51138,7 +51158,7 @@
     }
   ]
 },{
-  "Name": "Grubby",
+  "Name": "GrubbyBait",
   "Sprites":
   [
     {
@@ -51153,7 +51173,7 @@
     }
   ]
 },{
-  "Name": "Sluggy",
+  "Name": "SluggyBait",
   "Sprites":
   [
     {
@@ -51168,7 +51188,7 @@
     }
   ]
 },{
-  "Name": "Buggy",
+  "Name": "BuggyBait",
   "Sprites":
   [
     {
@@ -53237,7 +53257,7 @@
         "Sprited": false
     },
     {
-        "FileName": "Acc_HandsOff_18",
+        "FileName": "Acc_HandsOff_11",
         "Type": "Sheet",
         "Sprited": false
     }
@@ -61025,11 +61045,6 @@
         "FileName": "Acc_HandsOn_19",
         "Type": "Sheet",
         "Sprited": false
-    },
-    {
-        "FileName": "Acc_HandsOff_19",
-        "Type": "Sheet",
-        "Sprited": false
     }
   ]
 },{
@@ -63113,7 +63128,7 @@
     }
   ]
 },{
-  "Name": "Celeb2",
+  "Name": "CelebrationMk2",
   "Sprites":
   [
     {
@@ -70128,7 +70143,7 @@
     }
   ]
 },{
-  "Name": "BlackDragonfly",
+  "Name": "BlackDragonflyBait",
   "Sprites":
   [
     {
@@ -70143,7 +70158,7 @@
     }
   ]
 },{
-  "Name": "BlueDragonfly",
+  "Name": "BlueDragonflyBait",
   "Sprites":
   [
     {
@@ -70158,7 +70173,7 @@
     }
   ]
 },{
-  "Name": "GreenDragonfly",
+  "Name": "GreenDragonflyBait",
   "Sprites":
   [
     {
@@ -70173,7 +70188,7 @@
     }
   ]
 },{
-  "Name": "OrangeDragonfly",
+  "Name": "OrangeDragonflyBait",
   "Sprites":
   [
     {
@@ -70188,7 +70203,7 @@
     }
   ]
 },{
-  "Name": "RedDragonfly",
+  "Name": "RedDragonflyBait",
   "Sprites":
   [
     {
@@ -70203,7 +70218,7 @@
     }
   ]
 },{
-  "Name": "YellowDragonfly",
+  "Name": "YellowDragonflyBait",
   "Sprites":
   [
     {
@@ -70218,7 +70233,7 @@
     }
   ]
 },{
-  "Name": "GoldDragonfly",
+  "Name": "GoldDragonflyBait",
   "Sprites":
   [
     {
@@ -70548,7 +70563,7 @@
     }
   ]
 },{
-  "Name": "LadyBug",
+  "Name": "LadyBugBait",
   "Sprites":
   [
     {
@@ -70578,7 +70593,7 @@
     }
   ]
 },{
-  "Name": "Maggot",
+  "Name": "MaggotBait",
   "Sprites":
   [
     {
@@ -71533,7 +71548,7 @@
     }
   ]
 },{
-  "Name": "WaterStrider",
+  "Name": "WaterStriderBait",
   "Sprites":
   [
     {
@@ -78854,7 +78869,7 @@
     }
   ]
 },{
-  "Name": "GemSquirrelAmethyst",
+  "Name": "GemSquirrelAmethystItem",
   "Sprites":
   [
     {
@@ -78879,7 +78894,7 @@
     }
   ]
 },{
-  "Name": "GemSquirrelTopaz",
+  "Name": "GemSquirrelTopazItem",
   "Sprites":
   [
     {
@@ -78904,7 +78919,7 @@
     }
   ]
 },{
-  "Name": "GemSquirrelSapphire",
+  "Name": "GemSquirrelSapphireItem",
   "Sprites":
   [
     {
@@ -78929,7 +78944,7 @@
     }
   ]
 },{
-  "Name": "GemSquirrelEmerald",
+  "Name": "GemSquirrelEmeraldItem",
   "Sprites":
   [
     {
@@ -78954,7 +78969,7 @@
     }
   ]
 },{
-  "Name": "GemSquirrelRuby",
+  "Name": "GemSquirrelRubyItem",
   "Sprites":
   [
     {
@@ -78979,7 +78994,7 @@
     }
   ]
 },{
-  "Name": "GemSquirrelDiamond",
+  "Name": "GemSquirrelDiamondItem",
   "Sprites":
   [
     {
@@ -79004,7 +79019,7 @@
     }
   ]
 },{
-  "Name": "GemSquirrelAmber",
+  "Name": "GemSquirrelAmberItem",
   "Sprites":
   [
     {
@@ -79029,7 +79044,7 @@
     }
   ]
 },{
-  "Name": "GemBunnyAmethyst",
+  "Name": "GemBunnyAmethystItem",
   "Sprites":
   [
     {
@@ -79059,7 +79074,7 @@
     }
   ]
 },{
-  "Name": "GemBunnyTopaz",
+  "Name": "GemBunnyTopazItem",
   "Sprites":
   [
     {
@@ -79089,7 +79104,7 @@
     }
   ]
 },{
-  "Name": "GemBunnySapphire",
+  "Name": "GemBunnySapphireItem",
   "Sprites":
   [
     {
@@ -79119,7 +79134,7 @@
     }
   ]
 },{
-  "Name": "GemBunnyEmerald",
+  "Name": "GemBunnyEmeraldItem",
   "Sprites":
   [
     {
@@ -79149,7 +79164,7 @@
     }
   ]
 },{
-  "Name": "GemBunnyRuby",
+  "Name": "GemBunnyRubyItem",
   "Sprites":
   [
     {
@@ -79179,7 +79194,7 @@
     }
   ]
 },{
-  "Name": "GemBunnyDiamond",
+  "Name": "GemBunnyDiamondItem",
   "Sprites":
   [
     {
@@ -79209,7 +79224,7 @@
     }
   ]
 },{
-  "Name": "GemBunnyAmber",
+  "Name": "GemBunnyAmberItem",
   "Sprites":
   [
     {
@@ -79239,7 +79254,7 @@
     }
   ]
 },{
-  "Name": "HellButterfly",
+  "Name": "HellButterflyBait",
   "Sprites":
   [
     {
@@ -79279,7 +79294,7 @@
     }
   ]
 },{
-  "Name": "Lavafly",
+  "Name": "LavaflyBait",
   "Sprites":
   [
     {
@@ -79319,7 +79334,7 @@
     }
   ]
 },{
-  "Name": "MagmaSnail",
+  "Name": "MagmaSnailBait",
   "Sprites":
   [
     {
@@ -79336,6 +79351,11 @@
       "FileName": "Glow_292",
       "Type": "Glow",
       "Sprited": false
+    },
+    {
+     "FileName": "Gore_1256",
+     "Type": "Gore",
+     "Sprited": false
     }
   ]
 },{
@@ -81264,7 +81284,7 @@
     }
   ]
 },{
-  "Name": "EmpressButterfly",
+  "Name": "EmpressButterflySummon",
   "Sprites":
   [
     {
@@ -84916,6 +84936,11 @@
       "FileName": "NPC_103",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+      "FileName": "Buff_35",
+      "Type": "Buff",
+      "Sprited": true
      }
   ]
 },{
@@ -99149,7 +99174,7 @@
      }
   ]
 },{
-  "Name": "HallowBoss",
+  "Name": "EmpressofLight",
   "Sprites":
   [
     {
@@ -99656,6 +99681,11 @@
       "FileName": "NPC_653",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+       "FileName": "Glow_288",
+       "Type": "Glow",
+       "Sprited": false
      }
   ]
 },{
@@ -99666,6 +99696,11 @@
       "FileName": "NPC_654",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+       "FileName": "Glow_290",
+       "Type": "Glow",
+       "Sprited": false
      }
   ]
 },{
@@ -99676,6 +99711,11 @@
       "FileName": "NPC_655",
       "Type": "NPC",
       "Sprited": false
+     },
+     {
+       "FileName": "Glow_292",
+       "Type": "Glow",
+       "Sprited": false
      },
      {
       "FileName": "Gore_1256",

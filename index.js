@@ -153,11 +153,37 @@ client.on('message', message => {
                         return
                     }   
                 }
+                else //2nd cycle in case the argument is a sprite file instead of a internal name
+                {
+                    for(var k = 0; k < spriteList[i].Sprites.length; k++)
+                        {
+                            if (args[0].toLowerCase() === spriteList[i].Sprites[k].FileName.toLowerCase())
+                            {
+                                //Declare message variable and iterate through each of the sprites.
+                                var m = "";
+
+                                m += spriteList[i].Sprites[k].Type + thingy + spriteList[i].Sprites[k].FileName + thingy + 
+                                (spriteList[i].Sprites[k].Sprited ? "Sprited.": "Not Sprited.") + "\n";
+
+                                const embed = new Discord.MessageEmbed()
+                                .setTitle(spriteList[i].Sprites[k].FileName)
+                                .setDescription("```" + m + "```")
+                                .setColor(7909985)
+                                .setTimestamp()
+                                message.channel.send({embed});
+                                if(spriteList[i].Sprites[k].Sprited)
+                                {    
+                                    message.channel.send(spriteList[i].Sprites[k].Type, { files: ["./Images/" + spriteList[i].Sprites[k].FileName + ".png"]});
+                                }
+                                return
+                            }
+                        }
+                }
             }
             // If the user doesn't input a correct ID.
             var test = fs.readFileSync("b.txt", "utf-8"); 
             var WordArr = test.split('\n');
-            var list = difflib.getCloseMatches(args[0], WordArr, n=10, cutoff=0.5);
+            var list = difflib.getCloseMatches(args[0].toLowerCase(), WordArr, n=10, cutoff=0.5);
             if (list.length == 0)
             {
                 const embed = new Discord.MessageEmbed()
