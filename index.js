@@ -165,8 +165,18 @@ client.on('message', message => {
                                 m += spriteList[i].Sprites[k].Type + thingy + spriteList[i].Sprites[k].FileName + thingy + 
                                 (spriteList[i].Sprites[k].Sprited ? "Sprited.": "Not Sprited.") + "\n";
 
+                                if(spriteList[i].Sprites[k].Type == "Buff")
+                                {
+                                    var Title = spriteList[i].Sprites[k].BuffName;
+                                }
+
+                                else
+                                {
+                                    var Title = spriteList[i].Name; 
+                                }
+
                                 const embed = new Discord.MessageEmbed()
-                                .setTitle(spriteList[i].Sprites[k].FileName)
+                                .setTitle(Title)
                                 .setDescription("```" + m + "```")
                                 .setColor(7909985)
                                 .setTimestamp()
@@ -201,7 +211,6 @@ client.on('message', message => {
                 .setTimestamp()
                 return message.channel.send({embed});  
             }   
-           
         }
     }
     // status command.
