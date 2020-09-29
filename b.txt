@@ -3128,7 +3128,7 @@ Spiderfish
 TundraTrout
 UnicornFish
 GuideVoodooFish
-Wyverntail
+WyverntailFish
 ZombieFish
 AmanitaFungifin
 Angelfish
@@ -4115,7 +4115,7 @@ FragmentVortex
 FragmentNebula
 FragmentSolar
 FragmentStardust
-LunarOre
+Luminite
 LunarBrick
 StardustAxe
 StardustChainsaw
