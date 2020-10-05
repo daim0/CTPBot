@@ -449,26 +449,51 @@ client.on('message', message => {
             
     // random not finished sprite command.
     else if(command === 'task')
-    {
-        let notSprited = []
+    {    
+        var notSprited1 = [];
+        var notSprited2 = [];
         for (let i = 0; i < spriteList.length; i++) {
             let tempArr = spriteList[i].Sprites.filter(s => !s.Sprited)
             if (tempArr.length > 0) {
-              notSprited.push(spriteList[i])
+                notSprited1.push(spriteList[i])
             }
         }
-        if(notSprited.length >= 1)
+        if (args.length > 0)
         {
-            let index = Math.floor(Math.random() * notSprited.length)
+            
+            var typefilter = [];
+            for (i=0; i<args.length; i++)
+            {
+                typefilter.push(args[i]);
+            }
+            for (i=0; i<notSprited1.length; i++)
+            {
+                let tempArr = notSprited1[i].Sprites.filter(function(s){ for(j=0; j<typefilter.length; j++){if(s.Type == typefilter[j]){return s.Type == typefilter[j];} }})
+                if (tempArr.length > 0)
+                {
+                    delete notSprited1[i];
+                }
+            }
+        }
+        for (i=0; i<notSprited1.length; i++)
+        {
+            if (notSprited1[i] != undefined)
+            {
+                notSprited2.push(notSprited1[i]);
+            }
+        }
+        if(notSprited2.length >= 1)
+        {
+            let index = Math.floor(Math.random() * notSprited2.length)
 
             var m = "";
-            for(var j = 0; j < notSprited[index].Sprites.length; j++)
+            for(var j = 0; j < notSprited2[index].Sprites.length; j++)
             {
-                m += notSprited[index].Sprites[j].Type + thingy + notSprited[index].Sprites[j].FileName + thingy + 
-                (notSprited[index].Sprites[j].Sprited ? "Sprited.": "Not Sprited.") + "\n";
+                m += notSprited2[index].Sprites[j].Type + thingy + notSprited2[index].Sprites[j].FileName + thingy + 
+                (notSprited2[index].Sprites[j].Sprited ? "Sprited.": "Not Sprited.") + "\n";
             } 
             const embed = new Discord.MessageEmbed()
-            .setTitle(notSprited[index].Name)
+            .setTitle(notSprited2[index].Name)
             .setDescription("```" + m + "```")
             .setColor(7909985)
             .setTimestamp()
@@ -476,9 +501,9 @@ client.on('message', message => {
     
             var spritesnumber = 0;
             //if the number of sprites exceeds 3 the bot will send a zip folder with the files instead of posting them
-            for(var l = 0; l < notSprited[index].Sprites.length; l++)
+            for(var l = 0; l < notSprited2[index].Sprites.length; l++)
             {
-                if(notSprited[index].Sprites[l].Sprited)
+                if(notSprited2[index].Sprites[l].Sprited)
                 {
                     spritesnumber++;
                 }
@@ -513,13 +538,13 @@ client.on('message', message => {
                 //function to stop the bot and copy the files from "./Images" folder
                 function Copy(){
                     var path = require('path');
-                    for(var k = 0; k < notSprited[index].Sprites.length; k++)
+                    for(var k = 0; k < notSprited2[index].Sprites.length; k++)
                     {
-                        if(notSprited[index].Sprites[k].Sprited)
+                        if(notSprited2[index].Sprites[k].Sprited)
                         {   
                             //declaring the variables for the location of the sprite image file and it's destination
-                            var oldPath = path.join('./Images', notSprited[index].Sprites[k].FileName + '.png');
-                            var newPath = path.join('./ZipArchiverTemp', notSprited[index].Sprites[k].FileName + '.png');
+                            var oldPath = path.join('./Images', notSprited2[index].Sprites[k].FileName + '.png');
+                            var newPath = path.join('./ZipArchiverTemp', notSprited2[index].Sprites[k].FileName + '.png');
                                     
                             //copying the image to the temporary folder
                             fs.copyFile(oldPath, newPath, function(err) {
@@ -561,13 +586,13 @@ client.on('message', message => {
             else 
             {
                 // Send images.
-                for(var k = 0; k < notSprited[index].Sprites.length; k++)
+                for(var k = 0; k < notSprited2[index].Sprites.length; k++)
             {
-                if(notSprited[index].Sprites[k].Sprited)
+                if(notSprited2[index].Sprites[k].Sprited)
                 {
-                    message.channel.send(notSprited[index].Sprites[k].Type, {
+                    message.channel.send(notSprited2[index].Sprites[k].Type, {
                         files: [
-                            "./Images/" + notSprited[index].Sprites[k].FileName + ".png"
+                            "./Images/" + notSprited2[index].Sprites[k].FileName + ".png"
                         ]
                     });
                 }

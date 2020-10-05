@@ -66330,7 +66330,7 @@
   }, 
   { 
       "FileName": "Buff_153",
-      "Type": "Tile",
+      "Type": "Buff",
       "Sprited": false
   }, 
   { 
@@ -66357,7 +66357,7 @@
   { 
    "BuffName": "ShadowFlame",
    "FileName": "Buff_153",
-   "Type": "Tile",
+   "Type": "Buff",
    "Sprited": false
   }, 
   { 
@@ -78032,7 +78032,7 @@
   } 
 ] 
 },{ 
-"Name": "AncientBattleArmorHat",
+"Name": "ForbiddenArmorHat",
 "Sprites": 
 [ 
   { 
@@ -78047,7 +78047,7 @@
   } 
 ] 
 },{ 
-"Name": "AncientBattleArmorShirt",
+"Name": "ForbiddenArmorShirt",
 "Sprites": 
 [ 
   { 
@@ -78062,7 +78062,7 @@
   } 
 ] 
 },{ 
-"Name": "AncientBattleArmorPants",
+"Name": "ForbiddenArmorPants",
 "Sprites": 
 [ 
   { 
@@ -78147,7 +78147,7 @@
   } 
 ] 
 },{ 
-"Name": "AncientBattleArmorMaterial",
+"Name": "ForbiddenFragment",
 "Sprites": 
 [ 
   { 
