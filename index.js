@@ -468,13 +468,13 @@ client.on('message', message => {
             }
             for (i=0; i<notSprited1.length; i++)
             {
-                let tempArr = notSprited1[i].Sprites.filter(function(s){ for(j=0; j<typefilter.length; j++){if(s.Type == typefilter[j]){return s.Type == typefilter[j];} }})
+                let tempArr = notSprited1[i].Sprites.filter(function(s){ for(j=0; j<typefilter.length; j++){if(s.Type.toLowerCase() == typefilter[j].toLowerCase()){return s.Type.toLowerCase() == typefilter[j].toLowerCase();} }})
                 if (tempArr.length > 0)
                 {
                     delete notSprited1[i];
                 }
             }
-        }
+        }        
         for (i=0; i<notSprited1.length; i++)
         {
             if (notSprited1[i] != undefined)
