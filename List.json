@@ -322,6 +322,16 @@
       "Sprited": false
      }, 
      { 
+      "FileName": "Merchant_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Merchant_Default_Party",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
       "FileName": "Gore_30",
       "Type": "Gore",
       "Sprited": false
@@ -358,6 +368,16 @@
   [ 
     { 
       "FileName": "NPC_18",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Nurse_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Nurse_Default_Party",
       "Type": "NPC",
       "Sprited": false
      }, 
@@ -870,6 +890,16 @@
       "Sprited": false
      }, 
      { 
+      "FileName": "Demolitionist_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Demolitionist_Default_Party",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
       "FileName": "Gore_64",
       "Type": "Gore",
       "Sprited": false
@@ -1242,6 +1272,16 @@
   [ 
     { 
       "FileName": "NPC_54",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Clothier_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Clothier_Default_Party",
       "Type": "NPC",
       "Sprited": false
      }, 
@@ -2421,6 +2461,16 @@
       "Sprited": false
      }, 
      { 
+      "FileName": "Wizard_Default",
+      "Type": "NPC",
+      "Sprited": true
+     }, 
+     { 
+      "FileName": "Wizard_Default_Party",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
       "FileName": "Gore_127",
       "Type": "Gore",
       "Sprited": true
@@ -2824,6 +2874,16 @@
   [ 
     { 
       "FileName": "NPC_124",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Mechanic_Default",
+      "Type": "NPC",
+      "Sprited": true
+     }, 
+     { 
+      "FileName": "Mechanic_Default_Party",
       "Type": "NPC",
       "Sprited": false
      }, 
@@ -3259,6 +3319,16 @@
   [ 
     { 
       "FileName": "NPC_142",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Santa_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Santa_Default_Party",
       "Type": "NPC",
       "Sprited": false
      }, 
@@ -4027,6 +4097,16 @@
       "Sprited": false
      }, 
      { 
+      "FileName": "Steampunker_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Steampunker_Default_Party",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
       "FileName": "Gore_231",
       "Type": "Gore",
       "Sprited": false
@@ -4669,6 +4749,16 @@
       "Sprited": false
      }, 
      { 
+      "FileName": "DyeTrader_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "DyeTrader_Default_Party",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
       "FileName": "Gore_283",
       "Type": "Gore",
       "Sprited": false
@@ -4730,6 +4820,16 @@
   [ 
     { 
       "FileName": "NPC_209",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Cyborg_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Cyborg_Default_Party",
       "Type": "NPC",
       "Sprited": false
      }, 
@@ -5144,6 +5244,16 @@
       "Sprited": false
      }, 
      { 
+      "FileName": "Painter_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Painter_Default_Party",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
       "FileName": "Projectile_587",
       "Type": "Projectile",
       "Sprited": false
@@ -5220,6 +5330,16 @@
   [ 
     { 
       "FileName": "NPC_229",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Pirate_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Pirate_Default_Party",
       "Type": "NPC",
       "Sprited": false
      }, 
@@ -8849,6 +8969,16 @@
       "Sprited": false
      }, 
      { 
+      "FileName": "Stylist_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Stylist_Default_Party",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
       "FileName": "Gore_543",
       "Type": "Gore",
       "Sprited": false
@@ -9184,6 +9314,16 @@
       "Sprited": false
      }, 
      { 
+      "FileName": "TravellingMerchant_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "TravellingMerchant_Default_Party",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
       "FileName": "Gore_567",
       "Type": "Gore",
       "Sprited": false
@@ -9220,6 +9360,16 @@
   [ 
     { 
       "FileName": "NPC_369",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Angler_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Angler_Default_Party",
       "Type": "NPC",
       "Sprited": false
      }, 
@@ -11338,6 +11488,16 @@
       "Sprited": false
      }, 
      { 
+      "FileName": "TaxCollector_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "TaxCollector_Default_Party",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
       "FileName": "Gore_768",
       "Type": "Gore",
       "Sprited": false
@@ -11559,6 +11719,16 @@
   [ 
     { 
       "FileName": "NPC_453",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "SkeletonMerchant_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "SkeletonMerchant_Default_Party",
       "Type": "NPC",
       "Sprited": false
      }, 
@@ -15487,6 +15657,16 @@
       "Sprited": false
      }, 
      { 
+      "FileName": "Golfer_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Golfer_Default_Party",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
       "FileName": "Gore_1109",
       "Type": "Gore",
       "Sprited": false
@@ -16514,6 +16694,16 @@
       "Sprited": false
      }, 
      { 
+      "FileName": "BestiaryGirl_Default",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "BestiaryGirl_Default_Party",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
       "FileName": "Projectile_880",
       "Type": "Projectile",
       "Sprited": false
@@ -16724,6 +16914,36 @@
       "Sprited": false
      }, 
      { 
+      "FileName": "Cat_Black",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Cat_OrangeTabby",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Cat_RussianBlue",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Cat_Siamese",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Cat_Silver",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Cat_White",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
       "FileName": "NPC_Head_27",
       "Type": "Extra",
       "Sprited": false
@@ -16760,6 +16980,36 @@
   [ 
     { 
       "FileName": "NPC_638",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Dog_Beagle",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Dog_Corgi",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Dog_Dalmation",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Dog_Husky",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Dog_Labrador",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Dog_Pitbull",
       "Type": "NPC",
       "Sprited": false
      }, 
@@ -17165,6 +17415,36 @@
   [ 
     { 
       "FileName": "NPC_656",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Bunny_Angora",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Bunny_Dutch",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Bunny_Flemish",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Bunny_Lop",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Bunny_Silver",
+      "Type": "NPC",
+      "Sprited": false
+     }, 
+     { 
+      "FileName": "Bunny_White",
       "Type": "NPC",
       "Sprited": false
      }, 
