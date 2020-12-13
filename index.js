@@ -5,15 +5,44 @@ const client = new Discord.Client();
 const fileName = './List.json';
 const { prefix, token } = require('./config.json');
 const fs = require('fs');
+const fs1 = require("fs").promises;
+var Path = require("path");
 const spriteList = require(fileName);
 const thingy = " | ";
 var difflib = require('difflib');
+var unzipper = require('unzipper');
 const { time, Console } = require('console');
-
+var Files  = [];
 
 // On startup.
 client.once('ready', () => {
 	console.log('Ctp Bot running.\nContact Daim if help is needed.\n Current list length: ' + `${spriteList.length}`);
+    
+    //Declaring the directory were all the sprites are located
+    var directory2 = './CalamityTexturePack';
+
+    //removing the previous file from "CalamityTexturePack" folder 
+    fs1.rmdir(directory2, { recursive: true }), err => {
+        if (err) throw err;}
+        console.log('directory removed!');
+    
+    //unzipping the CalamityTexturePack.zip into the CalamityTexturePack folder    
+    function unzip(){
+      fs.createReadStream('./CalamityTexturePack.zip')
+        .pipe(unzipper.Extract({ path: './CalamityTexturePack' }));}
+    
+    //reading and writing every file path into Files    
+    function ThroughDirectory(Directory) {
+        fs.readdirSync(Directory).forEach(File => {
+            const Absolute = Path.join(Directory, File);
+            if (fs.statSync(Absolute).isDirectory()) return ThroughDirectory(Absolute);
+            else return Files.push(Absolute);
+        });
+    }
+    //jajaja old same old same
+    setTimeout(unzip, 1000);
+    ThroughDirectory("./CalamityTexturePack");
+    console.log(Files)
 });
 
 // Read messages.
@@ -73,19 +102,19 @@ client.on('message', message => {
                         function makezip(){
                             var archiver = require('archiver');
 
-                        //declaring the name for the zip folder
-                        var output = fs.createWriteStream('Sprites.zip');
-                        var archive = archiver('zip');
+                            //declaring the name for the zip folder
+                            var output = fs.createWriteStream('Sprites.zip');
+                            var archive = archiver('zip');
 
-                        archive.on('error', function(err){
-                        throw err;
-                        });
+                            archive.on('error', function(err){
+                            throw err;
+                            });
 
-                        archive.pipe(output);
-                        //copying all the files from "ZipArchiverTemp" folder into the final zip folder
-                        archive.directory('./ZipArchiverTemp', false);
+                            archive.pipe(output);
+                            //copying all the files from "ZipArchiverTemp" folder into the final zip folder
+                            archive.directory('./ZipArchiverTemp', false);
 
-                        archive.finalize();
+                            archive.finalize();
                         }
 
                         //function to stop the bot and copy the files from "./Images" folder
@@ -95,17 +124,23 @@ client.on('message', message => {
                             {
                                 if(spriteList[i].Sprites[k].Sprited)
                                 {   
-                                    //declaring the variables for the location of the sprite image file and it's destination
-                                    var oldPath = path.join('./Images', spriteList[i].Sprites[k].FileName + '.png');
-                                    var newPath = path.join('./ZipArchiverTemp', spriteList[i].Sprites[k].FileName + '.png');
-                                    
-                                    //copying the image to the temporary folder
-                                    fs.copyFile(oldPath, newPath, function(err) {
-                                        if (err) {
-                                        throw err
+                                    for(var j=0; j<Files.length; j++)
+                                    {
+                                        if (Files[j].endsWith(spriteList[i].Sprites[k].FileName+".png"))
+                                        {
+                                            console.log(Files[j])
+                                            //declaring the variables for the location of the sprite image file and it's destination
+                                            var oldPath = path.join(Files[j]);
+                                            var newPath = path.join('./ZipArchiverTemp', spriteList[i].Sprites[k].FileName + '.png');
+
+                                            //copying the image to the temporary folder
+                                            fs.copyFile(oldPath, newPath, function(err) {
+                                                if (err) {
+                                                throw err
+                                                }
+                                            });
                                         }
-                                    });
-                            
+                                    }
                                 }
                             }
                         }
@@ -143,11 +178,14 @@ client.on('message', message => {
                         {
                             if(spriteList[i].Sprites[k].Sprited)
                             {
-                                message.channel.send(spriteList[i].Sprites[k].Type, {
-                                    files: [
-                                        "./Images/" + spriteList[i].Sprites[k].FileName + ".png"
-                                    ]
-                                });
+                                for(var j=0; j<Files.length; j++)
+                                {
+                                    if (Files[j].endsWith(spriteList[i].Sprites[k].FileName+".png"))
+                                    {
+                                        message.channel.send(spriteList[i].Sprites[k].Type, {
+                                            files: [Files[j]]});
+                                    }
+                                }
                             }
                         }
                         return
@@ -183,7 +221,14 @@ client.on('message', message => {
                                 message.channel.send({embed});
                                 if(spriteList[i].Sprites[k].Sprited)
                                 {    
-                                    message.channel.send(spriteList[i].Sprites[k].Type, { files: ["./Images/" + spriteList[i].Sprites[k].FileName + ".png"]});
+                                    for(var j=0; j<Files.length; j++)
+                                    {
+                                        if (Files[j].endsWith(spriteList[i].Sprites[k].FileName+".png"))
+                                        {
+                                            message.channel.send(spriteList[i].Sprites[k].Type, {
+                                                files: [Files[j]]});
+                                        }
+                                    }
                                 }
                                 return
                             }
@@ -387,19 +432,24 @@ client.on('message', message => {
                 var path = require('path');
                 for(var k = 0; k < spriteList[n].Sprites.length; k++)
                 {
-                    if(spriteList[n].Sprites[k].Sprited)
+                    if(spriteList[i].Sprites[k].Sprited)
                     {   
-                        //declaring the variables for the location of the sprite image file and it's destination
-                        var oldPath = path.join('./Images', spriteList[n].Sprites[k].FileName + '.png');
-                        var newPath = path.join('./ZipArchiverTemp', spriteList[n].Sprites[k].FileName + '.png');
-                                    
-                        //copying the image to the temporary folder
-                        fs.copyFile(oldPath, newPath, function(err) {
-                            if (err) {
-                            throw err
+                        for(var j=0; j<Files.length; j++)
+                        {
+                            if (Files[j].endsWith(spriteList[i].Sprites[k].FileName+".png"))
+                            {
+                                //declaring the variables for the location of the sprite image file and it's destination
+                                var oldPath = path.join(Files[j]);
+                                var newPath = path.join('./ZipArchiverTemp', spriteList[i].Sprites[k].FileName + '.png');
+
+                                //copying the image to the temporary folder
+                                fs.copyFile(oldPath, newPath, function(err) {
+                                    if (err) {
+                                    throw err
+                                    }
+                                });
                             }
-                        });
-                        
+                        }
                     }
                 }
             }
@@ -435,12 +485,15 @@ client.on('message', message => {
             for(var k = 0; k < spriteList[n].Sprites.length; k++)
             {
                 if(spriteList[n].Sprites[k].Sprited)
-                {
-                    message.channel.send(spriteList[n].Sprites[k].Type, {
-                        files: [
-                            "./Images/" + spriteList[n].Sprites[k].FileName + ".png"
-                        ]
-                    });
+                {    
+                    for(var j=0; j<Files.length; j++)
+                    {
+                        if (Files[j].endsWith(spriteList[n].Sprites[k].FileName+".png"))
+                        {
+                            message.channel.send(spriteList[n].Sprites[k].Type, {
+                                files: [Files[j]]});
+                        }
+                    }
                 }
             }
         }
@@ -542,17 +595,22 @@ client.on('message', message => {
                     {
                         if(notSprited2[index].Sprites[k].Sprited)
                         {   
-                            //declaring the variables for the location of the sprite image file and it's destination
-                            var oldPath = path.join('./Images', notSprited2[index].Sprites[k].FileName + '.png');
-                            var newPath = path.join('./ZipArchiverTemp', notSprited2[index].Sprites[k].FileName + '.png');
-                                    
-                            //copying the image to the temporary folder
-                            fs.copyFile(oldPath, newPath, function(err) {
-                                if (err) {
-                                throw err
+                            for(var j=0; j<Files.length; j++)
+                            {
+                                if (Files[j].endsWith(notSprited2[index].Sprites[k].FileName+".png"))
+                                {
+                                    //declaring the variables for the location of the sprite image file and it's destination
+                                    var oldPath = path.join(Files[j]);
+                                    var newPath = path.join('./ZipArchiverTemp', notSprited2[index].Sprites[k].FileName + '.png');
+
+                                    //copying the image to the temporary folder
+                                    fs.copyFile(oldPath, newPath, function(err) {
+                                        if (err) {
+                                        throw err
+                                        }
+                                    });
                                 }
-                            });
-                            
+                            }
                         }
                     }
                 }
@@ -587,21 +645,22 @@ client.on('message', message => {
             {
                 // Send images.
                 for(var k = 0; k < notSprited2[index].Sprites.length; k++)
-            {
-                if(notSprited2[index].Sprites[k].Sprited)
                 {
-                    message.channel.send(notSprited2[index].Sprites[k].Type, {
-                        files: [
-                            "./Images/" + notSprited2[index].Sprites[k].FileName + ".png"
-                        ]
-                    });
+                    if(notSprited2[index].Sprites[k].Sprited)
+                    {
+                        for(var j=0; j<Files.length; j++)
+                        {
+                            if (Files[j].endsWith(notSprited2[index].Sprites[k].FileName+".png"))
+                            {
+                                message.channel.send(notSprited2[index].Sprites[k].Type, {
+                                    files: [Files[j]]});
+                            }
+                        }
+                    }
                 }
-            }
                 return
             }
         } else return message.channel.send("All current sprites are done!");
-
-
     }
     // Search command.
     else if(command === 'search')
@@ -627,7 +686,6 @@ client.on('message', message => {
             return message.channel.send({embed});  
         }   
     }
-
 });
 
 

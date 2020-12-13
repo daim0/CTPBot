@@ -51264,7 +51264,7 @@
     ] 
   }, 
   { 
-    "Name": "Womannquin",
+    "Name": "Womannequin",
     "Sprites": 
     [ 
       { 
@@ -51273,9 +51273,9 @@
         "Sprited": true
       }, 
       { 
-        "FileName": "Tiles_470",
+        "FileName": "Tiles_269",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -106749,7 +106749,7 @@
     "Sprites": 
     [ 
       { 
-        "FileName": "Item_5080",
+        "FileName": "Item_5081",
         "Type": "Item",
         "Sprited": false
       }, 
@@ -106765,7 +106765,7 @@
     "Sprites": 
     [ 
       { 
-        "FileName": "Item_5080",
+        "FileName": "Item_5082",
         "Type": "Item",
         "Sprited": false
       }, 
@@ -106781,7 +106781,7 @@
     "Sprites": 
     [ 
       { 
-        "FileName": "Item_5080",
+        "FileName": "Item_5083",
         "Type": "Item",
         "Sprited": false
       }, 
@@ -106797,7 +106797,7 @@
     "Sprites": 
     [ 
       { 
-        "FileName": "Item_5080",
+        "FileName": "Item_5084",
         "Type": "Item",
         "Sprited": false
       }, 
@@ -106813,7 +106813,7 @@
     "Sprites": 
     [ 
       { 
-        "FileName": "Item_5080",
+        "FileName": "Item_5085",
         "Type": "Item",
         "Sprited": false
       }, 
@@ -106829,7 +106829,7 @@
     "Sprites": 
     [ 
       { 
-        "FileName": "Item_5080",
+        "FileName": "Item_5086",
         "Type": "Item",
         "Sprited": false
       }, 
@@ -106845,7 +106845,7 @@
     "Sprites": 
     [ 
       { 
-        "FileName": "Item_5080",
+        "FileName": "Item_5087",
         "Type": "Item",
         "Sprited": false
       }, 
@@ -107856,17 +107856,6 @@
     ] 
   }, 
   { 
-    "Name": "Womannequin",
-    "Sprites": 
-    [ 
-      { 
-        "FileName": "Tiles_269",
-        "Type": "Tile",
-        "Sprited": true
-      } 
-    ] 
-  }, 
-  { 
     "Name": "PalmTree",
     "Sprites": 
     [ 
@@ -108493,6 +108482,17 @@
         "FileName": "Tree_Branches_30",
         "Type": "Extra",
         "Sprited": false
+      } 
+    ] 
+  }, 
+  { 
+    "Name": "CalamityTexturePackIcon",
+    "Sprites": 
+    [ 
+      { 
+        "FileName": "icon",
+        "Type": "Icon",
+        "Sprited": true
       } 
     ] 
   } 
