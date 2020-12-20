@@ -24,7 +24,6 @@ client.once('ready', () => {
     //removing the previous file from "CalamityTexturePack" folder 
     fs1.rmdir(directory2, { recursive: true }), err => {
         if (err) throw err;}
-        console.log('directory removed!');
     
     //unzipping the CalamityTexturePack.zip into the CalamityTexturePack folder    
     function unzip(){
@@ -42,7 +41,6 @@ client.once('ready', () => {
     //jajaja old same old same
     setTimeout(unzip, 1000);
     ThroughDirectory("./CalamityTexturePack");
-    console.log(Files)
 });
 
 // Read messages.
@@ -128,7 +126,6 @@ client.on('message', message => {
                                     {
                                         if (Files[j].endsWith(spriteList[i].Sprites[k].FileName+".png"))
                                         {
-                                            console.log(Files[j])
                                             //declaring the variables for the location of the sprite image file and it's destination
                                             var oldPath = path.join(Files[j]);
                                             var newPath = path.join('./ZipArchiverTemp', spriteList[i].Sprites[k].FileName + '.png');
@@ -323,7 +320,6 @@ client.on('message', message => {
                                                             // Write to the json file, this was pain.
                                 fs.writeFile(fileName, JSON.stringify(spriteList, null, 2), function writeJSON(err) {
                                 if (err) return console.log(err);
-                                console.log('writing to ' + fileName);
                                 });
                                 return message.channel.send(`Edited ${spriteList[i].Name} succesfully.`);                                
                             }

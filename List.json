@@ -190,7 +190,7 @@
       { 
         "FileName": "NPC_10",
         "Type": "NPC",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Gore_21",
@@ -206,7 +206,7 @@
       { 
         "FileName": "NPC_11",
         "Type": "NPC",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Gore_22",
@@ -222,7 +222,7 @@
       { 
         "FileName": "NPC_12",
         "Type": "NPC",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Gore_23",
@@ -877,6 +877,11 @@
       { 
         "FileName": "NPC_36",
         "Type": "NPC",
+        "Sprited": true
+      }, 
+      { 
+        "FileName": "Arm_Bone",
+        "Type": "Extra",
         "Sprited": true
       }, 
       { 
@@ -2332,7 +2337,7 @@
     ] 
   }, 
   { 
-    "Name": "SeekerHead",
+    "Name": "WorldFeederHead",
     "Sprites": 
     [ 
       { 
@@ -2348,7 +2353,7 @@
     ] 
   }, 
   { 
-    "Name": "SeekerBody",
+    "Name": "WorldFeederBody",
     "Sprites": 
     [ 
       { 
@@ -2364,7 +2369,7 @@
     ] 
   }, 
   { 
-    "Name": "SeekerTail",
+    "Name": "WorldFeederTail",
     "Sprites": 
     [ 
       { 
@@ -2564,7 +2569,7 @@
       { 
         "FileName": "NPC_108",
         "Type": "NPC",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Wizard_Default",
@@ -3133,6 +3138,11 @@
         "Sprited": true
       }, 
       { 
+        "FileName": "Arm_Bone_2",
+        "Type": "Extra",
+        "Sprited": true
+      }, 
+      { 
         "FileName": "Projectile_102",
         "Type": "Projectile",
         "Sprited": true
@@ -3160,7 +3170,7 @@
       { 
         "FileName": "NPC_Head_Boss_18",
         "Type": "Extra",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -4363,12 +4373,12 @@
       { 
         "FileName": "NPC_181",
         "Type": "NPC",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Gore_237",
         "Type": "Gore",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -12500,7 +12510,7 @@
       { 
         "FileName": "Gore_668",
         "Type": "Gore",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Gore_669",
@@ -12848,7 +12858,7 @@
       { 
         "FileName": "Gore_688",
         "Type": "Gore",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Gore_689",
@@ -18387,7 +18397,7 @@
       { 
         "FileName": "Item_7",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -19676,7 +19686,7 @@
       { 
         "FileName": "Item_84",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Chain",
@@ -20142,12 +20152,12 @@
       { 
         "FileName": "Item_113",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Projectile_16",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -20371,7 +20381,7 @@
       { 
         "FileName": "Item_127",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Projectile_20",
@@ -20802,12 +20812,12 @@
       { 
         "FileName": "Item_151",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Armor_Head_7",
         "Type": "Armor",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -20818,7 +20828,7 @@
       { 
         "FileName": "Item_152",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Armor_7",
@@ -20834,12 +20844,12 @@
       { 
         "FileName": "Item_153",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Armor_Legs_7",
         "Type": "Armor",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -21495,7 +21505,7 @@
       { 
         "FileName": "Item_193",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Acc_Face_12",
@@ -21980,7 +21990,7 @@
       { 
         "FileName": "Item_208",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_61",
@@ -22023,7 +22033,7 @@
       { 
         "FileName": "Item_211",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Acc_HandsOn_5",
@@ -22228,7 +22238,7 @@
       { 
         "FileName": "Item_223",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_61",
@@ -22265,7 +22275,7 @@
       { 
         "FileName": "Item_225",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -23942,7 +23952,7 @@
         "Sprited": false
       }, 
       { 
-        "FileName": "Armor_Body_16",
+        "FileName": "Armor_16",
         "Type": "Armor",
         "Sprited": false
       } 
@@ -24749,7 +24759,7 @@
         "Sprited": false
       }, 
       { 
-        "FileName": "Armor_Body_17",
+        "FileName": "Armor_17",
         "Type": "Armor",
         "Sprited": false
       } 
@@ -24845,7 +24855,7 @@
         "Sprited": true
       }, 
       { 
-        "FileName": "Armor_18",
+        "FileName": "Armor_Legs_17",
         "Type": "Armor",
         "Sprited": true
       } 
@@ -25225,7 +25235,7 @@
         "Sprited": true
       }, 
       { 
-        "FileName": "Armor_19",
+        "FileName": "Armor_Legs_18",
         "Type": "Armor",
         "Sprited": true
       } 
@@ -25348,7 +25358,7 @@
         "Sprited": false
       }, 
       { 
-        "FileName": "Armor_20",
+        "FileName": "Armor_Legs_19",
         "Type": "Sheet",
         "Sprited": false
       } 
@@ -25521,12 +25531,12 @@
       { 
         "FileName": "Item_422",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Projectile_69",
         "Type": "Projectile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -25537,12 +25547,12 @@
       { 
         "FileName": "Item_423",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Projectile_70",
         "Type": "Projectile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -25822,7 +25832,7 @@
       { 
         "FileName": "Item_435",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -25833,7 +25843,7 @@
       { 
         "FileName": "Item_436",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -26585,7 +26595,7 @@
       { 
         "FileName": "Item_483",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -26973,7 +26983,7 @@
       { 
         "FileName": "Item_506",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "BuffName": "OnFire",
@@ -27241,7 +27251,7 @@
       { 
         "FileName": "Item_523",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_4",
@@ -27432,7 +27442,7 @@
       { 
         "FileName": "Item_534",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -27782,7 +27792,7 @@
       { 
         "FileName": "Item_555",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Acc_Waist_6",
@@ -27852,7 +27862,7 @@
       { 
         "FileName": "Item_560",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -28931,7 +28941,7 @@
       { 
         "FileName": "Item_628",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_15",
@@ -28947,7 +28957,7 @@
       { 
         "FileName": "Item_629",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_15",
@@ -29107,7 +29117,7 @@
       { 
         "FileName": "Item_639",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_14",
@@ -29187,7 +29197,7 @@
       { 
         "FileName": "Item_644",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_79",
@@ -29708,7 +29718,7 @@
       { 
         "FileName": "Item_679",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -30480,7 +30490,7 @@
       { 
         "FileName": "Item_726",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Projectile_359",
@@ -30592,7 +30602,7 @@
       { 
         "FileName": "Item_733",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Armor_Head_54",
@@ -30927,7 +30937,7 @@
       { 
         "FileName": "Item_753",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "BuffName": "PetTurtle",
@@ -31770,7 +31780,7 @@
       { 
         "FileName": "Item_800",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -31802,7 +31812,7 @@
       { 
         "FileName": "Item_802",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Projectile_153",
@@ -32687,7 +32697,7 @@
       { 
         "FileName": "Item_857",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Acc_Waist_15",
@@ -33162,7 +33172,7 @@
       { 
         "FileName": "Item_885",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -33888,7 +33898,7 @@
       { 
         "FileName": "Item_935",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -33936,7 +33946,7 @@
       { 
         "FileName": "Item_938",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "BuffName": "PaladinsShield",
@@ -34368,7 +34378,7 @@
       { 
         "FileName": "Item_964",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -34427,7 +34437,7 @@
       { 
         "FileName": "Item_967",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "BuffName": "WellFed",
@@ -34455,7 +34465,7 @@
       { 
         "FileName": "Item_969",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "BuffName": "WellFed",
@@ -34556,7 +34566,7 @@
       { 
         "FileName": "Item_974",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_4",
@@ -36272,7 +36282,7 @@
       { 
         "FileName": "Item_1107",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_227",
@@ -36288,7 +36298,7 @@
       { 
         "FileName": "Item_1108",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_227",
@@ -36336,7 +36346,7 @@
       { 
         "FileName": "Item_1111",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_227",
@@ -36352,7 +36362,7 @@
       { 
         "FileName": "Item_1112",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_227",
@@ -36823,7 +36833,7 @@
       { 
         "FileName": "Item_1141",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -36850,7 +36860,7 @@
       { 
         "FileName": "Item_1143",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_15",
@@ -36882,7 +36892,7 @@
       { 
         "FileName": "Item_1145",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_18",
@@ -37358,7 +37368,7 @@
       { 
         "FileName": "Item_1171",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "BuffName": "TikiSpirit",
@@ -37480,7 +37490,7 @@
       { 
         "FileName": "Item_1176",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_85",
@@ -37574,7 +37584,7 @@
       { 
         "FileName": "Projectile_208",
         "Type": "Projectile",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -38983,7 +38993,7 @@
       { 
         "FileName": "Item_1265",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -38994,7 +39004,7 @@
       { 
         "FileName": "Item_1266",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Projectile_254",
@@ -39250,7 +39260,7 @@
       { 
         "FileName": "Item_1281",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Armor_Head_98",
@@ -39394,7 +39404,7 @@
       { 
         "FileName": "Item_1290",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Acc_Neck_3",
@@ -39581,7 +39591,7 @@
       { 
         "FileName": "Item_1301",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -39783,7 +39793,7 @@
       { 
         "FileName": "Item_1313",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Projectile_837",
@@ -40025,7 +40035,7 @@
       { 
         "FileName": "Item_1328",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -40439,7 +40449,7 @@
       { 
         "FileName": "Item_1353",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "BuffName": "WeaponImbueCursedFlames",
@@ -40456,7 +40466,7 @@
       { 
         "FileName": "Item_1354",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "BuffName": "WeaponImbueFire",
@@ -40627,7 +40637,7 @@
       { 
         "FileName": "Item_1364",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_240",
@@ -41852,9 +41862,9 @@
         "Sprited": false
       }, 
       { 
-        "FileName": "Tiles_240",
+        "FileName": "Tiles_242",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -41868,9 +41878,9 @@
         "Sprited": false
       }, 
       { 
-        "FileName": "Tiles_240",
+        "FileName": "Tiles_242",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -41884,9 +41894,9 @@
         "Sprited": false
       }, 
       { 
-        "FileName": "Tiles_240",
+        "FileName": "Tiles_242",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -41900,9 +41910,9 @@
         "Sprited": false
       }, 
       { 
-        "FileName": "Tiles_240",
+        "FileName": "Tiles_242",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -41916,9 +41926,9 @@
         "Sprited": false
       }, 
       { 
-        "FileName": "Tiles_240",
+        "FileName": "Tiles_242",
         "Type": "Tile",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -42057,7 +42067,7 @@
       { 
         "FileName": "Item_1447",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Wall_106",
@@ -43498,7 +43508,7 @@
       { 
         "FileName": "Item_1533",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -44092,7 +44102,7 @@
       { 
         "FileName": "Item_1572",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Projectile_308",
@@ -45338,7 +45348,7 @@
       { 
         "FileName": "Item_1641",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_91",
@@ -49136,7 +49146,7 @@
       { 
         "FileName": "Item_1858",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -53426,7 +53436,7 @@
       { 
         "FileName": "Item_2105",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Armor_Head_147",
@@ -53474,12 +53484,12 @@
       { 
         "FileName": "Item_2108",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Armor_Head_150",
         "Type": "Armor",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -54437,7 +54447,7 @@
       { 
         "FileName": "Item_2161",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -56584,7 +56594,7 @@
       { 
         "FileName": "Item_2290",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -56743,7 +56753,7 @@
       { 
         "FileName": "Item_2299",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -59913,7 +59923,7 @@
       { 
         "FileName": "Item_2509",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Armor_Head_166",
@@ -66693,7 +66703,7 @@
       { 
         "FileName": "Item_2880",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Projectile_451",
@@ -66825,12 +66835,12 @@
       { 
         "FileName": "Item_2887",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Tiles_201",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -69193,7 +69203,7 @@
       { 
         "FileName": "Item_3004",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tiles_4",
@@ -69235,7 +69245,7 @@
       { 
         "FileName": "Item_3006",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "BuffName": "SoulDrain",
@@ -69353,7 +69363,7 @@
       { 
         "FileName": "Item_3013",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -69364,7 +69374,7 @@
       { 
         "FileName": "Item_3014",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "BuffName": "CursedInferno",
@@ -69461,7 +69471,7 @@
       { 
         "FileName": "Item_3020",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Chains_0",
@@ -71145,7 +71155,7 @@
       { 
         "FileName": "Item_3120",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -74008,13 +74018,13 @@
     ] 
   }, 
   { 
-    "Name": "JungleYoyo",
+    "Name": "Amazon",
     "Sprites": 
     [ 
       { 
         "FileName": "Item_3281",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Projectile_544",
@@ -74114,7 +74124,7 @@
       { 
         "FileName": "Item_3286",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Projectile_549",
@@ -74199,7 +74209,7 @@
       { 
         "FileName": "Item_3291",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Projectile_554",
@@ -74545,7 +74555,7 @@
       { 
         "FileName": "Item_3317",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Projectile_564",
@@ -74773,7 +74783,7 @@
       { 
         "FileName": "Item_3335",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -75333,7 +75343,7 @@
       { 
         "FileName": "Item_3366",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       } 
     ] 
   }, 
@@ -75801,17 +75811,17 @@
       { 
         "FileName": "Item_3389",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Projectile_603",
         "Type": "Projectile",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Projectile_604",
         "Type": "Projectile",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "OneDropLogo",
@@ -77670,12 +77680,12 @@
       { 
         "FileName": "Item_3477",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Projectile_621",
         "Type": "Projectile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -78632,7 +78642,7 @@
     ] 
   }, 
   { 
-    "Name": "FireworksLauncher",
+    "Name": "Celebration",
     "Sprites": 
     [ 
       { 
@@ -78966,7 +78976,7 @@
       { 
         "FileName": "Item_3569",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Projectile_641",
@@ -80252,7 +80262,7 @@
       { 
         "FileName": "Item_3643",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Gem_6",
@@ -85840,7 +85850,7 @@
       { 
         "FileName": "Item_3962",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Tiles_33",
@@ -86265,12 +86275,12 @@
       { 
         "FileName": "Item_3988",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       }, 
       { 
         "FileName": "Tiles_467",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -86616,7 +86626,7 @@
       { 
         "FileName": "Item_4009",
         "Type": "Item",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "BuffName": "WellFed",
@@ -89470,7 +89480,7 @@
       { 
         "FileName": "Tiles_467",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -89661,7 +89671,7 @@
       { 
         "FileName": "Tiles_468",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -89851,7 +89861,7 @@
       { 
         "FileName": "Tiles_467",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -90042,7 +90052,7 @@
       { 
         "FileName": "Tiles_468",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -90232,7 +90242,7 @@
       { 
         "FileName": "Tiles_467",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -90423,7 +90433,7 @@
       { 
         "FileName": "Tiles_468",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -90613,7 +90623,7 @@
       { 
         "FileName": "Tiles_467",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -90804,7 +90814,7 @@
       { 
         "FileName": "Tiles_468",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -91518,7 +91528,7 @@
       { 
         "FileName": "Tiles_467",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -91534,7 +91544,7 @@
       { 
         "FileName": "Tiles_468",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -91550,7 +91560,7 @@
       { 
         "FileName": "Tiles_467",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -91566,7 +91576,7 @@
       { 
         "FileName": "Tiles_468",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -92450,7 +92460,7 @@
       { 
         "FileName": "Item_4317",
         "Type": "Item",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -97364,7 +97374,7 @@
       { 
         "FileName": "Tiles_467",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -97555,7 +97565,7 @@
       { 
         "FileName": "Tiles_468",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -99832,7 +99842,7 @@
       { 
         "FileName": "Tiles_467",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -99848,7 +99858,7 @@
       { 
         "FileName": "Tiles_468",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -106890,7 +106900,7 @@
       { 
         "FileName": "Gore_910",
         "Type": "Gore",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tree_Branches_0",
@@ -107445,7 +107455,7 @@
       { 
         "FileName": "Gore_911",
         "Type": "Gore",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Tree_Tops_15",
@@ -107598,7 +107608,7 @@
       { 
         "FileName": "Tiles_99",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
@@ -107719,7 +107729,7 @@
       { 
         "FileName": "Tiles_201",
         "Type": "Tile",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 

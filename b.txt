@@ -94,9 +94,9 @@ Corruptor
 DiggerHead
 DiggerBody
 DiggerTail
-SeekerHead
-SeekerBody
-SeekerTail
+WorldFeederHead
+WorldFeederBody
+WorldFeederTail
 Clinger
 AnglerFish
 GreenJellyfish
@@ -2646,7 +2646,7 @@ RainbowHairDye
 SpeedHairDye
 AngelHalo
 Fez
-Womannquin
+Womannequin
 HairDyeRemover
 BugNet
 FireflyBait
@@ -3938,7 +3938,7 @@ CrimsonSandstone
 WoodYoyo
 CorruptYoyo
 CrimsonYoyo
-JungleYoyo
+Amazon
 Cascade
 Chik
 Code2
@@ -4203,7 +4203,7 @@ NebulaBlaze
 DayBreak
 SuperHealingPotion
 Detonator
-FireworksLauncher
+Celebration
 BouncyDynamite
 PartyGirlGrenade
 AncientManipulator
@@ -5786,7 +5786,6 @@ EmeraldGemspark
 RubyGemspark
 DiamondGemspark
 AmberGemspark
-Womannequin
 PalmTree
 HallowTree
 WeaponsRack
