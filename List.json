@@ -20833,7 +20833,7 @@
       { 
         "FileName": "Armor_7",
         "Type": "Armor",
-        "Sprited": false
+        "Sprited": true
       } 
     ] 
   }, 
