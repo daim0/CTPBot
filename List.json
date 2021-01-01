@@ -6443,6 +6443,11 @@
         "Sprited": true
       }, 
       { 
+        "FileName": "Chain24",
+        "Type": "Chain",
+        "Sprited": false
+      }, 
+      { 
         "FileName": "Gore_375",
         "Type": "Gore",
         "Sprited": false
@@ -6467,6 +6472,11 @@
         "FileName": "NPC_260",
         "Type": "NPC",
         "Sprited": true
+      }, 
+      { 
+        "FileName": "Chain25",
+        "Type": "Chain",
+        "Sprited": false
       }, 
       { 
         "FileName": "Gore_375",
@@ -98581,7 +98591,7 @@
         "Sprited": true
       }, 
       { 
-        "FileName": "Tiles_65",
+        "FileName": "Tiles_63",
         "Type": "Tile",
         "Sprited": true
       } 
@@ -98597,7 +98607,7 @@
         "Sprited": true
       }, 
       { 
-        "FileName": "Tiles_64",
+        "FileName": "Tiles_65",
         "Type": "Tile",
         "Sprited": true
       } 
@@ -98613,7 +98623,7 @@
         "Sprited": true
       }, 
       { 
-        "FileName": "Tiles_63",
+        "FileName": "Tiles_64",
         "Type": "Tile",
         "Sprited": true
       } 

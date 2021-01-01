@@ -17,7 +17,8 @@ var Files  = [];
 // On startup.
 client.once('ready', () => {
 	console.log('Ctp Bot running.\nContact Daim if help is needed.\n Current list length: ' + `${spriteList.length}`);
-    
+    client.user.setActivity("Just make it look good!");
+
     //Declaring the directory were all the sprites are located
     var directory2 = './CalamityTexturePack';
 
