@@ -50,7 +50,7 @@ client.once('ready', () => {
     //unzipping the CalamityTexturePack.zip into the CalamityTexturePack folder    
     function unzip(){
       fs.createReadStream('./CalamityTexturePack.zip')
-        .pipe(unzipper.Extract({ path: '.' }));}
+        .pipe(unzipper.Extract({ path: './CalamityTexturePack' }));}
     
     //reading and writing every file path into Files    
     function ThroughDirectory(Directory) {
@@ -82,7 +82,7 @@ client.once('ready', () => {
     }
     //jajaja old same old same
     setTimeout(unzip, 1000);
-    ThroughDirectory("./CalamityTexturePack");
+    setTimeout(ThroughDirectory, 1500,"./CalamityTexturePack");
     setTimeout(RunPythonScript, 6000);
 });
 
@@ -319,7 +319,7 @@ client.on('message', message => {
         let hours = Math.floor(client.uptime / 3600000) % 24;
         let minutes = Math.floor(client.uptime / 60000) % 60;
         let seconds = Math.floor(client.uptime / 1000) % 60;
-        message.channel.send("List.json", {files: ["List.json"]});
+
         const embed = new Discord.MessageEmbed()
         .setTitle("Uptime")
         .setDescription("```" + `Uptime:\n${days}d ${hours}h ${minutes}m ${seconds}s` + "```")
