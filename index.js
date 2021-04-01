@@ -730,4 +730,3 @@ client.on('message', message => {
 
 // Login to discord true hackerman style :sugnlasses.
 client.login(process.env.token);
-client.login(process.env.token);
