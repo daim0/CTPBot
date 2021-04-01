@@ -83,7 +83,7 @@ client.once('ready', () => {
     //jajaja old same old same
     setTimeout(unzip, 1000);
     ThroughDirectory("./CalamityTexturePack");
-    setTimeout(RunPythonScript, 5000);
+    setTimeout(RunPythonScript, 6000);
 });
 
 // Read messages.
@@ -729,4 +729,5 @@ client.on('message', message => {
 
 
 // Login to discord true hackerman style :sugnlasses.
+client.login(process.env.token);
 client.login(process.env.token);

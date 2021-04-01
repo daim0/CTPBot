@@ -2739,7 +2739,7 @@
       { 
         "FileName": "WallOfFlesh",
         "Type": "Extra",
-        "Sprited": true
+        "Sprited": false
       }, 
       { 
         "FileName": "Gore_132",
