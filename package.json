@@ -6,7 +6,9 @@
   "dependencies": {
     "archiver": "^5.0.2",
     "difflib": "^0.2.4",
-    "discord.js": "^12.2.0",
+    "discord.js": "^12.5.2",
+    "python-shell": "^3.0.0",
+    "request": "^2.88.2",
     "unzipper": "^0.10.11"
   },
   "devDependencies": {},

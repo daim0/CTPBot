@@ -3,22 +3,23 @@ const client = new Discord.Client();
 
 // import json.
 const fileName = './List.json';
+var spriteList;
 const { prefix, token } = require('./config.json');
 const fs = require('fs');
 const fs1 = require("fs").promises;
+const request = require(`request`);
 var Path = require("path");
-const spriteList = require(fileName);
 const thingy = " | ";
 var difflib = require('difflib');
 var unzipper = require('unzipper');
 const { time, Console } = require('console');
 var Files  = [];
 
+//const spawn = require("child_process").spawn;
+const {PythonShell} = require('python-shell');
+
 // On startup.
 client.once('ready', () => {
-	console.log('Ctp Bot running.\nContact Daim if help is needed.\n Current list length: ' + `${spriteList.length}`);
-    client.user.setActivity("Just make it look good!");
-
     //Declaring the directory were all the sprites are located
     var directory2 = './CalamityTexturePack';
 
@@ -26,10 +27,30 @@ client.once('ready', () => {
     fs1.rmdir(directory2, { recursive: true }), err => {
         if (err) throw err;}
     
+    function download(url){
+        request.get(url)
+            .on('error', console.error)
+            .pipe(fs.createWriteStream('CalamityTexturePack.zip'));
+    }    
+
+    const channel = client.channels.cache.get('551409584619651115');
+    let id = 0;
+    channel.messages.fetch().then(messages => {
+        messages.forEach(msg => {
+            if(msg.attachments.last()){
+                if(msg.attachments.last().name === 'CalamityTexturePack.zip' && id === 0){//Download only the vanilla texture pack
+                   download(msg.attachments.last().url);
+                   console.log(msg.attachments.last());
+                   id = msg.attachments.last().id;
+                }
+            }     
+        });
+    });
+
     //unzipping the CalamityTexturePack.zip into the CalamityTexturePack folder    
     function unzip(){
       fs.createReadStream('./CalamityTexturePack.zip')
-        .pipe(unzipper.Extract({ path: './CalamityTexturePack' }));}
+        .pipe(unzipper.Extract({ path: '.' }));}
     
     //reading and writing every file path into Files    
     function ThroughDirectory(Directory) {
@@ -39,9 +60,30 @@ client.once('ready', () => {
             else return Files.push(Absolute);
         });
     }
+
+    function RunPythonScript()
+    {
+        console.log("Start python script")
+        let pyshell = new PythonShell('./ListPyScripts/PackTool.py');
+        pyshell.on('message', function(message) {
+            console.log(message);
+          })
+          
+          pyshell.end(function (err) {
+            if (err){
+              throw err;
+            };
+            console.log('finished');
+            spriteList  = require(fileName);
+            console.log(Files)
+            console.log('Ctp Bot running.\nContact Daim if help is needed.\n Current list length: ' + `${spriteList.length}`);
+            client.user.setActivity("Just make it look good! [Pack id: "+id+"]");
+          });
+    }
     //jajaja old same old same
     setTimeout(unzip, 1000);
     ThroughDirectory("./CalamityTexturePack");
+    setTimeout(RunPythonScript, 5000);
 });
 
 // Read messages.
@@ -360,7 +402,7 @@ client.on('message', message => {
         .setTitle("Bot Info")
         .setDescription("```" + 
         "CTP Bot:\n" +
-        "Current version: 1.0.0\n" + 
+        "Current version: 1.1.0\n" + 
         "Bot github: https://github.com/daim0/CTPBot\n" +
         "If you come across any errors notify daim#6490 or Felipe350#5384 on discord." +
         "```")
