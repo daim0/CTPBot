@@ -77,7 +77,7 @@ client.once('ready', () => {
             spriteList  = require(fileName);
             console.log(Files)
             console.log('Ctp Bot running.\nContact Daim if help is needed.\n Current list length: ' + `${spriteList.length}`);
-            client.user.setActivity("Just make it look good! [Pack id: "+id+"]");
+            client.user.setActivity("Just make it look good! [Pack id: "+id+"] | "+Files.lenght+"/12608");
           });
     }
     //jajaja old same old same
