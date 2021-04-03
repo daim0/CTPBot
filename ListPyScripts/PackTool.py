@@ -2,8 +2,8 @@ replacement = open("./ListPyScripts/List.txt", "r+")
 copy = open("./List.json", "r+")
 check = False
 write = False
-missing = False
 existing = False
+directories = ["","Content/Images/","Content/Images/Armor/","Content/Images/Backgrounds/","Content/Images/Misc/","Content/Images/Misc/TileOutlines/","Content/Images/Misc/VortexSky/","Content/Images/TownNPCs/","Content/Images/UI/","Content/Images/UI/Bestiary/","Content/Images/UI/CharCreation/","Content/Images/UI/Creative/","Content/Images/UI/MiniMap/","Content/Images/UI/MiniMap/Retro/","Content/Images/UI/WorldGen/"]
 
 for line in replacement:
     text = line.split()
@@ -12,15 +12,15 @@ for line in replacement:
         if check == True:
             check = False
             filename = word.split('"')
-            try:
-                f = open(f"./CalamityTexturePack/Content/Images/{filename[1]}.png")
-                existing = True
-            except Exception:
-                missing = True                        
-        
+            for directory in directories:
+                try:
+                    f = open(f"./CalamityTexturePack/{directory}{filename[1]}.png")
+                    existing = True
+                except Exception:
+                    pass
+
         if write == True:
-            if missing == True:
-                missing = False
+            if existing == False:
                 word = "false"
 
             if existing == True:
